@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
 :---: | :--------: | :------: | :------: | :--------: | :-------------:
-04 | 2023-01-26 | **[Slides 02]** | [Code 02] | [PDF 02] | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+04 | 2023-01-26 | **[Slides 04]** | [Code 04] | [PDF 04] | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - The **Reveal JS (HTML) Slides** link provides the version of the slides (in HTML) that I suggest you focus on during class.
 - The Quarto file links provide the code I used (in [Quarto](https://quarto.org/)) to build the slides.
