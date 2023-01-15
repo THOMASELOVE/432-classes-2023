@@ -1,4 +1,4 @@
-# 432 Class 02: 2023-01-24
+# 432 Class 03: 2023-01-24
 
 [Main Website](https://thomaselove.github.io/431-2023/) | [Calendar](https://thomaselove.github.io/431-2023/calendar.html) | **Syllabus** | **Notes** | [Contact Us](https://thomaselove.github.io/431-2023/contact.html) | [Canvas](https://canvas.case.edu) | [Data and Code](https://github.com/THOMASELOVE/432-data)
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
