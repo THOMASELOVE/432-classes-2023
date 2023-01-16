@@ -50,6 +50,13 @@ To come.
 - Building and Validating Linear Prediction Models
     - See the [431 Course Notes](https://thomaselove.github.io/431-notes/), as well as the [432 Course Notes](https://thomaselove.github.io/432-notes/). Both will remain online until 2023-06-01.
 
+## TA Office Hours
+
+TA Office Hours (delivered via Zoom) begin Friday 2023-01-20, and run through Sunday 2023-04-30, other than Spring Break (no office hours March 10-17.) We have office hours scheduled every day of the week.
+
+- The schedule is now available on [the Calendar] and [the Contact Us page]. 
+- Details on joining the Zoom sessions for Office Hours will be posted to our Shared (Google) Drive on Thursday 2023-01-19.
+
 ## What Should I Be Working On?
 
 By Wednesday 2023-01-18 at Noon:
