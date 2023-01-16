@@ -13,7 +13,11 @@ Class | Date | PDF | Quarto .qmd | Recording
 - The PDF link provides the version of the slides that I suggest you focus on during class.
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 
-## Today's Agenda
+## Announcements
+ 
+To come.
+
+## References from Today's Slides
 
 - Course Mechanics
     - [Main Website](https://thomaselove.github.io/432-2023/), [Calendar](https://thomaselove.github.io/432-2023/calendar.html), [Syllabus](https://thomaselove.github.io/432-syllabus-2023/), [Course Notes](https://thomaselove.github.io/432-notes/)
@@ -45,10 +49,6 @@ Class | Date | PDF | Quarto .qmd | Recording
     - It's still worth it to learn about how Quarto works, and why it differs from R Markdown when it does.
 - Building and Validating Linear Prediction Models
     - See the [431 Course Notes](https://thomaselove.github.io/431-notes/), as well as the [432 Course Notes](https://thomaselove.github.io/432-notes/). Both will remain online until 2023-06-01.
-
-## Announcements
- 
-To come.
 
 ## What Should I Be Working On?
 
