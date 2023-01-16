@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
-01 | 2023-01-17 | **[Slides 01](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides01.pdf)** | **[Code 01](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+01 | 2023-01-17 | **[Slides 01](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides01.pdf)** | **[Code 01](432-slides-2023/blob/main/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - The PDF link provides the version of the slides that I suggest you focus on during class.
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
