@@ -63,7 +63,7 @@ Before our next class Thursday 2023-01-19 at 1 PM
 1. Review the [website](https://thomaselove.github.io/432-2023/) and [Calendar](https://thomaselove.github.io/432-2023/calendar.html), and skim the [Syllabus](https://thomaselove.github.io/432-syllabus-2023/) and [Course Notes](https://thomaselove.github.io/432-notes/).
 2. Buy Jeff Leek's How to be a Modern Scientist (then read this by the end of January - it should take ~ 4 hours.)
 3. Get started installing or updating your R and RStudio and install these R Packages and data/code from 432-Data.
-4. Get started on Lab 1, which is due Monday 2023-01-23 at 9 PM.
+4. Get started on [Lab 1](https://thomaselove.github.io/432-2023/lab1.html), which is due Monday 2023-01-23 at 9 PM. The "431 Review" Chapters from the [432 Course Notes](https://thomaselove.github.io/432-notes/) should be helpful.
 
 ## One Last Thing
 
