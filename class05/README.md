@@ -22,10 +22,6 @@ To come.
 
 To come.
 
-## Learning about Quarto (and making the switch from R Markdown)
-
-See the resources linked in the [Class 01 README](https://github.com/THOMASELOVE/432-classes-2023/tree/main/class01).
-
 ## One Last Thing
 
 To come.
