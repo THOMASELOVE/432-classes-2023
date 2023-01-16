@@ -12,6 +12,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 - The PDF link provides the version of the slides that I suggest you focus on during class.
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
+- We attempt to record every 432 class and post the recording to Canvas.
 
 ## Announcements
  
