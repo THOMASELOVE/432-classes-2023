@@ -56,6 +56,9 @@ TA Office Hours (delivered via Zoom) begin Friday 2023-01-20, and run through Su
 
 - The schedule is now available on [the Calendar](https://thomaselove.github.io/432-2023/calendar.html) and [the Contact Us page](https://thomaselove.github.io/432-2023/contact.html). 
 - Details on joining the Zoom sessions for Office Hours will be posted to our Shared (Google) Drive on Thursday 2023-01-19.
+- No appointment is necessary - please just drop in.
+
+Our [Campuswire discussion forum](https://thomaselove.github.io/432-2023/contact.html#once-class-starts) is open 24 hours a day, 7 days a week, and is a great place to ask (and answer) questions.
 
 ## What Should I Be Working On?
 
