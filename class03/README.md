@@ -6,13 +6,12 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Today's Slides
 
-Class | Date | Reveal JS (HTML) | Quarto .qmd | PDF file | Recording
-:---: | :--------: | :------: | :------: | :--------: | :-------------:
-03 | 2023-01-24 | **[Slides 03]** | [Code 03] | [PDF 03] | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+Class | Date | PDF | Quarto .qmd | Recording
+:---: | :--------: | :------: | :------: | :-------------:
+03 | 2023-01-24 | **[Slides 03](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides03.pdf)** | **[Code 03](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides03.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-- The **Reveal JS (HTML) Slides** link provides the version of the slides (in HTML) that I suggest you focus on during class.
-- The Quarto file links provide the code I used (in [Quarto](https://quarto.org/)) to build the slides.
-- The PDF file is a nearly-complete version of the posted HTML slides in a possibly more useful format. To print RevealJS slides to pdf from the HTML Link, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+- The PDF link provides the version of the slides that I suggest you focus on during class.
+- The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 
 ## Announcements
  
