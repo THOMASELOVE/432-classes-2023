@@ -79,7 +79,7 @@ Before our next class Thursday 2023-01-19 at 1 PM
 
 ## One Last Thing
 
-I am in a play that runs on Friday and Saturday evenings at 8 PM from January 27 through February 18 at Aurora Community Theatre, in Aurora, Ohio. 
+I am in a play that runs on Friday and Saturday evenings at 8 PM starting January 27 and running through February 18 at Aurora Community Theatre, in Aurora, Ohio. 
 
 It's called "[The Play That Goes Wrong](https://www.youtube.com/watch?v=DOWO4gq-whg)." It is widely regarded as one of the funniest plays ever produced, and is sometimes referred to as a hybrid of Monty Python and Sherlock Holmes. I am playing a leading role, that of Chris, the play's director and one of its stars, and I'm not going to tell you anything more about it, except that I am exceedingly proud of the show, and think you will like it. 
 
