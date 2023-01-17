@@ -16,7 +16,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
  
-To come.
+1. 
 
 ## References from Today's Slides
 
@@ -78,4 +78,10 @@ Before our next class Thursday 2023-01-19 at 1 PM
 
 ## One Last Thing
 
-To come.
+I am in a play that runs on Friday and Saturday evenings at 8 PM from January 27 through February 18 at Aurora Community Theatre, in Aurora, Ohio. 
+
+It's called "[The Play That Goes Wrong](https://www.youtube.com/watch?v=DOWO4gq-whg)." It is widely regarded as one of the funniest plays ever produced, and is sometimes referred to as a hybrid of Monty Python and Sherlock Holmes. I am playing a leading role, that of Chris, the play's director and one of its stars, and I'm not going to tell you anything more about it, except that I am exceedingly proud of the show, and think you will like it. 
+
+If you'd like to come, that would be great, and all of the information you need to buy tickets (they are **selling very quickly**) is available by clicking the "Buy Tickets" link at <https://www.auroracommunitytheatre.com/>. I'm always delighted to see anyone I know at any show I do. Please do come if you are interested, and if you are comfortable being around people who are unmasked. Thank you.
+
+If you wouldn't like to come, that's 100% OK. I have various professional roles (as a teacher, for example) where I have some nominal control over other people's happiness or work. If you're someone who interacts with me professionally, please feel no obligation to attend a show I'm in. Attending (or not attending) a show I'm in carries no weight with me at all in any professional capacity.
