@@ -16,7 +16,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
  
-1. 
+1. Welcome to 432! Please complete the Welcome to 432 Survey at <https://bit.ly/432-2023-welcome-survey> by noon tomorrow. Thanks so much to those of you who've done this already.
+2. You can do this. It's a lot of work, but it's worth it.
 
 ## References from Today's Slides
 
@@ -84,4 +85,4 @@ It's called "[The Play That Goes Wrong](https://www.youtube.com/watch?v=DOWO4gq-
 
 If you'd like to come, that would be great, and all of the information you need to buy tickets (they are **selling very quickly**) is available by clicking the "Buy Tickets" link at <https://www.auroracommunitytheatre.com/>. I'm always delighted to see anyone I know at any show I do. Please do come if you are interested, and if you are comfortable being around people who are unmasked. Thank you.
 
-If you wouldn't like to come, that's 100% OK. I have various professional roles (as a teacher, for example) where I have some nominal control over other people's happiness or work. If you're someone who interacts with me professionally, please feel no obligation to attend a show I'm in. Attending (or not attending) a show I'm in carries no weight with me at all in any professional capacity.
+If you wouldn't like to come, that's **100% OK**. I have various professional roles (as a teacher, for example) where I have some nominal control over other people's happiness or work. If you're someone who interacts with me professionally, please feel no obligation to attend a show I'm in. Attending (or not attending) a show I'm in carries no weight with me at all in any professional capacity.
