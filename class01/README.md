@@ -16,7 +16,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
  
-1. Welcome to 432! Please complete the Welcome to 432 Survey at <https://bit.ly/432-2023-welcome-survey> by noon tomorrow. Thanks so much to those of you who've done this already.
+1. Welcome to 432! Please complete the Welcome to 432 Survey at <https://bit.ly/432-2023-welcome-survey> by noon tomorrow. 
 2. You can do this. It's a lot of work, but it's worth it.
 
 ## References from Today's Slides
