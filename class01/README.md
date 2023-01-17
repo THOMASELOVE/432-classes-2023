@@ -67,7 +67,8 @@ Our [Campuswire discussion forum](https://thomaselove.github.io/432-2023/contact
 By Wednesday 2023-01-18 at Noon:
 
 1. Get officially registered (SIS) for the right flavor of the course (PQHS 432, CRSP 432 or MPHP 432) if you're not already.
-2. Welcome to 432 survey at https://bit.ly/432-2023-welcome-survey complete by noon tomorrow.
+2. Welcome to 432 survey at https://bit.ly/432-2023-welcome-survey complete by noon tomorrow. 
+    - Thanks to the 29 of you who've already done this as of 9:40 this morning.
 3. Accept your invitation to Campuswire (see your email or [visit here](https://thomaselove.github.io/432-2023/contact.html#once-class-starts)) and then answer my little poll question there, please.
 
 Before our next class Thursday 2023-01-19 at 1 PM
