@@ -16,7 +16,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
  
-To come.
+1. TA Office Hours begin Friday afternoon. A complete schedule, with Zoom links, is available on our Shared Google Drive, on Canvas, and on Campuswire. 
 
 ## What Should I Be Working On?
 
