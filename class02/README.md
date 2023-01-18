@@ -20,7 +20,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## What Should I Be Working On?
 
-To come.
+- Lab 1, due Monday 2023-01-23 at 9 PM to Canvas.
 
 ## One Last Thing
 
