@@ -27,6 +27,7 @@ Thanks to all of you for completing the survey on time. Here's a [summary of my 
 
 - [Lab 1](https://thomaselove.github.io/432-2023/lab1.html), due Monday 2023-01-23 at 9 PM to Canvas.
 - Reading Jeff Leek's *How to be a Modern Scientist* [available from Leanpub](https://leanpub.com/modernscientist). (Complete by January 31.)
+- Familiarize yourself with the other Course Materials on the [Website](https://thomaselove.github.io/432-2023/).
 
 ## One Last Thing
 
