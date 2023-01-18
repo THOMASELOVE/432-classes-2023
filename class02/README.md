@@ -17,6 +17,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## Announcements
  
 1. TA Office Hours begin Friday afternoon. A complete schedule, with Zoom links, is available on our Shared Google Drive, on Canvas, and on Campuswire. 
+2. I've added Chapters 12 and 13 to the Course Notes since our last class. The references may look a little weird - those will get fixed when I've finished posting the main chapters. My current guess is that there will be 26 chapters in total, so in that sense, you have half the notes now.
 
 ## What Should I Be Working On?
 
