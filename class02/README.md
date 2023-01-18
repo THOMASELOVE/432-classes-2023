@@ -21,7 +21,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## What Should I Be Working On?
 
-- Lab 1, due Monday 2023-01-23 at 9 PM to Canvas.
+- [Lab 1](https://thomaselove.github.io/432-2023/lab1.html), due Monday 2023-01-23 at 9 PM to Canvas.
+- Reading Jeff Leek's *How to be a Modern Scientist* [available from Leanpub](https://leanpub.com/modernscientist). (Complete by January 31.)
 
 ## One Last Thing
 
