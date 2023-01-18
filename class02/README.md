@@ -30,4 +30,8 @@ Thanks to all of you for completing the survey on time. Here's a [summary of my 
 
 ## One Last Thing
 
-To come.
+![](snowtilesTwitter.png)
+
+[Origin and development of a Snowflake Map](https://waterdata.usgs.gov/blog/snow-tiles-demo/) by Althea Archer (posted 2023-01-11) provides reproducible R code demonstrating the evolution of a recent data visualization of snow cover in the continental United States. This work is a product of the USGS (United States Geological Survey) - the nation's largest water, earth and biological science and civilian mapping agency.
+
+I learned about this work from [this post at FlowingData](https://flowingdata.com/2023/01/17/snow-cover-mapped-using-snowflakes/).
