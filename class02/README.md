@@ -21,7 +21,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Welcome to 432 Survey
 
-Thanks to those of you who completed the survey on time. Dr. Love will provide some details in class.
+Thanks to all of you for completing the survey on time. Here's a [summary of my feedback (PDF)](432-welcome-survey-results.pdf).
 
 ## What Should I Be Working On?
 
