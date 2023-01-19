@@ -32,9 +32,9 @@ Thanks to all of you for completing the survey on time. Here's a [summary of my 
 
 Votes | Zero (that's OK) | Once | 2 to 5 times | 6 to 10 times | More than 10 times
 ---: | -----: | -----: | -----: | -----: | -----:
-n = 48 | 27% | 17% | 31% | 8% | 17%
+n = 49 | 29% | 16% | 31% | 8% | 16%
 
-As of 2023-01-18 at 10:15 PM
+As of 2023-01-19 at 23:50 PM
 
 ## What Should I Be Working On?
 
