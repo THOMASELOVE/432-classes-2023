@@ -23,6 +23,16 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 Thanks to all of you for completing the survey on time. Here's a [summary of my feedback (PDF)](432-welcome-survey-results.pdf).
 
+## Campuswire Poll
+
+**About how many times have you opened RStudio in 2023?**
+
+Votes | Zero (that's OK) | Once | 2 to 5 times | 6 to 10 times | More than 10 times
+---: | -----: | -----: | -----: | -----: | -----:
+n = 48 | 27% | 17% | 31% | 8% | 17%
+
+As of 2023-01-18 at 10:15 PM
+
 ## What Should I Be Working On?
 
 - [Lab 1](https://thomaselove.github.io/432-2023/lab1.html), due Monday 2023-01-23 at 9 PM to Canvas.
@@ -41,4 +51,5 @@ I learned about this work from [this post at FlowingData](https://flowingdata.co
 
 - The Play That Goes Wrong runs from January 27 - February 18, 2023 on Friday and Saturday nights at 8 PM at [Aurora Community Theatre](https://www.auroracommunitytheatre.com/).
 - Details at https://github.com/THOMASELOVE/theater and https://www.auroracommunitytheatre.com/
+- Tickets are going quite quickly. It is plausible that some or even many performances will sell out in advance, so if you want to go, please buy tickets soon.
 - Thank you.
