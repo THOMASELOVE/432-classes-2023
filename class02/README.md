@@ -14,6 +14,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 - See [the resources page](https://github.com/THOMASELOVE/432-classes-2023/tree/main/sources#learning-about-quarto-and-making-the-switch-from-r-markdown) for more advice on using Quarto and transitioning to Quarto from R Markdown. 
 
+![](https://imgs.xkcd.com/comics/methodology_trial.png) from <https://xkcd.com/2726>
+
 ## Announcements
  
 1. **TA Office Hours** begin tomorrow (Friday) afternoon. A complete schedule, with Zoom links, is now available on our Shared Google Drive, on Canvas, and on Campuswire. 
