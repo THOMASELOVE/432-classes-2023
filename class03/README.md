@@ -18,6 +18,24 @@ Class | Date | PDF | Quarto .qmd | Recording
  
 To come.
 
+## Additional Resources on Survey Weights
+
+The `survey` package home page: http://r-survey.r-forge.r-project.org/survey/index.html
+
+### Tutorials...
+
+- https://www.r-bloggers.com/2015/09/linear-models-with-weighted-observations/
+- https://stackoverflow.com/questions/10268689/weighted-regression-in-r
+- https://online.stat.psu.edu/stat501/lesson/r-help-13-weighted-least-squares
+
+### On NHANES specifically...
+
+- https://wwwn.cdc.gov/nchs/nhanes/analyticguidelines.aspx
+- https://wwwn.cdc.gov/nchs/nhanes/tutorials/Module3.aspx
+- https://stylizeddata.com/how-to-use-survey-weights-in-r/
+- https://stats.idre.ucla.edu/r/faq/how-can-i-do-regression-estimation-with-survey-data/
+- http://asdfree.com/national-health-and-nutrition-examination-survey-nhanes.html
+
 ## What Should I Be Working On?
 
 To come.
