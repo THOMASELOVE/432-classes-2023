@@ -42,4 +42,15 @@ To come.
 
 ## One Last Thing
 
-To come.
+![](snowtilesTwitter.png)
+
+[Origin and development of a Snowflake Map](https://waterdata.usgs.gov/blog/snow-tiles-demo/) by Althea Archer (posted 2023-01-11) provides reproducible R code demonstrating the evolution of a recent data visualization of snow cover in the continental United States. This work is a product of the USGS (United States Geological Survey) - the nation's largest water, earth and biological science and civilian mapping agency.
+
+I learned about this work from [this post at FlowingData](https://flowingdata.com/2023/01/17/snow-cover-mapped-using-snowflakes/).
+
+## Shameless Promotion: The Play That Goes Wrong 
+
+- The Play That Goes Wrong runs from January 27 - February 18, 2023 on Friday and Saturday nights at 8 PM at [Aurora Community Theatre](https://www.auroracommunitytheatre.com/).
+- Details at https://github.com/THOMASELOVE/theater and https://www.auroracommunitytheatre.com/
+- Tickets are going quite quickly. It is plausible that some or even many performances will sell out in advance, so if you want to go, please buy tickets soon.
+- Thank you.
