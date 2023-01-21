@@ -14,13 +14,18 @@ Class | Date | PDF | Quarto .qmd | Recording
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 - See [the resources page](https://github.com/THOMASELOVE/432-classes-2023/tree/main/sources#learning-about-quarto-and-making-the-switch-from-r-markdown) for more advice on using Quarto and transitioning to Quarto from R Markdown. 
 
-## Announcements
- 
-To come.
+# Announcements
 
-## Additional Resources on Survey Weights
+1. Our Answer Sketch for Lab 1 (including both .qmd and .pdf) **will be available by class time** on our Shared Drive.
+2. The **Minute Paper after Class 03** will be **available by class time** as well, and is due Wednesday 2023-01-25 at Noon.
 
-The `survey` package home page: http://r-survey.r-forge.r-project.org/survey/index.html
+## References related to Today's Slides
+
+Three primary sources:
+
+- Ramzi W. Nahhas, [Introduction to Regression Methods for Public Health Using R](https://bookdown.org/rwnahhas/RMPH/), in particular the Chapter on [Analyzing Complex Survey Data](https://bookdown.org/rwnahhas/RMPH/survey.html).
+- [Example R code to replicate NCHS Data Brief No. 303, Figure 1](https://wwwn.cdc.gov/nchs/data/tutorials/DB303_Fig1_R.R)
+- The `survey` package home page: http://r-survey.r-forge.r-project.org/survey/index.html
 
 ### Tutorials...
 
@@ -38,9 +43,11 @@ The `survey` package home page: http://r-survey.r-forge.r-project.org/survey/ind
 
 ## What Should I Be Working On?
 
-To come.
+1. Please complete the **Minute Paper after Class 03** by noon tomorrow (Wednesday 2023-01-25)
+2. Continue reading [How To Be A Modern Scientist](https://leanpub.com/modernscientist) (so you're done by the end of January)
+3. Get started on [Lab 2](https://thomaselove.github.io/432-2023/lab2.html) due next Monday 2023-01-30 at 9 PM.
 
-## One Last Thing
+## One Last Thing (one more time)
 
 ![](snowtilesTwitter.png)
 
