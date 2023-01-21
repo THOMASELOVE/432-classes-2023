@@ -17,7 +17,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 # Announcements
 
 1. Our Answer Sketch for Lab 1 (including both .qmd and .pdf) **will be available by class time** on our Shared Drive.
-2. The **Minute Paper after Class 03** will be **available by class time** as well, and is due Wednesday 2023-01-25 at Noon.
+2. The [Minute Paper after Class 03](https://bit.ly/432-2023-minute-03) is now available, and is due Wednesday 2023-01-25 at Noon.
 
 ## References related to Today's Slides
 
@@ -43,7 +43,7 @@ Three primary sources:
 
 ## What Should I Be Working On?
 
-1. Please complete the **Minute Paper after Class 03** by noon tomorrow (Wednesday 2023-01-25)
+1. Please complete the [Minute Paper after Class 03](https://bit.ly/432-2023-minute-03) by noon tomorrow (Wednesday 2023-01-25)
 2. Continue reading [How To Be A Modern Scientist](https://leanpub.com/modernscientist) (so you're done by the end of January)
 3. Get started on [Lab 2](https://thomaselove.github.io/432-2023/lab2.html) due next Monday 2023-01-30 at 9 PM.
 
