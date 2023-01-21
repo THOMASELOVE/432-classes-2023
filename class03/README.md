@@ -18,7 +18,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. Our Answer Sketch for Lab 1 (including both .qmd and .pdf) **will be available by class time** on our Shared Drive.
 2. The [Minute Paper after Class 03](https://bit.ly/432-2023-minute-03) is now available, and is due Wednesday 2023-01-25 at Noon.
-3. I rearranged the current Chapters 11-13 in the [Course Notes](https://thomaselove.github.io/432-notes/), and added Chapter 14 on fitting linear models with `ols` since we last met.
+3. I rearranged the current Chapters 11-13 in the [Course Notes](https://thomaselove.github.io/432-notes/), and added Chapter 14 on fitting linear models with `ols` since our last class.
 
 ## References related to Today's Slides
 
