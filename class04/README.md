@@ -27,4 +27,4 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## One Last Thing
 
-To come.
+Looking for R resources? You might want to bookmark [The Big Book of R](https://www.bigbookofr.com/index.html#your-last-ever-bookmark) which is a collection of links to more than 200 books about R.
