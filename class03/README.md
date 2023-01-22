@@ -19,7 +19,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. Our Answer Sketch for Lab 1 (including both .qmd and .pdf) **will be available by class time** on our Shared Drive.
 2. The [Minute Paper after Class 03](https://bit.ly/432-2023-minute-03) is now available, and is due Wednesday 2023-01-25 at Noon.
 3. I edited Chapter 3 (so it really produces 90% confidence intervals for the t tests), and rearranged the current Chapters 11-13 in the [Course Notes](https://thomaselove.github.io/432-notes/), and added Chapter 14 on fitting linear models with `ols` since our last class. 
-4. The material on survey weights that we'll discuss today in class isn't (on the whole) part of the Course Notes, so the slides and references below will be your main sources.
+4. The material on survey weights that we'll discuss today in class isn't really part of the Course Notes, so the slides and references below will be your main sources.
 
 ## References related to Today's Slides
 
