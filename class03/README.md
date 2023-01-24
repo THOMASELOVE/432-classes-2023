@@ -21,6 +21,18 @@ Class | Date | PDF | Quarto .qmd | Recording
 3. I edited Chapter 3 (so it really produces 90% confidence intervals for the t tests), and rearranged the current Chapters 11-13 in the [Course Notes](https://thomaselove.github.io/432-notes/), renamed the files (in a way that shouldn't affect you, but we'll see), and added Chapter 14 on fitting linear models with `ols` since our last class. 
 4. The material on survey weights that we'll discuss today in class isn't really part of the Course Notes, so the slides and references below will be your main sources.
 
+## On Asking Questions
+
+1. Using the tools we've set up for feedback, in particular Campuswire and TA office hours, is definitely the best approach.
+2. When asking a question of us or anyone else about coding, it's always better for you to err on the side of sending along your entire Quarto file, so that we can attempt to replicate the problem you are observing, rather than just sending us a piece of your code, which may or may not be where the trouble lies. Thanks!
+
+## On Categorizing Quantitative Data
+
+Categorizing quantitative information before graphing it is generally something to avoid. Show as much of the data as possible, would be my first suggestion. But if it cannot be helped, then I am aware of two particularly appropriate tools for categorizing quantitative data:
+
+- the `cut_interval` function from the **ggplot2** package (part of the tidyverse) - details at <https://ggplot2.tidyverse.org/reference/cut_interval.html>
+- the `cut2` function from the **Hmisc** package, which is the one I usually use, for example, there is a demonstration in Section 4.3.1 of the 432 Course Notes at <https://thomaselove.github.io/432-notes/431review2.html#creating-a-low-and-high-group-on-sedate>
+
 ## References related to Today's Slides
 
 Three primary sources:
