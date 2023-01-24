@@ -16,14 +16,15 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 # Announcements
 
-1. Our Answer Sketch for Lab 1 (including both .qmd and .pdf) is now available on our Shared Drive.
+1. Our **Answer Sketch for Lab 1** (including both .qmd and .pdf) is now available on our Shared Drive.
+    - A few people had trouble knitting their files into an HTML that could be viewed successfully on Canvas. Take a look at what you're submitting and make sure it looks like what you're planning for, and also, be sure to include all of the YAML pieces included in the template, not just some of them. Thanks!
 2. The [Minute Paper after Class 03](https://bit.ly/432-2023-minute-03) is now available, and is due Wednesday 2023-01-25 at Noon.
 3. I edited Chapter 3 (so it really produces 90% confidence intervals for the t tests), and rearranged the current Chapters 11-13 in the [Course Notes](https://thomaselove.github.io/432-notes/), renamed the files (in a way that shouldn't affect you, but we'll see), and added Chapter 14 on fitting linear models with `ols` since our last class. 
-4. The material on survey weights that we'll discuss today in class isn't really part of the Course Notes, so the slides and references below will be your main sources.
+4. The material on survey weights that we'll discuss today isn't really part of the Course Notes, so the slides and references below will be your main sources.
 
 ## On Asking Questions
 
-1. Using the tools we've set up for feedback, in particular Campuswire and TA office hours, is definitely the best approach.
+1. Using the tools we've set up for feedback, in particular Campuswire and TA office hours, is definitely the best approach to getting an answer in a timely fashion. Emailing Dr. Love in the evening (particularly this week and the following three weekends) is a way for your question to be answered too late to do you any good.
 2. When asking a question of us or anyone else about coding, it's always better for you to err on the side of sending along your entire Quarto file, so that we can attempt to replicate the problem you are observing, rather than just sending us a piece of your code, which may or may not be where the trouble lies. Thanks!
 
 ## On Categorizing Quantitative Data
