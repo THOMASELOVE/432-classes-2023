@@ -16,6 +16,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## From [On the 12th Day of Christmas, a Statistician Sent to Me...](https://www.bmj.com/content/379/bmj-2022-072883)
 
+> To elicit the most common issues encountered during statistical peer review, an internal survey was administered to The BMJ’s statistical editors. Twelve items were identified, and each are described here. There is one item for each of the 12 days of Christmas, the period between 25 December and 5 January when the statisticians conduct their reviews in the mindset of the Grinch, but with the kind heart of *Miracle On 34th Street*.
+
 ![](christmas4.png)
 
 ## Announcements
