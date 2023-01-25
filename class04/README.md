@@ -14,6 +14,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 - See [the resources page](https://github.com/THOMASELOVE/432-classes-2023/tree/main/sources#learning-about-quarto-and-making-the-switch-from-r-markdown) for more advice on using Quarto and transitioning to Quarto from R Markdown. 
 
+## From [On the 12th Day of Christmas, a Statistician Sent to Me...](https://www.bmj.com/content/379/bmj-2022-072883)
+
+![](christmas4.png)
+
 ## Announcements
  
 1. The data set we'll discuss today (`class4im.Rds`) is available on [our 432-data site](https://github.com/THOMASELOVE/432-data).
