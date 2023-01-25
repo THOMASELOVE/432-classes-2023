@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------: |:------:
 for everything | for deadlines | expectations | from Dr. Love | ways to get help | lab submission | for downloads | to read
 
+![](cummings_2022-08-08.png)
+
 ## Today's Slides
 
 Class | Date | PDF | Quarto .qmd | Recording
