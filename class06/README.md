@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------: |:------:
 for everything | for deadlines | expectations | from Dr. Love | ways to get help | lab submission | for downloads | to read
 
+![](https://imgs.xkcd.com/comics/data_point.png) <https://xkcd.com/2713> 
+
 ## Today's Slides
 
 Class | Date | PDF | Quarto .qmd | Recording
