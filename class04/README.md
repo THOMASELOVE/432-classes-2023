@@ -22,7 +22,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## About Lab 1
 
-1. Grades will be posted by Tuesday morning 2023-01-31. You'll need a Lab Code to access your grades, and Dr. Love will send those out on Monday 2023-01-30.
+1. Lab 1 Grades will be posted to our Shared Drive by Tuesday morning 2023-01-31. You'll need a Lab Code to access your grades on the Shared Drive, and Dr. Love will send those out by the end of the day on Monday 2023-01-30, via email.
 2. The following students used versions of R earlier than 4.2.2 in Lab 1, and should [upgrade to R 4.2.2](https://thomaselove.github.io/432-2023/software.html) in time for Lab 2 and the rest of the course: **Naji Ayyash, Samantha Baker, Lithe Basbous, Joshua Freeze, Tracy Kongai, Tian Liu, Sameer Prasada, Miza Salim Hammoud, Faruk Senturk, Neha Solanki, Max Tjen** and **Fang Wang**. In addition, **Sriram Satyavolu** may need to upgrade but we cannot tell.
 
 ## What Should I Be Working On?
