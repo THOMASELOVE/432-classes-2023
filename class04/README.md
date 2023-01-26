@@ -16,12 +16,6 @@ Class | Date | PDF | Quarto .qmd | Recording
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 - See [the resources page](https://github.com/THOMASELOVE/432-classes-2023/tree/main/sources#learning-about-quarto-and-making-the-switch-from-r-markdown) for more advice on using Quarto and transitioning to Quarto from R Markdown. 
 
-## From [On the 12th Day of Christmas, a Statistician Sent to Me...](https://www.bmj.com/content/379/bmj-2022-072883)
-
-> To elicit the most common issues encountered during statistical peer review, an internal survey was administered to The BMJ’s statistical editors. Twelve items were identified, and each are described here. There is one item for each of the 12 days of Christmas, the period between 25 December and 5 January when the statisticians conduct their reviews in the mindset of the Grinch, but with the kind heart of *Miracle On 34th Street*.
-
-![](christmas4.png)
-
 ## Announcements
  
 1. The data set we'll discuss today (`class4im.Rds`) is available on [our 432-data site](https://github.com/THOMASELOVE/432-data).
@@ -38,6 +32,12 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. [Lab 2](https://thomaselove.github.io/432-2023/lab2.html) due Monday 2023-01-30 at 9 PM.
 2. Continue reading [How To Be A Modern Scientist](https://leanpub.com/modernscientist) (so you're done by next Thursday's class.)
+
+## From [On the 12th Day of Christmas, a Statistician Sent to Me...](https://www.bmj.com/content/379/bmj-2022-072883)
+
+> To elicit the most common issues encountered during statistical peer review, an internal survey was administered to The BMJ’s statistical editors. Twelve items were identified, and each are described here. There is one item for each of the 12 days of Christmas, the period between 25 December and 5 January when the statisticians conduct their reviews in the mindset of the Grinch, but with the kind heart of *Miracle On 34th Street*.
+
+![](christmas4.png)
 
 ## One Last Thing
 
