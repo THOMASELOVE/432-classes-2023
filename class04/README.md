@@ -20,7 +20,7 @@ Class | Date | PDF | Quarto .qmd | Recording
  
 1. The data set we'll discuss today (`class4im.Rds`) is available on [our 432-data site](https://github.com/THOMASELOVE/432-data).
 2. Feedback on the **Minute Paper after Class 03** [is now available](min-03-feedback.pdf).
-3. Check out Campuswire for some information [on your favorite TV shows](https://thomaselove.github.io/432-syllabus-2023/09-advice.html#a-bonus-opportunity).
+3. Check out Campuswire for some information [on your favorite TV shows](https://thomaselove.github.io/432-syllabus-2023/09-advice.html#a-bonus-opportunity). Dr. Love's favorite television show is [Taskmaster](https://en.wikipedia.org/wiki/Taskmaster_(TV_series)), with the first 12 of its 14 self-contained seasons to date available on [YouTube](https://www.youtube.com/@Taskmaster). I recommend starting with [Series Five](https://www.youtube.com/watch?v=5PmmtbBgNLI) if you're interested.
 4. [The Play That Goes Wrong at Aurora Community Theatre](https://www.auroracommunitytheatre.com/) starts its run tomorrow (Friday) night and continues through 2023-02-18. Thanks for putting up with these reminders. Come, if you like, but get a ticket in advance. [Here's a new video promoting the show](https://conta.cc/3R5WGCJ).
 
 ## About Lab 1
