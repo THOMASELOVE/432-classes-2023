@@ -18,7 +18,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
  
-To come.
+1. I updated Lab 3's instructions and Chapter 10 in the Course Notes to fix typos.
+2. 
 
 ## Learning More About the Harrell-Verse
 
