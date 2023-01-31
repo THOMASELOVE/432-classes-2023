@@ -23,7 +23,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 3. Last night (2023-01-30) you should have received an email from me with the subject line: **432 Lab Code from Professor Love (please save this email)**. That email provides the three-digit Lab Code you will need to identify the feedback and grades for your work on the **Grading Roster for 432 Spring 2023** found on our *Shared Google Drive*. Here you will find detailed feedback and grades for all Labs (so far, just Lab 1, of course), and the grades for your Minute Papers (so far, just the Minute Paper after Class 03).
     - Note that the mark for your Lab on Canvas is (probably) listed as 1 out of 50. This just tells us we graded your Lab, and has nothing to do with your grade on the Lab. No course grades appear on Canvas; instead we post them to the Shared Drive in the **Grading Roster for 432 Spring 2023**.
     - **To Come** Comments on Lab 1 results, and reminder of how to request a regrade on a Lab grade.
-4. **To Come** Minute Paper after Class 05.
+4. There is a [Minute Paper after Class 05](https://bit.ly/432-2023-minute-05) due Wednesday 2023-02-01 at Noon.
 
 ## Learning More About the Harrell-Verse
 
@@ -37,7 +37,14 @@ In classes 05-06, we'll start to focus on a set of techniques from the `rms` and
 
 ## What Should I Be Working On?
 
-To come.
+1. [Minute Paper after Class 05](https://bit.ly/432-2023-minute-05) due Wednesday 2023-02-01 at Noon.
+2. We expect you to have finished reading "How To Be A Modern Scientist" by class time Thursday 2023-02-02.
+3. [Lab 3](https://thomaselove.github.io/432-2023/lab3.html) is due Monday 2023-02-06 at 9 PM to Canvas.
+4. Your [Project A Plan](https://thomaselove.github.io/432-2023/projA.html) is due Monday 2023-02-13 at 9 PM to Canvas.
+
+## How's the Show Going?
+
+Startlingly well. The crowds this past weekend could not possibly have been more enthusiastic. Please come, if you'd like, but get your tickets very soon. We are approaching a sellout for most performances. "The Play That Goes Wrong" continues its run on Friday and Saturday evenings at 8 PM through 2023-02-18. Tickets can be purchased at https://www.auroracommunitytheatre.com/, and the theatre is about 40 minutes from CWRU by car.
 
 ## One Last Thing
 
