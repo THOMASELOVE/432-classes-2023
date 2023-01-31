@@ -18,12 +18,14 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
  
-1. I updated Lab 3's instructions and Chapter 10 in the Course Notes to fix typos, and each of Lab 1-8 to clarify the late policy.
-2. **To Come**: I will add a note about endorsing useful responses on Campuswire. Reminder about one account to a person on Campuswire.
-3. Last night (2023-01-30) you should have received an email from me with the subject line: **432 Lab Code from Professor Love (please save this email)**. That email provides the three-digit Lab Code you will need to identify the feedback and grades for your work on the **Grading Roster for 432 Spring 2023** found on our *Shared Google Drive*. Here you will find detailed feedback and grades for all Labs (so far, just Lab 1, of course), and the grades for your Minute Papers (so far, just the Minute Paper after Class 03).
-    - Note that the mark for your Lab on Canvas is (probably) listed as 1 out of 50. This just tells us we graded your Lab, and has nothing to do with your grade on the Lab. No course grades appear on Canvas; instead we post them to the Shared Drive in the **Grading Roster for 432 Spring 2023**.
-    - **To Come** Comments on Lab 1 results, and reminder of how to request a regrade on a Lab grade.
-4. There is a [Minute Paper after Class 05](https://bit.ly/432-2023-minute-05) due Wednesday 2023-02-01 at Noon.
+1. I updated Lab 3's instructions and Chapter 10 in the Course Notes to fix typos, and the instructions in Labs 1-8 to clarify the late policy.
+2. If someone provides a response or question on Campuswire that is useful to you, please acknowledge that by clicking the little up arrow next to the post. That's much more useful to us (because of the way the forum shows posts) than saying thanks in a comment.
+3. Some people had more than one account on Campuswire. I have tried to fix that now. Let me know if you have problems.
+4. Last night (2023-01-30) you should have received an email from me with the subject line: **432 Lab Code from Professor Love (please save this email)**. That email provides the three-digit Lab Code you will need to identify the feedback and grades for your work on the **Grading Roster for 432 Spring 2023** found on our *Shared Google Drive*. Here you will find detailed feedback and grades for all Labs (so far, just Lab 1, of course), and the grades for your Minute Papers (so far, just the Minute Paper after Class 03).
+    - Note that the mark for your Lab is (probably) listed as 1 out of 50 on Canvas. Ignore that. The marks on Canvas just tell us we graded your Lab, and has nothing to do with your grade on the Lab. No course grades appear on Canvas; instead we post them to the Shared Drive in the **Grading Roster for 432 Spring 2023**.
+    - Should you want me to regrade your Lab, follow [the policy described here in the Syllabus](https://thomaselove.github.io/432-syllabus-2023/08-grading.html#lab-appeal-policy---request-a-review-via-google-form), which involves filling out the form at <https://bit.ly/432-2023-lab-regrades> by noon on 2023-05-09. Thanks.
+5. Professor Love will provide some comments on the Lab 1 Question 1 visualizations **in class today - details to come**.
+6. There is a [Minute Paper after Class 05](https://bit.ly/432-2023-minute-05) due Wednesday 2023-02-01 at Noon.
 
 ## Learning More About the Harrell-Verse
 
