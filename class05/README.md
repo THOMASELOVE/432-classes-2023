@@ -19,7 +19,9 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## Announcements
  
 1. I updated Lab 3's instructions and Chapter 10 in the Course Notes to fix typos.
-2. 
+2. **To Come**: I will add a note about endorsing useful responses on Campuswire. Reminder about one account to a person on Campuswire.
+3. **To Come** Comments on Lab Codes and Lab 1 results and Grading Roster.
+4. **To Come** Minute Paper after Class 05.
 
 ## Learning More About the Harrell-Verse
 
