@@ -14,8 +14,6 @@ Class | Date | PDF | Quarto .qmd | Recording
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 - See [the resources page](https://github.com/THOMASELOVE/432-classes-2023/tree/main/sources#learning-about-quarto-and-making-the-switch-from-r-markdown) for more advice on using Quarto and transitioning to Quarto from R Markdown. 
 
-![](harrell_tw.png)
-
 ## Announcements
  
 1. I updated Lab 3's instructions and Chapter 10 in the Course Notes to fix typos, and the instructions in Labs 1-8 to clarify the late policy.
@@ -52,4 +50,5 @@ Really, really well. The crowds this past weekend could not possibly have been m
 
 ## One Last Thing
 
-To come.
+![](harrell_tw.png)
+
