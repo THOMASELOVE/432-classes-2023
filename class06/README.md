@@ -23,8 +23,8 @@ Class | Date | PDF | Quarto .qmd | Recording
     - I added several new data sets (used in these new chapters) to [our 432-data page](https://github.com/THOMASELOVE/432-data).
     - I added **caret** as a package to install on [our Software page](https://thomaselove.github.io/432-2023/software.html).
 3. Minute Paper after Class 05 [feedback is now available](min-05-feedback.pdf).
-    - Several people complained that Labs 1 and 2 were tricky. They weren't deliberately tricky, and things like "we don't like creating categories out of quantitative variables" shouldn't really have been surprises, and only cost you a couple of points out of 50 anyway.
-    - But in an effort to respond productively to the feedback, I went through [the Lab 3 instructions](https://thomaselove.github.io/432-2023/lab3.html) again, and added some minor hints.
+    - Several people complained that Labs 1 and 2 were tricky. This wasn't deliberate.
+    - In an effort to respond productively to the feedback, I went through [the Lab 3 instructions](https://thomaselove.github.io/432-2023/lab3.html) again, and added some minor hints.
 
 ## What Should I Be Working On?
 
