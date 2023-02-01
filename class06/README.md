@@ -22,7 +22,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 2. I added Chapters 15-23 to [the Course Notes](https://thomaselove.github.io/432-notes/).
     - I added several new data sets (used in these new chapters) to [our 432-data page](https://github.com/THOMASELOVE/432-data).
     - I added **caret** as a package to install on [our Software page](https://thomaselove.github.io/432-2023/software.html).
-3. Minute Paper after Class 05 feedback **will be available by class time**.
+3. Minute Paper after Class 05 [feedback is now available](min-05-feedback.pdf).
 
 ## What Should I Be Working On?
 
