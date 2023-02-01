@@ -30,6 +30,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. [Lab 3](https://thomaselove.github.io/432-2023/lab3.html) is due Monday 2023-02-06 at 9 PM to Canvas.
 2. Your [Project A Plan](https://thomaselove.github.io/432-2023/projA.html) is due Monday 2023-02-13 at 9 PM to Canvas.
+3. Over the course of the term, I intend to post a few discussion questions regarding Jeff Leek's "How To Be a Modern Scientist" on our Campuswire forum. The first of these questions is now posted, and I'll keep watch on the comments through 2023-02-17 or so on that post. Please visit the forum, and weigh in on the question by reading the comments of your colleagues, and submitting your own. As incentive, more thoughtful comments will receive some bonus class participation credit.
 
 ## The Project A Plan: Key Information
 
