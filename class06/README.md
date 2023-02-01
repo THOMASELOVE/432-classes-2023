@@ -32,6 +32,8 @@ From the weekly [Data is Plural newsletter](https://www.data-is-plural.com/)
 
 **Women’s well-being.** [Camille Belmin et al.'s](https://www.nature.com/articles/s41597-022-01824-2) [LivWell dataset](https://zenodo.org/record/7277104) presents “a set of key indicators on women’s socio-economic status, health and well-being, access to basic services and demographic outcomes” in 447 regions of 52 countries from 1990 to 2019. The indicators include, for example, rates of home ownership, educational attainment, and domestic violence; they’re based primarily on [data](https://dhsprogram.com/data/) from the [Demographic and Health Surveys Program](https://dhsprogram.com/), a [USAID-funded initiative](https://dhsprogram.com/Who-We-Are/About-Us.cfm) that, since 1984, “has provided technical assistance to more than 400 surveys in over 90 countries, advancing global understanding of health and population trends in developing countries.” Read more: [An introductory Twitter thread from Belmin](https://twitter.com/BelminCamille/status/1597948618220384256).
 
+- Note that the companion repository livwelldata allows to easily use the database in R. The R package can be downloaded following the instructions on the following git repository: https://gitlab.pik-potsdam.de/belmin/livwelldata.
+
 ## "The Play That Goes Wrong" continues through February 18
 
 Tickets and further information are available at https://www.auroracommunitytheatre.com/. Thank you.
