@@ -20,6 +20,7 @@ Class | Date | PDF | Quarto .qmd | Recording
  
 1. I reposted the [Slides for Class 05](https://github.com/THOMASELOVE/432-classes-2023/tree/main/class05#todays-slides), fixing the typo identified in slide 20 during class, but also including new screenshots that more clearly use the `helpdat` data.
 2. I added Chapters 15-31 to [the Course Notes](https://thomaselove.github.io/432-notes/).
+    - I have no current plans to write more chapters for the Notes this term, but my plans may change.
     - I added several new data sets (used in these new chapters) to [our 432-data page](https://github.com/THOMASELOVE/432-data).
     - I added **caret** as a package to install on [our Software page](https://thomaselove.github.io/432-2023/software.html).
 3. Minute Paper after Class 05 [feedback is now available](min-05-feedback.pdf).
