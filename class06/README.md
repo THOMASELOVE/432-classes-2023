@@ -24,7 +24,7 @@ Class | Date | PDF | Quarto .qmd | Recording
     - I added **caret** as a package to install on [our Software page](https://thomaselove.github.io/432-2023/software.html).
 3. Minute Paper after Class 05 [feedback is now available](min-05-feedback.pdf).
     - Several people complained that Labs 1 and 2 were tricky. This wasn't deliberate.
-    - In an effort to respond productively to the feedback, I went through [the Lab 3 instructions](https://thomaselove.github.io/432-2023/lab3.html) again, and added some minor hints.
+    - In an effort to respond productively, I went through [the Lab 3 instructions](https://thomaselove.github.io/432-2023/lab3.html) and added minor hints.
 
 ## What Should I Be Working On?
 
