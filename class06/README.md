@@ -29,13 +29,14 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. [Lab 3](https://thomaselove.github.io/432-2023/lab3.html) is due Monday 2023-02-06 at 9 PM to Canvas.
 2. Your [Project A Plan](https://thomaselove.github.io/432-2023/projA.html) is due Monday 2023-02-13 at 9 PM to Canvas.
 
-## The Project A Plan in < 250 words
+## The Project A Plan: Key Information
 
-In Project A, you will be analyzing, presenting and discussing two regression models, specifically a linear regression model (predicting a quantitative outcome) and a logistic regression model (predicting a binary outcome). 
+In Project A, you will analyze, present and discuss two regression models, specifically a linear regression model (predicting a quantitative outcome) and a logistic regression model (predicting a binary outcome). 
 
 - The Project A plan is the first assignment related to the Project, and is due 2023-02-13 at 9 PM to Canvas.
+- We will begin discussing logistic regression in class 07, on Tuesday 2023-02-07.
 - There is a [Project A Plan Quarto Template](https://raw.githubusercontent.com/THOMASELOVE/432-data/master/templates/projectAplan_template.qmd) on our [432-data page](https://github.com/THOMASELOVE/432-data) which we want you to use.
-- You can either work alone, or with one other person, to complete Project A. If you are working with a partner, all work must be submitted by one of you to Canvas while the non-reporting partner submits a one-page note indicating the members of the partnership and that the partner will submit the work.
+- You can either work alone, or with one other person, to complete both the Project A plan and the other parts of Project A. If you are working with a partner, exactly one of you submits everything to Canvas while the non-reporting partner submits a one-page note specifying the members of the partnership and stating that the partner will submit the work.
 
 The [Project A plan](https://thomaselove.github.io/432-2023/projA.html#the-project-a-plan) consists of:
 
