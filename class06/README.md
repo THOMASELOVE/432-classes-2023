@@ -29,6 +29,26 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. [Lab 3](https://thomaselove.github.io/432-2023/lab3.html) is due Monday 2023-02-06 at 9 PM to Canvas.
 2. Your [Project A Plan](https://thomaselove.github.io/432-2023/projA.html) is due Monday 2023-02-13 at 9 PM to Canvas.
 
+## The Project A Plan in < 250 words
+
+In Project A, you will be analyzing, presenting and discussing two regression models, specifically a linear regression and a logistic regression. 
+
+- The Project A plan is the first assignment related to the Project, and is due 2023-02-13 at 9 PM to Canvas.
+- There is a [Project A Plan Quarto Template](https://raw.githubusercontent.com/THOMASELOVE/432-data/master/templates/projectAplan_template.qmd) on our [432-data page](https://github.com/THOMASELOVE/432-data) which we want you to use.
+- You can choose either to work alone, or with one other person, to complete Project A. You need to tell us, as part of the Plan, whether or not you're working with a partner. If you are working with a partner, all work must be submitted by exactly one of you to Canvas while the non-reporting partner submits a one-page note to Canvas indicating the members of the partnership and that the partner will submit the work.
+
+The [Project A plan](https://thomaselove.github.io/432-2023/projA.html#the-project-a-plan) consists of:
+
+- a Quarto (.qmd) file containing one unnumbered, and 10 numbered sections
+- an HTML result of applying the Quarto "plan" file to your data
+- a copy of your (tidied) data (see Section 4.3 of the Project A Plan) in an .Rds file.
+
+A detailed description of what you need to do with each of the sections of the Plan [is here](https://thomaselove.github.io/432-2023/projA.html#the-project-a-plan).
+
+Specifications related to what sort of data you need to find and what makes a data set acceptable [are found here](https://thomaselove.github.io/432-2023/projA.html#choosing-your-data).
+
+Complete [Project A instructions are here](https://thomaselove.github.io/432-2023/projA.html).
+
 ## One Last Thing
 
 From the weekly [Data is Plural newsletter](https://www.data-is-plural.com/)
