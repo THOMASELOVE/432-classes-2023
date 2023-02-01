@@ -31,7 +31,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## The Project A Plan in < 250 words
 
-In Project A, you will be analyzing, presenting and discussing two regression models, specifically a linear regression and a logistic regression. 
+In Project A, you will be analyzing, presenting and discussing two regression models, specifically a linear regression model (predicting a quantitative outcome) and a logistic regression model (predicting a binary outcome). 
 
 - The Project A plan is the first assignment related to the Project, and is due 2023-02-13 at 9 PM to Canvas.
 - There is a [Project A Plan Quarto Template](https://raw.githubusercontent.com/THOMASELOVE/432-data/master/templates/projectAplan_template.qmd) on our [432-data page](https://github.com/THOMASELOVE/432-data) which we want you to use.
@@ -41,13 +41,13 @@ The [Project A plan](https://thomaselove.github.io/432-2023/projA.html#the-proje
 
 - a Quarto (.qmd) file containing one unnumbered, and 10 numbered sections
 - an HTML result of applying the Quarto "plan" file to your data
-- a copy of your (tidied) data (see Section 4.3 of the Project A Plan) in an .Rds file.
+- a copy of your (tidied) data in an .Rds file.
 
-A detailed description of [what you need to do in each of the Plan's sections is here](https://thomaselove.github.io/432-2023/projA.html#the-project-a-plan).
+Key Links (all within the [Project A instructions](https://thomaselove.github.io/432-2023/projA.html))
 
-Specifications related to what sort of data you need to find and [what makes a data set acceptable are found here](https://thomaselove.github.io/432-2023/projA.html#choosing-your-data).
-
-Complete [Project A instructions are here](https://thomaselove.github.io/432-2023/projA.html).
+1. Specifications related to what sort of data you need to find and [what makes a data set acceptable are found here](https://thomaselove.github.io/432-2023/projA.html#choosing-your-data).
+2. A detailed description of [what you need to do in each of the Plan's sections is here](https://thomaselove.github.io/432-2023/projA.html#the-project-a-plan).
+3. Again, the complete [Project A instructions are here](https://thomaselove.github.io/432-2023/projA.html).
 
 ## One Last Thing
 
