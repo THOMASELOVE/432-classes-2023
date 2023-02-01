@@ -35,7 +35,7 @@ In Project A, you will be analyzing, presenting and discussing two regression mo
 
 - The Project A plan is the first assignment related to the Project, and is due 2023-02-13 at 9 PM to Canvas.
 - There is a [Project A Plan Quarto Template](https://raw.githubusercontent.com/THOMASELOVE/432-data/master/templates/projectAplan_template.qmd) on our [432-data page](https://github.com/THOMASELOVE/432-data) which we want you to use.
-- You can choose either to work alone, or with one other person, to complete Project A. You need to tell us, as part of the Plan, whether or not you're working with a partner. If you are working with a partner, all work must be submitted by exactly one of you to Canvas while the non-reporting partner submits a one-page note to Canvas indicating the members of the partnership and that the partner will submit the work.
+- You can either work alone, or with one other person, to complete Project A. If you are working with a partner, all work must be submitted by one of you to Canvas while the non-reporting partner submits a one-page note indicating the members of the partnership and that the partner will submit the work.
 
 The [Project A plan](https://thomaselove.github.io/432-2023/projA.html#the-project-a-plan) consists of:
 
