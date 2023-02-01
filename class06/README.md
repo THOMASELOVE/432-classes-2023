@@ -50,6 +50,8 @@ Key Links (all within the [Project A instructions](https://thomaselove.github.io
 2. A detailed description of [what you need to do in each of the Plan's sections is here](https://thomaselove.github.io/432-2023/projA.html#the-project-a-plan).
 3. Again, the complete [Project A instructions are here](https://thomaselove.github.io/432-2023/projA.html).
 
+**If you are looking for a partner for Project A** please place your name and contact information in response to the note I've posted on Campuswire, and perhaps you can connect with someone else.
+
 ## One Last Thing
 
 From the weekly [Data is Plural newsletter](https://www.data-is-plural.com/)
