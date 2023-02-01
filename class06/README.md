@@ -19,7 +19,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## Announcements
  
 1. I reposted the [Slides for Class 05](https://github.com/THOMASELOVE/432-classes-2023/tree/main/class05#todays-slides), fixing the typo identified in slide 20 during class, but also including new screenshots that more clearly use the `helpdat` data.
-2. Minute Paper after Class 05 feedback **will be available by class time**.
+2. I am adding Chapters to the Course Notes.
+    - I have added the `resect` data to our 432-data page.
+    - I have added **caret** as a package to install on our Software page.
+3. Minute Paper after Class 05 feedback **will be available by class time**.
 
 ## What Should I Be Working On?
 
