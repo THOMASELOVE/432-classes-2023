@@ -43,9 +43,9 @@ The [Project A plan](https://thomaselove.github.io/432-2023/projA.html#the-proje
 - an HTML result of applying the Quarto "plan" file to your data
 - a copy of your (tidied) data (see Section 4.3 of the Project A Plan) in an .Rds file.
 
-A detailed description of what you need to do with each of the sections of the Plan [is here](https://thomaselove.github.io/432-2023/projA.html#the-project-a-plan).
+A detailed description of [what you need to do with each of the sections of the Plan is here](https://thomaselove.github.io/432-2023/projA.html#the-project-a-plan).
 
-Specifications related to what sort of data you need to find and what makes a data set acceptable [are found here](https://thomaselove.github.io/432-2023/projA.html#choosing-your-data).
+Specifications related to what sort of data you need to find and [what makes a data set acceptable are found here](https://thomaselove.github.io/432-2023/projA.html#choosing-your-data).
 
 Complete [Project A instructions are here](https://thomaselove.github.io/432-2023/projA.html).
 
