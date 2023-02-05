@@ -10,4 +10,20 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 07 | 2023-02-07 | **[Slides 07](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides07.pdf)** | **[Code 07](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides07.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-## More to come.
+## Updates since our last class
+
+1. I made small edits (also listed in Campuswire responses) to help with Lab 3 and Project A.
+2. I updated the slides for Class 06 to indicate a willingness to spend a total of 16 degrees of freedom.
+3. 
+
+## Today's Announcements
+
+To come.
+
+## What should I be working on?
+
+To come.
+
+## One Last Thing
+
+To come.
