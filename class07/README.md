@@ -12,7 +12,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Today's Announcements
 
-1. I made small edits (also listed in Campuswire responses) in an effort to help with Lab 3 and Project A.
+1. I made small edits (also listed in Campuswire responses) in an effort to help with instructions for Lab 3 and Project A.
 2. I updated the slides for Class 06 to indicate a willingness to spend a total of 16 degrees of freedom.
 3. Thank you to those of you who've contributed to the conversation about "How To Be A Modern Scientist" on Campuswire so far. The current question will remain active until 2023-02-17. Please weigh in.
 4. Feedback on Lab 2 is now available in the Lab 2 tab on the Grading Roster in our Shared Drive.
