@@ -17,16 +17,17 @@ Class | Date | PDF | Quarto .qmd | Recording
 3. There is a [Minute Paper after Class 7](https://bit.ly/432-2023-minute-07), due Wednesday at noon.
 4. I made small edits (also listed in [Campuswire](https://campuswire.com/) responses) in an effort to help with instructions for Lab 3 and Project A.
 5. I updated the [slides for Class 06](https://github.com/THOMASELOVE/432-classes-2023/tree/main/class06) to indicate a willingness to spend a total of 16 degrees of freedom.
-6. Thank you to those of you who've contributed to the conversation about "How To Be A Modern Scientist" on [Campuswire](https://campuswire.com/) so far. The current question will remain active until 2023-02-17. Please weigh in, if you haven't yet done so.
+6. I also updated Chapter 13 in the [Course Notes](https://thomaselove.github.io/432-notes/) to clean up the phrasing in one spot.
+7. Thank you to those of you who've contributed to the conversation about "How To Be A Modern Scientist" on [Campuswire](https://campuswire.com/) so far. The current question will remain active until 2023-02-17. Please weigh in, if you haven't yet done so.
 
 ## What should I be working on?
 
 1. [Minute Paper after Class 7](https://bit.ly/432-2023-minute-07) due tomorrow (Wednesday 2023-02-08) at noon.
 2. [Project A Plan](https://thomaselove.github.io/432-2023/projA.html) due Monday 2023-02-13 at 9 PM.
 
-## Steps to complete the Project A Plan
+## Project A Plan
 
-are laid out in [the Project A instructions](https://thomaselove.github.io/432-2023/projA.html), but here's a brief summary...
+Steps to complete the Project A Plan are laid out in [the Project A instructions](https://thomaselove.github.io/432-2023/projA.html), but here's a brief summary...
 
 1. Read the Project A instructions
 2. Decide whether you are working alone or with a partner
