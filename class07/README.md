@@ -24,6 +24,24 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. Minute Paper after Class 5 due tomorrow (Wednesday 2023-02-08) at noon.
 2. Project A Plan due Monday 2023-02-13 at 9 PM.
 
+## Steps to complete the Project A Plan
+
+are laid out in [the Project A instructions](https://thomaselove.github.io/432-2023/projA.html), but here's a brief summary...
+
+1. Read the Project A instructions
+2. Decide whether you are working alone or with a partner
+3. Identify a data set that meets the requirements
+4. Open a new project in R, and use the Quarto template we provided for the Project A plan
+5. Load your data into R
+6. Clean your data, obtaining a tidy tibble of the information you actually need
+7. Build a codebook for your data
+8. Identify an outcome and set of predictors for your planned linear regression modeling work
+9. Identify an outcome and set of predictors for your planned logistic regression modeling work
+10. Complete the remaining elements of the 1 unnumbered and 10 numbered sections of the Project A plan, following the template
+11. Submit your finished work (qmd, html and Rds file) to Canvas by Monday 2023-02-13 at 9 PM.
+
+Note that you can [run a data set past us](https://thomaselove.github.io/432-2023/projA.html#running-a-data-set-past-us-for-project-a) if you're unsure whether it will work, but you'll want to do that no later than noon Friday, as Dr. Love will be away from his computer most of the weekend.
+
 ## The Play That Goes Wrong
 
 A few tickets are still available for our last four performances: February 10, 11, 17 and 18 at 8 PM, at https://www.auroracommunitytheatre.com/. If you cannot get a seat in the Center, then House Left (seats begin with the number 1, rather than 3) is probably a better choice than House Right. 
