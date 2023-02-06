@@ -26,7 +26,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## The Play That Goes Wrong
 
-A few tickets are still available for our last four performances, February 10, 11, 17 and 18 at 8 PM. If you cannot get a seat in the Center, then House Left (seats begin with the number 1, rather than 3) is probably a better choice than House Right. Tickets at https://www.auroracommunitytheatre.com/
+A few tickets are still available for our last four performances: February 10, 11, 17 and 18 at 8 PM, at https://www.auroracommunitytheatre.com/. If you cannot get a seat in the Center, then House Left (seats begin with the number 1, rather than 3) is probably a better choice than House Right. 
 
 ## One Last Thing
 
