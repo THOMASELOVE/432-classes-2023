@@ -31,7 +31,7 @@ To help you understand what we'll be doing with your Plan once we receive it, I'
 
 Steps to complete the Project A Plan are laid out in [the Project A instructions](https://thomaselove.github.io/432-2023/projA.html), but here's a brief summary...
 
-1. Read the Project A instructions
+1. Read the [Project A instructions](https://thomaselove.github.io/432-2023/projA.html) and our [Evaluation Plan for the Project A Plans](projAplan_evaluation.pdf)
 2. Decide whether you are working alone or with a partner
 3. Identify a data set that meets the requirements
 4. Open a new project in R, and use the Quarto template we provided for the Project A plan
