@@ -17,12 +17,12 @@ Class | Date | PDF | Quarto .qmd | Recording
 3. Thank you to those of you who've contributed to the conversation about "How To Be A Modern Scientist" on Campuswire so far. The current question will remain active until 2023-02-17. Please weigh in.
 4. Feedback on Lab 2 is now available in the Lab 2 tab on the Grading Roster in our Shared Drive.
 5. The Lab 3 Answer Sketch will be posted to our Shared Drive **by class time**.
-6. There is a Minute Paper after Class 5, due Wednesday at noon, which will be available **by class time**.
+6. There is a [Minute Paper after Class 7](https://bit.ly/432-2023-minute-07), due Wednesday at noon.
 
 ## What should I be working on?
 
-1. Minute Paper after Class 5 due tomorrow (Wednesday 2023-02-08) at noon.
-2. Project A Plan due Monday 2023-02-13 at 9 PM.
+1. [Minute Paper after Class 7](https://bit.ly/432-2023-minute-07) due tomorrow (Wednesday 2023-02-08) at noon.
+2. [Project A Plan](https://thomaselove.github.io/432-2023/projA.html) due Monday 2023-02-13 at 9 PM.
 
 ## Steps to complete the Project A Plan
 
