@@ -27,6 +27,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Project A Plan
 
+To help you understand what we'll be doing with your Plan once we receive it, I've prepared this [PDF of our Evaluation Plan for the 432 Project A Plans](projAplan_evaluation.pdf) that the TAs and I will use. Please look at it, so you can ensure that you meet the standards we'll be checking **before** you submit the work.
+
 Steps to complete the Project A Plan are laid out in [the Project A instructions](https://thomaselove.github.io/432-2023/projA.html), but here's a brief summary...
 
 1. Read the Project A instructions
@@ -43,6 +45,7 @@ Steps to complete the Project A Plan are laid out in [the Project A instructions
 12. Submit your finished work (qmd, html and Rds file) to Canvas by Monday 2023-02-13 at 9 PM.
 
 Note that you can [run a data set past us](https://thomaselove.github.io/432-2023/projA.html#running-a-data-set-past-us-for-project-a) if you're unsure whether it will work, but you'll want to do that no later than noon Friday, as Dr. Love will be away from his computer most of the weekend.
+
 
 ## The Play That Goes Wrong
 
