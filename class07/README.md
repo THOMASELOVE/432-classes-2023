@@ -38,7 +38,8 @@ are laid out in [the Project A instructions](https://thomaselove.github.io/432-2
 8. Identify an outcome and set of predictors for your planned linear regression modeling work
 9. Identify an outcome and set of predictors for your planned logistic regression modeling work
 10. Complete the remaining elements of the 1 unnumbered and 10 numbered sections of the Project A plan, following the template
-11. Submit your finished work (qmd, html and Rds file) to Canvas by Monday 2023-02-13 at 9 PM.
+11. Spell-check your work by hitting F7 in RStudio, and then knit the final version to HTML, and check that document, as well
+12. Submit your finished work (qmd, html and Rds file) to Canvas by Monday 2023-02-13 at 9 PM.
 
 Note that you can [run a data set past us](https://thomaselove.github.io/432-2023/projA.html#running-a-data-set-past-us-for-project-a) if you're unsure whether it will work, but you'll want to do that no later than noon Friday, as Dr. Love will be away from his computer most of the weekend.
 
