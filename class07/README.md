@@ -10,20 +10,24 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 07 | 2023-02-07 | **[Slides 07](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides07.pdf)** | **[Code 07](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides07.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-## Updates since our last class
-
-1. I made small edits (also listed in Campuswire responses) to help with Lab 3 and Project A.
-2. I updated the slides for Class 06 to indicate a willingness to spend a total of 16 degrees of freedom.
-3. 
-
 ## Today's Announcements
 
-To come.
+1. I made small edits (also listed in Campuswire responses) in an effort to help with Lab 3 and Project A.
+2. I updated the slides for Class 06 to indicate a willingness to spend a total of 16 degrees of freedom.
+3. Thank you to those of you who've contributed to the conversation about "How To Be A Modern Scientist" on Campuswire so far. The current question will remain active until 2023-02-17. Please weigh in.
+4. Feedback on Lab 2 is now available in the Lab 2 tab on the Grading Roster in our Shared Drive.
+5. The Lab 3 Answer Sketch will be posted to our Shared Drive **by class time**.
+6. There is a Minute Paper after Class 5, due Wednesday at noon, which will be available **by class time**.
 
 ## What should I be working on?
 
-To come.
+1. Minute Paper after Class 5 due tomorrow (Wednesday 2023-02-08) at noon.
+2. Project A Plan due Monday 2023-02-13 at 9 PM.
+
+## The Play That Goes Wrong
+
+A few tickets are still available for our last four performances, February 10, 11, 17 and 18 at 8 PM. If you cannot get a seat in the Center, then House Left (seats begin with the number 1, rather than 3) is probably a better choice than House Right. Tickets at https://www.auroracommunitytheatre.com/
 
 ## One Last Thing
 
-To come.
+![](https://imgs.xkcd.com/comics/curve_fitting.png) from https://xkcd.com/2048
