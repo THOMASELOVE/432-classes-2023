@@ -27,7 +27,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Project A Plan
 
-To help you understand what we'll be doing with your Plan once we receive it, I've prepared this [PDF of our Evaluation Plan for the 432 Project A Plans](projAplan_evaluation.pdf) that the TAs and I will use. Please look at it, so you can ensure that you meet the standards we'll be checking **before** you submit the work.
+To help you understand what we'll be doing with your Project A Plan once we receive it, I've prepared this [PDF of our Evaluation Plan for the 432 Project A Plans](projAplan_evaluation.pdf) that the TAs and I will use. Please look at it, so you can ensure that you meet the standards we'll be checking **before** you submit the work.
 
 Steps to complete the Project A Plan are laid out in [the Project A instructions](https://thomaselove.github.io/432-2023/projA.html), but here's a brief summary...
 
