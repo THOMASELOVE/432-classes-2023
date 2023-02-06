@@ -41,7 +41,7 @@ Steps to complete the Project A Plan are laid out in [the Project A instructions
 8. Identify an outcome and set of predictors for your [planned linear regression modeling](https://thomaselove.github.io/432-2023/projA.html#linear-regression-plans)
 9. Identify an outcome and set of predictors for your [planned logistic regression modeling](https://thomaselove.github.io/432-2023/projA.html#logistic-regression-plans)
 10. Complete the remaining elements of the 1 unnumbered and 10 numbered sections of the Project A plan, following [the template](https://raw.githubusercontent.com/THOMASELOVE/432-data/master/templates/projectAplan_template.qmd)
-11. Spell-check your work by hitting F7 in RStudio, and then knit the final version to HTML, and check that HTML document to be sure it looks right, then
+11. Spell-check your work by hitting F7 in RStudio, and then knit the final version to HTML, and check that HTML document to be sure it looks right, and to be sure that you've covered [everything we'll be looking for in our evaluation](projAplan_evaluation.pdf) of your work, then
 12. Submit your finished work (qmd, html and Rds file) to [Canvas](https://canvas.case.edu/) by **Monday 2023-02-13 at 9 PM**.
 
 Note that you can [run a data set past us](https://thomaselove.github.io/432-2023/projA.html#running-a-data-set-past-us-for-project-a) if you're unsure whether it will work, but you'll want to do that no later than noon Friday, as Dr. Love will be away from his computer most of the weekend.
