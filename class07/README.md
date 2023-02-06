@@ -12,12 +12,12 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Today's Announcements
 
-1. I made small edits (also listed in Campuswire responses) in an effort to help with instructions for Lab 3 and Project A.
-2. I updated the slides for Class 06 to indicate a willingness to spend a total of 16 degrees of freedom.
-3. Thank you to those of you who've contributed to the conversation about "How To Be A Modern Scientist" on Campuswire so far. The current question will remain active until 2023-02-17. Please weigh in.
-4. Feedback on Lab 2 is now available in the Lab 2 tab on the Grading Roster in our Shared Drive.
-5. The Lab 3 Answer Sketch will be posted to our Shared Drive **by class time**.
-6. There is a [Minute Paper after Class 7](https://bit.ly/432-2023-minute-07), due Wednesday at noon.
+1. Feedback on Lab 2 is now available in the Lab 2 tab on the Grading Roster in our Shared Drive.
+2. The Lab 3 Answer Sketch will be posted to our Shared Drive **by class time**.
+3. There is a [Minute Paper after Class 7](https://bit.ly/432-2023-minute-07), due Wednesday at noon.
+4. I made small edits (also listed in [Campuswire](https://campuswire.com/) responses) in an effort to help with instructions for Lab 3 and Project A.
+5. I updated the [slides for Class 06](https://github.com/THOMASELOVE/432-classes-2023/tree/main/class06) to indicate a willingness to spend a total of 16 degrees of freedom.
+6. Thank you to those of you who've contributed to the conversation about "How To Be A Modern Scientist" on [Campuswire](https://campuswire.com/) so far. The current question will remain active until 2023-02-17. Please weigh in, if you haven't yet done so.
 
 ## What should I be working on?
 
