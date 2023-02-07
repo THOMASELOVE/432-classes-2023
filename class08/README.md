@@ -24,6 +24,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 - The [Bechdel Test Movie List](https://bechdeltest.com/)
 - The [Internet Movie Data Base](https://www.imdb.com/)
 - Link for the Google Sheet I'll Use Today [is here](https://docs.google.com/spreadsheets/d/1ZGbMGxc23pAhBuCDLw_-Xe-6ZlhkaEg6L8HzXxmZgxo/edit?usp=sharing)
+    - Our Shared Drive has a more recent version of the data, including at least one more film.
 - The googlesheets4 package is described in detail at its home page: <https://googlesheets4.tidyverse.org/>
 - Walt Hickey, 538, [The Dollar-And-Cents Case Against Hollywood's Exclusion of Women](https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/), posted 2014-04-01.
 
