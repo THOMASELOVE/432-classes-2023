@@ -17,6 +17,11 @@ Class | Date | PDF | Quarto .qmd | Recording
 - Link for the Google Sheet I'll Use Today [is here](https://docs.google.com/spreadsheets/d/1ZGbMGxc23pAhBuCDLw_-Xe-6ZlhkaEg6L8HzXxmZgxo/edit?usp=sharing)
 - The googlesheets4 package is described in detail at its home page: <https://googlesheets4.tidyverse.org/>
 - Walt Hickey, 538, [The Dollar-And-Cents Case Against Hollywood's Exclusion of Women](https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/), posted 2014-04-01.
-- Walt Hickey, 538, [What If Online Movie Ratings Weren't Based Almost Entirely On What Men Think?](https://fivethirtyeight.com/features/what-if-online-movie-ratings-werent-based-almost-entirely-on-what-men-think/), posted 2018-03-06, which is the source for the image below...
+
+## One Last Thing
+
+Walt Hickey, 538, [What If Online Movie Ratings Weren't Based Almost Entirely On What Men Think?](https://fivethirtyeight.com/features/what-if-online-movie-ratings-werent-based-almost-entirely-on-what-men-think/), posted 2018-03-06, which is the source for the two images below...
 
 ![](https://fivethirtyeight.com/wp-content/uploads/2018/02/hickey-imdb250-1.png?w=575)
+
+![](538_imdb_gender.png)
