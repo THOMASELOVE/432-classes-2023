@@ -10,6 +10,9 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 08 | 2023-02-09 | **[Slides 08](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides08.pdf)** | **[Code 08](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides08.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-## More to come.
+## Sources Related to Today's Data
 
 - Walt Hickey, 538, [The Dollar-And-Cents Case Against Hollywoods Exclusion of Women](https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/).
+- The [Bechdel Test Movie List](https://bechdeltest.com/)
+- The [Internet Movie Data Base](https://www.imdb.com/)
+- Link for the Google Sheet I'll Use Today [is here](https://docs.google.com/spreadsheets/d/1ZGbMGxc23pAhBuCDLw_-Xe-6ZlhkaEg6L8HzXxmZgxo/edit?usp=sharing)
