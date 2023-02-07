@@ -11,3 +11,5 @@ Class | Date | PDF | Quarto .qmd | Recording
 08 | 2023-02-09 | **[Slides 08](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides08.pdf)** | **[Code 08](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides08.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ## More to come.
+
+- Walt Hickey, 538, [The Dollar-And-Cents Case Against Hollywoods Exclusion of Women](https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/).
