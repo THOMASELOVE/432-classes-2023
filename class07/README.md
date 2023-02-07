@@ -13,7 +13,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## Today's Announcements
 
 1. Feedback on Lab 2 is now available in the Lab 2 tab on the Grading Roster in our Shared Drive.
-2. The Lab 3 Answer Sketch will be posted to our Shared Drive **by class time**.
+2. The Lab 3 Answer Sketch is now posted to our Shared Drive.
 3. There is a [Minute Paper after Class 7](https://bit.ly/432-2023-minute-07), due Wednesday at noon.
 4. I made small edits (also listed in [Campuswire](https://campuswire.com/) responses) in an effort to help with instructions for Lab 3 and Project A.
 5. I updated the [slides for Class 06](https://github.com/THOMASELOVE/432-classes-2023/tree/main/class06) to indicate a willingness to spend a total of 16 degrees of freedom.
