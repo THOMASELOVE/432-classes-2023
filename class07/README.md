@@ -19,6 +19,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 5. I updated the [slides for Class 06](https://github.com/THOMASELOVE/432-classes-2023/tree/main/class06) to indicate a willingness to spend a total of 16 degrees of freedom.
 6. I also updated Chapter 13 in the [Course Notes](https://thomaselove.github.io/432-notes/) to clean up the phrasing in one spot.
 7. Thank you to those of you who've contributed to the conversation about "How To Be A Modern Scientist" on [Campuswire](https://campuswire.com/) so far. The current question will remain active until 2023-02-17. Please weigh in, if you haven't yet done so.
+8. I slightly updated the instructions to [Lab 4](https://thomaselove.github.io/432-2023/lab4.html) (due 2023-02-20) to add a hint about the number of rows in the data you'll be working with in Questions 2-5.
 
 ## What should I be working on?
 
