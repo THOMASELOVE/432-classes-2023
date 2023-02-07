@@ -16,3 +16,4 @@ Class | Date | PDF | Quarto .qmd | Recording
 - The [Bechdel Test Movie List](https://bechdeltest.com/)
 - The [Internet Movie Data Base](https://www.imdb.com/)
 - Link for the Google Sheet I'll Use Today [is here](https://docs.google.com/spreadsheets/d/1ZGbMGxc23pAhBuCDLw_-Xe-6ZlhkaEg6L8HzXxmZgxo/edit?usp=sharing)
+- The googlesheets4 package is described in detail at its home page: <https://googlesheets4.tidyverse.org/>
