@@ -44,6 +44,7 @@ Learn more about [the haven package here](https://haven.tidyverse.org/). It supp
 ## What should I be working on?
 
 1. [Project A Plan](https://thomaselove.github.io/432-2023/projA.html) due Monday 2023-02-13 at 9 PM. See the [Class 07 README](https://github.com/THOMASELOVE/432-classes-2023/tree/main/class07) for lots of reminders.
+    - I'll add that (as the instructions suggest) we're not interested in people using NHANES or County Health Rankings as their sole source of data for this Project.
 2. If you haven't already done so, leave a comment on the Campuswire post about How To Be a Modern Scientist.
     - Thanks to Marie, Anthony, Samuel, Max, Moein, Pedram, Xinyu, Seth, Bryan and Samantha for their comments so far.
 
