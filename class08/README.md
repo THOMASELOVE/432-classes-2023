@@ -41,6 +41,7 @@ Then either use haven to import the specific files you want into RStudio, or jus
 
 1. [Project A Plan](https://thomaselove.github.io/432-2023/projA.html) due Monday 2023-02-13 at 9 PM. See the [Class 07 README](https://github.com/THOMASELOVE/432-classes-2023/tree/main/class07) for lots of reminders.
 2. If you haven't already done so, leave a comment on the Campuswire post about How To Be a Modern Scientist.
+    - Thanks to Marie, Anthony, Samuel, Max, Moein, Pedram, Xinyu, Seth, Bryan and Samantha for their comments so far.
 
 ## Sources Related to Today's Data
 
