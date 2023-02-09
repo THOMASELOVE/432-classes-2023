@@ -14,6 +14,23 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. We will post feedback to the Minute Paper After Class 07 **before class time**.
 
+
+## Using the `haven` package to deal with SAS Transport Files: BRFSS Data
+
+1. Visit <https://www.cdc.gov/brfss/annual_data/annual_2021.html>
+2. Download the SAS Transport format Zip file
+3. Unzip it on your computer so you have an .XPT file, and move it to your R project directory. Suppose it's called `LLCP2021.XPT`.
+4. In R, the code you need is:
+
+```
+library(haven)
+library(tidyverse)
+brfss_raw <- read_xpt("LLCP2021.XPT", n_max = 50000)
+```
+
+to get the first 50,000 rows in the data set. Slice off a random sample from that group of your desired size, and proceed.
+
+
 ## What should I be working on?
 
 1. [Project A Plan](https://thomaselove.github.io/432-2023/projA.html) due Monday 2023-02-13 at 9 PM. See the [Class 07 README](https://github.com/THOMASELOVE/432-classes-2023/tree/main/class07) for lots of reminders.
