@@ -29,6 +29,8 @@ brfss_raw <- read_xpt("LLCP2021.XPT", n_max = 50000)
 
 to get the first 50,000 rows in the data set. Slice off a random sample from that group of your desired size, and proceed.
 
+Learn more about [the haven package here](https://haven.tidyverse.org/). It supports reading and writing SAS, SPSS and Stata files.
+
 ## Using the `haven` package to deal with SPSS or Stata Files: HRS Data
 
 When I look at the available data files at, for example, https://hrsdata.isr.umich.edu/data-products/2020-hrs-core, you have the option of getting an SPSS data set or a STATA data set, each of which can be read into R with the help of the haven package pretty easily. 
@@ -36,6 +38,8 @@ When I look at the available data files at, for example, https://hrsdata.isr.umi
 Download the file (which is actually a bunch of files zipped together), unzip that package, and place it where your R project can see it. 
 
 Then either use haven to import the specific files you want into RStudio, or just click on a File you want in the Files window (many will appear) and then select import to get R to do it for you. 
+
+Learn more about [the haven package here](https://haven.tidyverse.org/). It supports reading and writing SAS, SPSS and Stata files.
 
 ## What should I be working on?
 
