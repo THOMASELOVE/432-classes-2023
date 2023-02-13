@@ -59,3 +59,9 @@ Something like 219 million people have been born on [St. Valentine's Day](https:
 and me. Yes, with the last name "Love". It was a lot less cute when I was a kid.
 
 [Lots of other things](https://en.wikipedia.org/wiki/February_14) have happened on February 14, too.
+
+## Can I Still See Your Show?
+
+We have less than 20 seats available for each of our final two performances of The Play That Goes Wrong, this Friday and Saturday at 8 PM. Visit https://www.auroracommunitytheatre.com/ for tickets.
+
+![](two_TPTGW.png)
