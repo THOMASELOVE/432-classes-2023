@@ -14,7 +14,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. I updated [the Syllabus](https://thomaselove.github.io/432-syllabus-2023/) to point to [Contact Us](https://thomaselove.github.io/432-2023/contact.html) as the place containing our Campuswire information.
 2. I updated the first sentence of Section 21.5 of [the Course Notes](https://thomaselove.github.io/432-notes/) to fix a misspelling.
-3. I updated the Course Grading Roster to include feedback and grades on Lab 3.
+3. I updated the Course Grading Roster on our Shared Drive to include feedback and grades on Lab 3.
 
 ## What Should I Be Working On?
 
