@@ -27,7 +27,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## One Last Thing
 
-Approximately 20 billion people have been born on [St. Valentine's Day](https://en.wikipedia.org/wiki/Valentine%27s_Day), February 14, including...
+Something like 219 million people have been born on [St. Valentine's Day](https://en.wikipedia.org/wiki/Valentine%27s_Day), February 14, including...
 
 - [Anna Howard Shaw](https://en.wikipedia.org/wiki/Anna_Howard_Shaw), [Jimmy Hoffa](https://en.wikipedia.org/wiki/Jimmy_Hoffa), [Michael Bloomberg](https://en.wikipedia.org/wiki/Michael_Bloomberg), 
 [Teller](https://en.wikipedia.org/wiki/Teller_(magician)), [Frederick Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass), [Noriko Sakai](https://en.wikipedia.org/wiki/Noriko_Sakai)
