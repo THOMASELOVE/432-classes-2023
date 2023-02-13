@@ -10,7 +10,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 09 | 2023-02-14 | **[Slides 09](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides09.pdf)** | **[Code 09](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides09.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](vickers_2022.png)
+![](vickers_2022.png) [link to tweet](https://twitter.com/vickersbiostats/status/1592129524426485760)
 
 ## Announcements / Updates since last class
 
