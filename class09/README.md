@@ -10,11 +10,12 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 09 | 2023-02-14 | **[Slides 09](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides09.pdf)** | **[Code 09](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides09.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-## Updates since last class
+## Announcements / Updates since last class
 
 1. I updated [the Syllabus](https://thomaselove.github.io/432-syllabus-2023/) to point to [Contact Us](https://thomaselove.github.io/432-2023/contact.html) as the place containing our Campuswire information.
 2. I updated the first sentence of Section 21.5 of [the Course Notes](https://thomaselove.github.io/432-notes/) to fix a misspelling.
-3. I updated the Course Grading Roster on our Shared Drive to include feedback and grades on Lab 3.
+3. I updated the Course Grading Roster on our Shared Drive to include feedback and grades on [Lab 3](https://thomaselove.github.io/432-2023/lab3.html).
+4. I updated the Quiz 1 page to include a link to a PDF of the (draft) instructions for Quiz 1. You'll get the whole Quiz, including revised instructions, by 5 PM on 2023-02-23, and the Quiz is due the following Monday 2023-02-27 at 9 PM.
 
 ## What Should I Be Working On?
 
