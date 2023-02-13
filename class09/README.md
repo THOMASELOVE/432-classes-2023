@@ -28,6 +28,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 4. If all of your [Project A plan materials](https://thomaselove.github.io/432-2023/projA.html) are in on time, you will receive feedback from us before class time Thursday. 
     - We want to be sure all Project A Plans are approved well before 2023-03-01 at noon.
 
+## Today's Data
+
+comes from [NHANES, specifically the 2011-12 administration](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/overview.aspx?BeginYear=2011).
+
 ## A Resource that might help you
 
 [Journal Articles with Quarto](https://quarto.org/docs/journals/)
