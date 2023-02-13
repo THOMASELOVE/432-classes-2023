@@ -10,9 +10,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 09 | 2023-02-14 | **[Slides 09](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides09.pdf)** | **[Code 09](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides09.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-## A Resource that might help you
-
-[Writing Journal Articles with Quarto](https://quarto.org/docs/journals/)
+![](vickers_2022.png)
 
 ## Announcements / Updates since last class
 
@@ -28,6 +26,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 2. There is a [Minute Paper after Class 09](https://bit.ly/432-2023-minute-09), due Wednesday 2023-02-15 at noon.
 3. [Lab 4](https://thomaselove.github.io/432-2023/lab4.html) is due Monday 2023-02-20 at 9 PM to Canvas.
 4. If all of your [Project A plan materials](https://thomaselove.github.io/432-2023/projA.html) are in on time, you will receive feedback from us before class time Thursday. We want to be sure all Project A Plans are approved well before 2023-03-01 at noon.
+
+## A Resource that might help you
+
+[Journal Articles with Quarto](https://quarto.org/docs/journals/)
 
 ## One Last Thing
 
