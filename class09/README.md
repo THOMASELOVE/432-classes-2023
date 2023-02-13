@@ -16,7 +16,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 2. I updated the first sentence of Section 21.5 of [the Course Notes](https://thomaselove.github.io/432-notes/) to fix a misspelling.
 3. I updated the Course Grading Roster on our Shared Drive to include feedback and grades on [Lab 3](https://thomaselove.github.io/432-2023/lab3.html).
 4. I updated [the Quiz 1 page](https://thomaselove.github.io/432-2023/quiz1.html) to include a link to a [PDF of the (draft) instructions for Quiz 1](https://github.com/THOMASELOVE/432-classes-2023/blob/main/quiz1/instructions_only_draft.pdf). 
-    - You'll get the whole Quiz, including revised instructions, by 5 PM on 2023-02-23, and the Quiz is due the following Monday 2023-02-27 at 9 PM.
+    - You'll get all of Quiz 1, including revised instructions, by 5 PM on 2023-02-23. Quiz 1 is due Monday 2023-02-27 at 9 PM.
 
 ## What Should I Be Working On?
 
