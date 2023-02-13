@@ -10,6 +10,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 09 | 2023-02-14 | **[Slides 09](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides09.pdf)** | **[Code 09](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides09.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## A Resource that might help you
+
+[Writing Journal Articles with Quarto](https://quarto.org/docs/journals/)
+
 ## Announcements / Updates since last class
 
 1. I updated [the Syllabus](https://thomaselove.github.io/432-syllabus-2023/) to point to [Contact Us](https://thomaselove.github.io/432-2023/contact.html) as the place containing our Campuswire information.
