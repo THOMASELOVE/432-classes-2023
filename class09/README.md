@@ -25,3 +25,31 @@ Class | Date | PDF | Quarto .qmd | Recording
 3. [Lab 4](https://thomaselove.github.io/432-2023/lab4.html) is due Monday 2023-02-20 at 9 PM to Canvas.
 4. If all of your [Project A plan materials](https://thomaselove.github.io/432-2023/projA.html) are in on time, you will receive feedback from us before class time Thursday. We want to be sure all Project A Plans are approved well before 2023-03-01 at noon.
 
+## One Last Thing
+
+Approximately 20 billion people have been born on St. Valentine's Day, February 14, including...
+
+- [Jimmy Hoffa](https://en.wikipedia.org/wiki/Jimmy_Hoffa)
+- [Michael Bloomberg](https://en.wikipedia.org/wiki/Michael_Bloomberg)
+- [Teller](https://en.wikipedia.org/wiki/Teller_(magician))
+- Frederick Douglass 
+- [Noriko Sakai](https://en.wikipedia.org/wiki/Noriko_Sakai)
+- [Kris Aquino](https://en.wikipedia.org/wiki/Kris_Aquino)
+- [Terry Gross](https://en.wikipedia.org/wiki/Terry_Gross)
+- [Rob Thomas](https://en.wikipedia.org/wiki/Rob_Thomas_(musician))
+- [Ken Levine](https://en.wikipedia.org/wiki/Ken_Levine_(screenwriter))
+- [Edinson Cavani](https://en.wikipedia.org/wiki/Edinson_Cavani)
+- [Ángel Di Maria](https://en.wikipedia.org/wiki/%C3%81ngel_Di_Mar%C3%ADa)
+- [Jadeveon Clowney](https://en.wikipedia.org/wiki/Jadeveon_Clowney)
+- [Jim Kelly](https://en.wikipedia.org/wiki/Jim_Kelly)
+- [Drew Bledsoe](https://en.wikipedia.org/wiki/Drew_Bledsoe)
+- [Risa Hirako](https://en.wikipedia.org/wiki/Risa_Hirako)
+- [Florence Henderson](https://www.imdb.com/name/nm0001341/)
+- [Deeksha Seth](https://en.wikipedia.org/wiki/Deeksha_Seth)
+- [Simon Pegg](https://www.imdb.com/name/nm0670408/)
+- [Freddie Highmore](https://www.imdb.com/name/nm0383603/)
+- [Danai Gurira](https://www.imdb.com/name/nm1775091/)
+- [Jake Lacy](https://www.imdb.com/name/nm3821405/)
+- [Hazel McCallion](https://en.wikipedia.org/wiki/Hazel_McCallion)
+
+and me. Yes, with the last name "Love". It was a lot less cute when I was a kid.
