@@ -29,7 +29,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 [Labeling the x and y axes: Here’s a quick example where a bit of care can make a big difference](https://statmodeling.stat.columbia.edu/2023/01/26/labeling-the-x-and-y-axes-heres-a-quick-example-where-a-bit-of-care-can-make-a-big-difference/) by Andrew Gelman
 
-- The post is made in reference to [this article at Namerology from Laura Wattenberg](https://namerology.com/2020/08/20/the-three-ages-of-i-names-an-american-tale/) and the graph shown below...
+- The post is made in reference to [this article at Namerology from Laura Wattenberg](https://namerology.com/2020/08/20/the-three-ages-of-i-names-an-american-tale/) and the graph shown below, and is meant to show that even a generally good graph (like this one) can be improved with some attention to details.
 
 ![](i-ending.png)
 
