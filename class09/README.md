@@ -62,6 +62,6 @@ and me. Yes, with the last name "Love". It was a lot less cute when I was a kid.
 
 ## Can I Still See Your Show?
 
-We have less than 20 seats available for each of our final two performances of The Play That Goes Wrong, this Friday and Saturday at 8 PM. Visit https://www.auroracommunitytheatre.com/ for tickets.
+We have fewer than 20 seats available for each of our final two performances of The Play That Goes Wrong, this Friday and Saturday at 8 PM. Visit https://www.auroracommunitytheatre.com/ for tickets.
 
 ![](two_TPTGW.png)
