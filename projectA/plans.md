@@ -60,5 +60,4 @@ Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, 
 - Licia Clowtis
 - Joshua Freeze
 - Lentlametse Mantshonyane (must select new data)
-- Aman Pande
 - Shwetank Singh (HTML file is incorrect)
