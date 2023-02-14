@@ -4,7 +4,7 @@ Last Update: 2023-02-13 at 11:00 PM
 
 # Plans Received from Individual Investigators
 
-Investigator | Title (< 80 characters) | Data Source
+Investigator | Title (80 characters or fewer) | Data Source
 ------------------: | :-------------------------------------------------: | :-----------------------------------------:
 Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
 Naji Ayyash | An Analysis of Foreign Born Koreans Living in the U.S. | ICSPR: Health and Life Study of Koreans
@@ -14,10 +14,10 @@ Seth Bauer | Predicting Mean Arterial Blood Pressure and Arterial Catheter Place
 Izzy Genuario | **Needs new title** | BRFSS 2021
 Pedram Golnari | Factors affecting number of times diabetic patients see health professionals | BRFSS 2021
 Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
-Kimberly Han | How Social Determinants of Health relate to Chlamydia rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
+Kimberly Han | **Needs new title** | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
 Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
 Naveen Kannan | **Needs new title** | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
-Ritesh KC | Prediction of Paid Work outcome from Living Conditions of Women and their Well-being | Zenodo: LivWell Data Sets
+Ritesh KC | **Needs new title** | Zenodo: LivWell Data Sets
 Aqsa Kahn | Understanding the Effect of Socio-Economic Burden on Caregivers Health | BRFSS 2021
 Tracy Kongai | Racial institutional representation using the Urban Catalog Data | Urban Institute: 4 Year College Representativeness, 2009-2017
 Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
@@ -27,21 +27,21 @@ Anya Nazarenko | Predicting Sentencing Outcomes and Suicidality of Local Jail In
 An Nguyen | Predicting Counties’ Population Life Expectancy and Metropolitan Status | Urban Data Catalog: Homeowner Assistance Fund, Estimated Low-Income Jobs Lost to COVID-19 and County Health Rankings 2020
 Anthony Orsino | Examining the Social Determinants of Poverty and Asthma at a Census Tract Level | Healthy Northeast Ohio: Examining the Social Determinants of Poverty and Asthma at a Census Tract Level
 Amin Pande | The effect of Patients’ perception of care on Hospital Readmission Rate | Hospital Compare: Hospital Readmissions Reduction Program, and Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS)
-Sameer Prasada | IIHS-II Income Prediction | ICSPR: India Human Development Survey-II from 2011-12
+Sameer Prasada | **Needs new title** | ICSPR: India Human Development Survey-II from 2011-12
 Samuel Rodgers-Melnick | Anxiety and Engagement in Integrative Modalities Among Adults with Chronic Pain | National Health Interview Survey, 2019
 Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022
 Faruk Senturk | Regression Analyses for Early Prediction of Pancreatic Cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
 Katherine Slain | Community and Educational Predictors of Teen Pregnancy and Arrest Rates | County Health Rankings 2020 and Social Vulnerability Index 2020 from CDC
 Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
-Xinyu Sun | Study Factors that Influence Coffee Flavor and Classify Coffee Beans’ Mean Altitude | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
+Xinyu Sun | **Needs new title** | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
 Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission Type Using EPA Data | Tidy Tuesday 2019-10-15: Big EPA Cars data on fuel economy of automobiles
-Savannah Wu | Effects of tobacco and alcohol on physical health (BMI) and mental health (depression) | BRFSS 2021
+Savannah Wu | **Needs new title** | BRFSS 2021
 Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
 Robby Zhang | **Needs new title** | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
 # Plans Received from Teams of Two
 
-Investigator(s) | Title (< 80 characters) | Data Source 
+Investigator(s) | Title (80 characters or fewer) | Data Source 
 ------------------: | :-------------------------------------------------: | :-----------------------------------------:
 Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
 Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
