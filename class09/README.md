@@ -29,7 +29,7 @@ Class | Date | PDF | Quarto .qmd | Recording
     - Details on the [submissions we've received are found here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md).
     - We want to be sure all Project A Plans are approved well before 2023-03-01 at noon.
 
-# On (Project) Titles
+## On (Project) Titles
 
 - Your project should have a meaningful title (not containing the words “432” or “Project” or “Proposal” or “Plan”) but rather something describing your actual data and plans.
 - Please keep the main title to no more than 80 characters, including spaces.
