@@ -29,7 +29,7 @@ Anya Nazarenko | Predicting Sentencing Outcomes and Suicidality of Local Jail In
 An Nguyen | Predicting Counties’ Population Life Expectancy and Metropolitan Status | Urban Data Catalog: Homeowner Assistance Fund, Estimated Low-Income Jobs Lost to COVID-19 and County Health Rankings 2020
 Anthony Orsino | Examining the Social Determinants of Poverty and Asthma at a Census Tract Level | Healthy Northeast Ohio: Examining the Social Determinants of Poverty and Asthma at a Census Tract Level
 Amin Pande | The effect of Patients’ perception of care on Hospital Readmission Rate | Hospital Compare: Hospital Readmissions Reduction Program, and Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS)
-Sameer Prasada | **Needs new title** | ICSPR: India Human Development Survey-II from 2011-12
+Sameer Prasada | **Needs new title** (*IIHS-II Income Prediction*) | ICSPR: India Human Development Survey-II from 2011-12
 Samuel Rodgers-Melnick | Anxiety and Engagement in Integrative Modalities Among Adults with Chronic Pain | National Health Interview Survey, 2019
 Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022
 Faruk Senturk | Regression Analyses for Early Prediction of Pancreatic Cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
