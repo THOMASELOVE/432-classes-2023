@@ -52,7 +52,7 @@ Tom Lavin & Toby Jin | **Needs new title** (*432 Project A Plan*) | Tidy Tuesday
 Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
 Miza Salim Hammoud & Blake Waldman | Predictors of A Healthy Life Style in Young and Middle Age Ohio Residents | BRFSS 2021
 Sriram Satyavolu & Lin Di | **Needs new title** (*Key features of a household that influences a child’s Medicaid status and when they recieved the first vaccination against seasonal flu*) | CDC National Immunization Survey, 2014
-Fang Wang & Tian Liu | **Needs new title** )(*432 Project A Plan*) | BRFSS 2021
+Fang Wang & Tian Liu | **Needs new title** (*432 Project A Plan*) | BRFSS 2021
 Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
 
 # Problems
