@@ -36,7 +36,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 - Avoid deadwood like "The Analysis of" or "Analyzing" or "Effects of" or "factors associated with" in titles.
 - Don't use acronyms, initialisms or abbreviations in titles which confuse the reader. 
 
-Your readers for this purpose includes other students in this class, and the TAs, and Dr. Love.
+Your readers for assignments in 432 include: other students in this class, the TAs, and Dr. Love.
 
 ## Today's Data
 
