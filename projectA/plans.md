@@ -16,7 +16,7 @@ Pedram Golnari | Factors affecting number of times diabetic patients see health 
 Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
 Kimberly Han | How Social Determinants of Health relate to Chlamydia rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
 Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
-Naveen Kannan | Predictors of Heavy E-Cigarette Use among Adults in the United States, and the factors associated with them | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
+Naveen Kannan | **Needs new title** | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
 Ritesh KC | Prediction of Paid Work outcome from Living Conditions of Women and their Well-being | Zenodo: LivWell Data Sets
 Aqsa Kahn | Understanding the Effect of Socio-Economic Burden on Caregivers Health | BRFSS 2021
 Tracy Kongai | Racial institutional representation using the Urban Catalog Data | Urban Institute: 4 Year College Representativeness, 2009-2017
