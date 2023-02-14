@@ -4,14 +4,14 @@ Last Update: 2023-02-13 at 11:00 PM
 
 # Plans Received from Individual Investigators
 
-Investigator | Title | Data Source
+Investigator | Title (< 80 characters) | Data Source
 ------------------: | :-------------------------------------------------: | :-----------------------------------------:
 Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
 Naji Ayyash | An Analysis of Foreign Born Koreans Living in the U.S. | ICSPR: Health and Life Study of Koreans
 Samantha Baker | Exploring Possible Predictors of BMI & Adverse Childhood Experiences | BRFSS 2021
 Lithe Basbous | Habitual Effects on Mental and Physical Health | BRFSS 2021
 Seth Bauer | Predicting Mean Arterial Blood Pressure and Arterial Catheter Placement | PhysioNet: data from the MIMIC-II critical care database
-Izzy Genuario | The Association between Substance Use and Negative Life Experiences using BRFSS (2021) | BRFSS 2021
+Izzy Genuario | **Needs new title** | BRFSS 2021
 Pedram Golnari | Factors affecting number of times diabetic patients see health professionals | BRFSS 2021
 Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
 Kimberly Han | How Social Determinants of Health relate to Chlamydia rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
@@ -41,7 +41,7 @@ Robby Zhang | **Needs new title** | Asthma Call-Back Survey from NACP and NCEH (
 
 # Plans Received from Teams of Two
 
-Investigator(s) | Title | Data Source 
+Investigator(s) | Title (< 80 characters) | Data Source 
 ------------------: | :-------------------------------------------------: | :-----------------------------------------:
 Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
 Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
