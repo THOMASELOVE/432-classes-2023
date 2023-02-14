@@ -29,6 +29,15 @@ Class | Date | PDF | Quarto .qmd | Recording
     - Details on the [submissions we've received are found here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md).
     - We want to be sure all Project A Plans are approved well before 2023-03-01 at noon.
 
+# On (Project) Titles
+
+- Your project should have a meaningful title (not containing the words “432” or “Project” or “Proposal” or “Plan”) but rather something describing your actual data and plans.
+- Please keep the main title to no more than 80 characters, including spaces.
+- Avoid deadwood like "The Analysis of" or "Analyzing" or "Effects of" or "factors associated with" in titles.
+- Don't use acronyms, initialisms or abbreviations in titles which confuse the reader. 
+
+Your readers for this purpose includes other students in this class, and the TAs, and Dr. Love.
+
 ## Today's Data
 
 comes from [NHANES, specifically the 2011-12 administration](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/overview.aspx?BeginYear=2011).
