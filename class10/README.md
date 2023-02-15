@@ -10,4 +10,15 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 10 | 2023-02-16 | **[Slides 10](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides10.pdf)** | **[Code 10](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides10.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-## More to come.
+## Updates since last class
+
+1. I fixed slides 8 and 9 from the Slides for Class 09.
+2. 
+
+## What Should I Be Working On?
+
+To come.
+
+## One Last Thing
+
+To come.
