@@ -10,4 +10,13 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 12 | 2023-02-23 | **[Slides 12](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides12.pdf)** | **[Code 12](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides12.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-## More to come.
+## Materials for the `bradley` example
+
+- The original source is Steven M. Bradley, Joleen A. Borgerding, G. Blake Wood, et al. [Incidence, Risk Factors, and Outcomes Associated With In-Hospital Acute Myocardial Infarction](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2720923) *JAMA Netw Open* 2019; 2(1): e187348. doi:10.1001/jamanetworkopen.2018.7348.
+- [JAMA Table Creation Instructions](https://jama.jamanetwork.com/data/ifora-forms/jama/tablecreationinst.pdf) (pdf)
+- The bradley_sim file: .qmd code, .html result
+- The bradley_table1 file: .qmd code, .html result
+- The bradley.csv data file
+- The bradley_table1_result.csv file
+
+[Chapter 18 in the Course Notes](https://thomaselove.github.io/432-notes/) covers the topic of building a Table 1 far more extensively, with two detailed examples. Those notes should be helpful for doing the Table 1 work required in [Lab 5](https://thomaselove.github.io/432-2023/lab5.html).
