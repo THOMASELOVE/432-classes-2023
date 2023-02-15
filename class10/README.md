@@ -12,7 +12,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Updates since last class
 
-1. I fixed slides 8 and 9 from the Slides for Class 09.
+1. I fixed slides 8 and 9 from the [Slides for Class 09](https://github.com/THOMASELOVE/432-classes-2023/blob/main/class09).
 2. 
 
 ## What Should I Be Working On?
