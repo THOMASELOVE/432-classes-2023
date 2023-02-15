@@ -31,7 +31,7 @@ Anthony Orsino | Examining the Social Determinants of Poverty and Asthma at a Ce
 Amin Pande | The effect of Patients’ perception of care on Hospital Readmission Rate | Hospital Compare: Hospital Readmissions Reduction Program, and Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS)
 Sameer Prasada | **Needs new title** (*IIHS-II Income Prediction*) | ICSPR: India Human Development Survey-II from 2011-12
 Samuel Rodgers-Melnick | Anxiety and Engagement in Integrative Modalities Among Adults with Chronic Pain | National Health Interview Survey, 2019
-Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022
+Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
 Faruk Senturk | Regression Analyses for Early Prediction of Pancreatic Cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
 Katherine Slain | Community and Educational Predictors of Teen Pregnancy and Arrest Rates | County Health Rankings 2020 and Social Vulnerability Index 2020 from CDC
 Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
