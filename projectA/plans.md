@@ -1,6 +1,6 @@
 # Project A Plans
 
-Last Update: 2023-02-14 at 9:55 AM
+Last Update: 2023-02-15 at 5 PM
 
 # Plans Received from Individual Investigators
 
@@ -12,6 +12,7 @@ Samantha Baker | Exploring Possible Predictors of BMI & Adverse Childhood Experi
 Jules Joel Bakhos | **Needs new title** (*Predicting School Area Characteristics: Single-Parent Proportions and Poverty Levels*)| Urban Institute: Household Conditions by Geographic School District, 2019
 Lithe Basbous | Habitual Effects on Mental and Physical Health | BRFSS 2021
 Seth Bauer | Predicting Mean Arterial Blood Pressure and Arterial Catheter Placement | PhysioNet: data from the MIMIC-II critical care database
+Christopher Benson | **Needs new title** (*Social Determinnants of Health That Predict a County’s Overall Health*) | PLACES 2022 (or maybe 2020 data) plus CHR 2022
 Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
 Izzy Genuario | **Needs new title** (*The Association between Substance Use and Negative Life Experiences using BRFSS (2021)*)| BRFSS 2021
 Pedram Golnari | Factors affecting number of times diabetic patients see health professionals | BRFSS 2021
@@ -57,7 +58,6 @@ Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, 
 
 # Problems
 
-- Christopher Benson (no submission)
 - Licia Clowtis (no submission)
 - Lentlametse Mantshonyane (must select new data - County Health Rankings alone isn't OK)
 - Shwetank Singh (HTML file is incorrectly knitted from .qmd, contains a data file we cannot replicate)
