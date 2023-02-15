@@ -15,9 +15,15 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. I fixed slides 8 and 9 from the [Slides for Class 09](https://github.com/THOMASELOVE/432-classes-2023/blob/main/class09) to address the issue with using six rather than seven data sources from NHANES, and to drop the sodium chloride variable that I wound up not using anyway.
 2. Feedback on the Minute Paper after Class 09 will be posted **by class time**.
 
+## Comments on the Project A Plans
+
+Details to come.
+
 ## What Should I Be Working On?
 
-To come.
+1. [Lab 4](https://thomaselove.github.io/432-2023/lab4.html) due Monday 2023-02-20 at 9 PM.
+2. Revisions, if needed, on your Project A Plan.
+3. [Quiz 1] will be posted on Thursday 2023-02-23, and is due Monday 2023-02-27 at 9 PM.
 
 ## One Last Thing
 
