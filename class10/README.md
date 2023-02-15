@@ -19,6 +19,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 Details to come.
 
+## Looking for a different color palette to use with R?
+
+You might want to look into [paletteer](https://github.com/EmilHvitfeldt/paletteer).
+
 ## What Should I Be Working On?
 
 1. [Lab 4](https://thomaselove.github.io/432-2023/lab4.html) due Monday 2023-02-20 at 9 PM.
@@ -27,4 +31,7 @@ Details to come.
 
 ## One Last Thing
 
-To come.
+- [Frustrated With Polling? Pollsters Are, Too](https://www.nytimes.com/interactive/2022/10/24/opinion/frustrated-with-polling-pollsters-are-too.html) by Quoctrung Bui in the New York Times, 2022-10-24
+- [Biden Says He Doesn’t Believe The Polls. He Should.](https://fivethirtyeight.com/videos/biden-says-he-doesnt-believe-the-polls-he-should/) (538 Politics Podcast), 2023-02-13
+- [How Our 2022 Midterm Forecasts Performed](https://fivethirtyeight.com/features/how-our-2022-midterm-forecasts-performed/) by Nate Silver, FiveThirtyEight, 2023-02-02.
+- [Model Talk: The Model Always Had Its Doubts About The Red Wave](https://fivethirtyeight.com/videos/the-model-always-had-its-doubts-about-the-red-wave/) (538 Politics Podcast), 2023-02-06
