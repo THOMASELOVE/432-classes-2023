@@ -28,7 +28,7 @@ You might want to look into [paletteer](https://github.com/EmilHvitfeldt/palette
 
 1. [Lab 4](https://thomaselove.github.io/432-2023/lab4.html) due Monday 2023-02-20 at 9 PM.
 2. Revisions, if needed, on your Project A Plan.
-3. [Quiz 1] will be posted on Thursday 2023-02-23, and is due Monday 2023-02-27 at 9 PM.
+3. [Quiz 1](https://thomaselove.github.io/432-2023/quiz1.html) will be posted on Thursday 2023-02-23, and is due Monday 2023-02-27 at 9 PM.
 
 ## One Last Thing
 
