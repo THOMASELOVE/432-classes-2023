@@ -13,7 +13,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## Updates since last class
 
 1. I fixed slides 8 and 9 from the [Slides for Class 09](https://github.com/THOMASELOVE/432-classes-2023/blob/main/class09) to address the issue with using six rather than seven data sources from NHANES, and to drop the sodium chloride variable that I wound up not using anyway.
-2. Feedback on the Minute Paper after Class 09 will be posted **by class time**.
+2. I've updated Minute Paper grades on our Course Grading Roster (see our Shared Drive) to add in some late responses to the Minute Paper after Class 7, plus all of the results for the Minute Paper after Class 9.
+    - My feedback on the Minute Paper after Class 09 will be posted **by class time**.
 
 ## Comments on the Project A Plans
 
