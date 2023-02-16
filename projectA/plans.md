@@ -6,7 +6,7 @@ There are 47 project A plans. As of this update, 5 have been accepted, so 42 are
 
 # Accepted Plans
 
-If your name is listed below, review our comments on the most recent version of your plan by visiting the Evaluation of 432 Project A Plans Google Sheet within the **Project A Plan Reviews** section of our Shared Drive, and then move on to preparing the rest of Project A. Thanks, and congratulations!
+If your name is listed below, review our comments on the most recent version of your plan by visiting the Evaluation of 432 Project A Plans Google Sheet within the **Project A Plan Reviews** section of our Shared Drive, and then move on to preparing the rest of Project A. You should not submit any further revisions to your Project A plan - just move on. Thanks, and congratulations!
 
 ## Accepted Plans from Individual Investigators
 
