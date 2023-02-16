@@ -8,13 +8,13 @@ There are 47 project A plans. As of this update, 5 have been accepted, so 42 are
 
 ## Accepted Plans from Individual Investigators
 
-Score | Investigator | Title (80 characters or fewer) | Data Source
-:-----: | :-----------------: | :-------------------------------------------------: | :-------------------------------------:
-20 | Samantha Baker | Exploring Possible Predictors of BMI & Adverse Childhood Experiences | BRFSS 2021
-20 | Seth Bauer | Predicting Mean Arterial Blood Pressure and Arterial Catheter Placement | PhysioNet: data from the MIMIC-II critical care database
-20 | Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
-20 | Marie Masotya | Birth Control use and decision making in 227 regions worldwide | Zenodo: LivWell Data Sets
-20 | Samuel Rodgers-Melnick | Anxiety and Engagement in Integrative Modalities Among Adults with Chronic Pain | National Health Interview Survey, 2019
+Score | Group | Investigator | Title (80 characters or fewer) | Data Source
+:-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
+20 | A-12 | Samantha Baker | Exploring Possible Predictors of BMI & Adverse Childhood Experiences | BRFSS 2021
+20 | A-15 | Seth Bauer | Predicting Mean Arterial Blood Pressure and Arterial Catheter Placement | PhysioNet: data from the MIMIC-II critical care database
+20 | A-28 | Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
+20 | A-30 | Marie Masotya | Birth Control use and decision making in 227 regions worldwide | Zenodo: LivWell Data Sets
+20 | A-37 | Samuel Rodgers-Melnick | Anxiety and Engagement in Integrative Modalities Among Adults with Chronic Pain | National Health Interview Survey, 2019
 
 ## Accepted Plans from Teams of Two
 
