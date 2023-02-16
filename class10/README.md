@@ -18,7 +18,11 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Comments on the Project A Plans
 
-Details to come.
+We'll visit:
+- the [Project A Plan Status page](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md) and 
+- our Shared Drive (the Evaluation of 432 Project A Plans Google Sheet in the Project A Plan Reviews folder)
+
+so I can provide you with additional instructions.
 
 ## Looking for a different color palette to use with R?
 
@@ -27,7 +31,7 @@ You might want to look into [paletteer](https://github.com/EmilHvitfeldt/palette
 ## What Should I Be Working On?
 
 1. [Lab 4](https://thomaselove.github.io/432-2023/lab4.html) due Monday 2023-02-20 at 9 PM.
-2. Revisions, if needed, on your Project A Plan.
+2. Revisions of your Project A Plan. (Most people need to submit version 2, which is due Tuesday 2023-02-21 at 9 AM. **That's in the morning**.)
 3. [Quiz 1](https://thomaselove.github.io/432-2023/quiz1.html) will be posted on Thursday 2023-02-23, and is due Monday 2023-02-27 at 9 PM.
 
 ## One Last Thing
