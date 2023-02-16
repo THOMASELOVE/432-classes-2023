@@ -5,7 +5,7 @@ Last Update: 2023-02-15 at 11:50 PM
 # Accepted Plans from Individual Investigators
 
 Score | Investigator | Title (80 characters or fewer) | Data Source
------: | :-----------------: | :-------------------------------------------------: | :-------------------------------------:
+:-----: | :-----------------: | :-------------------------------------------------: | :-------------------------------------:
 20 | Samantha Baker | Exploring Possible Predictors of BMI & Adverse Childhood Experiences | BRFSS 2021
 20 | Seth Bauer | Predicting Mean Arterial Blood Pressure and Arterial Catheter Placement | PhysioNet: data from the MIMIC-II critical care database
 20 | Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
@@ -16,7 +16,7 @@ Score | Investigator | Title (80 characters or fewer) | Data Source
 # Plans Needing Revisions from Individual Investigators
 
 Status | Investigator | Title (80 characters or fewer) | Data Source
------: | :-----------------: | :-------------------------------------------------: | :-------------------------------------:
+:-----: | :-----------------: | :-------------------------------------------------: | :-------------------------------------:
 REV | Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
 REV | Naji Ayyash | An Analysis of Foreign Born Koreans Living in the U.S. | ICSPR: Health and Life Study of Koreans
 REV | Jules Joel Bakhos | **Needs new title** (*Predicting School Area Characteristics: Single-Parent Proportions and Poverty Levels*)| Urban Institute: Household Conditions by Geographic School District, 2019
@@ -54,7 +54,7 @@ REV | Robby Zhang | **Needs new title** (*The Asthma Call-back Survey (ACBS) dat
 # Plans Needing Revisions from Teams of Two
 
 Status | Investigator(s) | Title (80 characters or fewer) | Data Source 
------: | :-----------------: | :-------------------------------------------------: | :-------------------------------------:
+:-----: | :-----------------: | :-------------------------------------------------: | :-------------------------------------:
 REV | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
 REV | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
 REV | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
