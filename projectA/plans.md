@@ -6,7 +6,7 @@ There are 47 project A plans. As of this update, 5 have been accepted, so 42 are
 
 # Accepted Plans
 
-If your name is listed below, review our comments on the most recent version of your plan and then move on to preparing the rest of Project A. Thanks, and congratulations!
+If your name is listed below, review our comments on the most recent version of your plan by visiting the Evaluation of 432 Project A Plans Google Sheet within the **Project A Plan Reviews** section of our Shared Drive, and then move on to preparing the rest of Project A. Thanks, and congratulations!
 
 ## Accepted Plans from Individual Investigators
 
@@ -20,15 +20,19 @@ Score | Group | Investigator | Title (80 characters or fewer) | Data Source
 
 ## Accepted Plans from Teams of Two
 
-Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source 
+Score | Group | Investigator(s) | Title (80 characters or fewer) | Data Source 
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
+-- | -- | None yet accepted.
 
+# Plans Which Need Revision
 
-# Plans Awaiting Revision 1 (2nd Attempt)
+If your project is listed below, review our comments on the most recent version of your plan by visiting the Evaluation of 432 Project A Plans Google Sheet within the **Project A Plan Reviews** section of our Shared Drive, and then revise your draft accordingly and re-submit your work to Canvas, according to your Status, as described below.
 
-- **Status** = NS means you have yet to submit an initial version of your project A plan. Please submit your work to Canvas in the **Project A Plan Revisions** assignment as soon as possible.
-- **Status** = VER2 means you are asked to revise your work in light of our comments and submit a second version of your project A plan to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER2 for you by 9 AM on Tuesday 2023-02-21, but earlier would be appreciated.
-- **Status** = VER3 means you are asked to revise your work in light of our comments and submit a third version of your project A plan to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER3 for you by 9 AM on Friday 2023-02-24, but earlier would be appreciated.
+Status | Meaning
+-----: | :------------------------------------------------------------------------
+NS | You have yet to submit an initial version of your project A plan. Please submit your work to Canvas in the **Project A Plan Revisions** assignment as soon as possible.
+VER2 | You need to revise your initial Project A plan in light of our comments and submit a second version of your project A plan to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER2 for you by **9 AM on Tuesday 2023-02-21**, but earlier would be appreciated.
+VER3 | You need to revise your work on your second version of the Project A plan in light of our comments and submit a third version to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER3 for you by **9 AM on Friday 2023-02-24**, but earlier would be appreciated.
 
 ## Individual Investigators
 
@@ -69,6 +73,15 @@ VER2 | A-46 | Meredith Zhang | Is there anything we can do to prevent mental bre
 VER2 | A-47 | Robby Zhang | **Needs new title** (*The Asthma Call-back Survey (ACBS) data 2019 analysis*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
 ## Teams of Two
+
+If your project is listed below, review our comments on the most recent version of your plan by visiting the Evaluation of 432 Project A Plans Google Sheet within the **Project A Plan Reviews** section of our Shared Drive, and then revise your draft accordingly and re-submit your work to Canvas, according to your Status, as described below.
+
+Status | Meaning
+-----: | :------------------------------------------------------------------------
+NS | You have yet to submit an initial version of your project A plan. Please submit your work to Canvas in the **Project A Plan Revisions** assignment as soon as possible.
+VER2 | You need to revise your initial Project A plan in light of our comments and submit a second version of your project A plan to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER2 for you by **9 AM on Tuesday 2023-02-21**, but earlier would be appreciated.
+VER3 | You need to revise your work on your second version of the Project A plan in light of our comments and submit a third version to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER3 for you by **9 AM on Friday 2023-02-24**, but earlier would be appreciated.
+
 
 Status | Group | Investigators | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
