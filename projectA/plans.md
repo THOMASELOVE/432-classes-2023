@@ -32,7 +32,7 @@ Status | Meaning
 -----: | :------------------------------------------------------------------------
 NS | You have yet to submit an initial version of your project A plan. Please submit your work to Canvas in the **Project A Plan Revisions** assignment as soon as possible.
 VER2 | You need to revise your initial Project A plan in light of our comments and submit a second version of your project A plan to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER2 for you by **9 AM on Tuesday 2023-02-21**, but earlier would be appreciated.
-VER3 | You need to revise your work on your second version of the Project A plan in light of our comments and submit a third version to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER3 for you by **9 AM on Friday 2023-02-24**, but earlier would be appreciated.
+VER3 | You need to revise your work on your second version of the Project A plan in light of our comments and submit a third version to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER3 for you by **9 AM on Saturday 2023-02-25**, but earlier would be appreciated.
 
 ## Individual Investigators
 
@@ -80,7 +80,7 @@ Status | Meaning
 -----: | :------------------------------------------------------------------------
 NS | You have yet to submit an initial version of your project A plan. Please submit your work to Canvas in the **Project A Plan Revisions** assignment as soon as possible.
 VER2 | You need to revise your initial Project A plan in light of our comments and submit a second version of your project A plan to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER2 for you by **9 AM on Tuesday 2023-02-21**, but earlier would be appreciated.
-VER3 | You need to revise your work on your second version of the Project A plan in light of our comments and submit a third version to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER3 for you by **9 AM on Friday 2023-02-24**, but earlier would be appreciated.
+VER3 | You need to revise your work on your second version of the Project A plan in light of our comments and submit a third version to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER3 for you by **9 AM on Saturday 2023-02-25**, but earlier would be appreciated.
 
 
 Status | Group | Investigators | Title (80 characters or fewer) | Data Source
