@@ -2,7 +2,11 @@
 
 Last Update: 2023-02-15 at 11:50 PM
 
-# Accepted Plans from Individual Investigators
+There are 47 project A plans. As of this update, 5 have been accepted, so 42 are in need of revision.
+
+# Accepted Plans
+
+## Accepted Plans from Individual Investigators
 
 Score | Investigator | Title (80 characters or fewer) | Data Source
 :-----: | :-----------------: | :-------------------------------------------------: | :-------------------------------------:
@@ -12,8 +16,15 @@ Score | Investigator | Title (80 characters or fewer) | Data Source
 20 | Marie Masotya | Birth Control use and decision making in 227 regions worldwide | Zenodo: LivWell Data Sets
 20 | Samuel Rodgers-Melnick | Anxiety and Engagement in Integrative Modalities Among Adults with Chronic Pain | National Health Interview Survey, 2019
 
+## Accepted Plans from Teams of Two
 
-# Plans Needing Revisions from Individual Investigators
+Status | Investigator(s) | Title (80 characters or fewer) | Data Source 
+:-----: | :-----------------: | :-------------------------------------------------: | :-------------------------------------:
+
+
+# Plans Awaiting Revision 1 (2nd Attempt)
+
+## Individual Investigators
 
 Status | Investigator | Title (80 characters or fewer) | Data Source
 :-----: | :-----------------: | :-------------------------------------------------: | :-------------------------------------:
@@ -22,7 +33,7 @@ REV | Naji Ayyash | An Analysis of Foreign Born Koreans Living in the U.S. | ICS
 REV | Jules Joel Bakhos | **Needs new title** (*Predicting School Area Characteristics: Single-Parent Proportions and Poverty Levels*)| Urban Institute: Household Conditions by Geographic School District, 2019
 REV | Lithe Basbous | Habitual Effects on Mental and Physical Health | BRFSS 2021
 REV | Christopher Benson | **Needs new title** (*Social Determinnants of Health That Predict a County’s Overall Health*) | PLACES 2022 (or maybe 2020 data) plus CHR 2022
--- | Licia Clowtis | No submission 
+-- | Licia Clowtis | No submission yet
 REV | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
 REV | Izzy Genuario | **Needs new title** (*The Association between Substance Use and Negative Life Experiences using BRFSS (2021)*)| BRFSS 2021
 REV | Pedram Golnari | Factors affecting number of times diabetic patients see health professionals | BRFSS 2021
@@ -51,7 +62,7 @@ REV | Savannah Wu | **Needs new title** (*Effects of tobacco and alcohol on phys
 REV | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
 REV | Robby Zhang | **Needs new title** (*The Asthma Call-back Survey (ACBS) data 2019 analysis*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
-# Plans Needing Revisions from Teams of Two
+## Teams of Two
 
 Status | Investigator(s) | Title (80 characters or fewer) | Data Source 
 :-----: | :-----------------: | :-------------------------------------------------: | :-------------------------------------:
