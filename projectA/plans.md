@@ -4,6 +4,16 @@ Last Update: 2023-02-20 at 1:56 PM
 
 There are 47 project A plans. As of this update, 5 have been accepted, so 42 are in need of revision.
 
+## Table of Contents
+
+- [Accepted Plans from Individual Investigators](#accepted-plans-from-individual-investigators)
+- [Accepted Plans from Teams of Two](#accepted-plans-from-teams-of-two)
+- [Submitted Plans Awaiting Dr. Love's Review from Individual Investigators](#submitted-plans-awaiting-dr-loves-review-from-individual-investigators)
+- [Submitted Plans Awaiting Dr. Love's Review from Teams of Two](#submitted-plans-awaiting-dr-loves-review-from-teams-of-two)
+- [Plans Needing Revision from Individual Investigators](#plans-needing-revision-from-individual-investigators)
+- [Plans Needing Revision from Teams of Two](#plans-needing-revision-from-teams-of-two)
+
+
 # Accepted Plans
 
 If your name is listed below, review our comments on the most recent version of your plan by visiting the Evaluation of 432 Project A Plans Google Sheet within the **Project A Plan Reviews** section of our Shared Drive, and then move on to preparing the rest of Project A. You should not submit any further revisions to your Project A plan - just move on. Thanks, and congratulations!
@@ -28,7 +38,7 @@ Score | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 
 The following projects have been resubmitted to Canvas, and will be graded by Dr. Love soon.
 
-## Individual Investigators
+## Submitted Plans Awaiting Dr. Love's Review from Individual Investigators
 
 Status | Group | Investigator | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
@@ -62,7 +72,7 @@ NS | You have yet to submit an initial version of your project A plan. Please su
 VER2 | You need to revise your initial Project A plan in light of our comments and submit a second version of your project A plan to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER2 for you by **9 AM on Tuesday 2023-02-21**, but earlier would be appreciated.
 VER3 | You need to revise your work on your second version of the Project A plan in light of our comments and submit a third version to Canvas in the **Project A Plan Revisions** assignment. We expect to see VER3 for you by **9 AM on Saturday 2023-02-25**, but earlier would be appreciated.
 
-## Individual Investigators
+## Plans Needing Revision from Individual Investigators
 
 Status | Group | Investigator | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
@@ -88,7 +98,7 @@ VER2 | A-45 | Savannah Wu | **Needs new title** (*Effects of tobacco and alcohol
 VER2 | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
 VER2 | A-47 | Robby Zhang | **Needs new title** (*The Asthma Call-back Survey (ACBS) data 2019 analysis*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
-## Teams of Two
+## Plans Needing Revision from Teams of Two
 
 If your project is listed below, review our comments on the most recent version of your plan by visiting the Evaluation of 432 Project A Plans Google Sheet within the **Project A Plan Reviews** section of our Shared Drive, and then revise your draft accordingly and re-submit your work to Canvas, according to your Status, as described below.
 
