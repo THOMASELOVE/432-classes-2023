@@ -35,14 +35,14 @@ Status | Group | Investigator | Title (80 characters or fewer) | Data Source
 VER2 | A-10 | Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
 VER2 | A-14 | Lithe Basbous | Habitual Effects on Mental and Physical Health | BRFSS 2021
 VER2 | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
-VER2 | A-24 | Naveen Kannan | **Needs new title** (*Predictors of Heavy E-Cigarette Use among Adults in the United States, and the factors associated with them*) | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
+VER2 | A-24 | Naveen Kannan | *Revised title*: Predictors of Heavy E-Cigarette Use among Adults in the United States | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
 VER2 | A-31 | Ben Mittman | Learning Needs in K-12 Children During COVID-19 | Urban Data Catalog: Household Conditions by Geographic School District
 VER2 | A-34 | Anthony Orsino | Examining the Social Determinants of Poverty and Asthma at a Census Tract Level | Healthy Northeast Ohio: Examining the Social Determinants of Poverty and Asthma at a Census Tract Level
-VER2 | A-36 | Sameer Prasada | **Needs new title** (*IIHS-II Income Prediction*) | ICSPR: India Human Development Survey-II from 2011-12
+VER2 | A-36 | Sameer Prasada | *Revised title* Predicting Income in India Using Individual and Community Data | ICSPR: India Human Development Survey-II from 2011-12
 VER2 | A-39 | Faruk Senturk | Regression Analyses for Early Prediction of Pancreatic Cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
 VER2 | A-41 | Katherine Slain | Community and Educational Predictors of Teen Pregnancy and Arrest Rates | County Health Rankings 2020 and Social Vulnerability Index 2020 from CDC
 VER2 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
-VER2 | A-43 | Xinyu Sun | **Needs new title** (*Study Factors that Influence Coffee Flavor and Classify Coffee Beans’ Mean Altitude*) | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
+VER2 | A-43 | Xinyu Sun | *Revised title* Factors Affecting Coffee Grading and Altitude Classification of Coffee Beans | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
 VER2 | A-44 | Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission Type Using EPA Data | Tidy Tuesday 2019-10-15: Big EPA Cars data on fuel economy of automobiles
 
 ## Teams of Two
