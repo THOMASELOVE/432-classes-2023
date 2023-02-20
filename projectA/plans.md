@@ -55,7 +55,7 @@ VER2 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma 
 VER2 | A-43 | Xinyu Sun | *Revised title* Factors Affecting Coffee Grading and Altitude Classification of Coffee Beans | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
 VER2 | A-44 | Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission Type Using EPA Data | Tidy Tuesday 2019-10-15: Big EPA Cars data on fuel economy of automobiles
 
-## Teams of Two
+## Submitted Plans Awaiting Dr. Love's Review from Teams of Two
 
 Status | Group | Investigators | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
