@@ -15,8 +15,9 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## Announcements
 
 1. Update on Project A Plans - some details [are here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md).
-2. There is a Minute Paper after Class 11, due Wednesday 2023-02-22 at Noon. **Link to come**.
-3. Thanks to those of you who contributed to the first discussion on "How To Be a Modern Scientist" at Campuswire, which is now closed (in terms of my awarding points for participation.) I will post another discussion question to Campuswire after Quiz 1.
+2. There is a Minute Paper after Class 11, due Wednesday 2023-02-22 at Noon. **Link to appear by class time**.
+3. The Answer Sketch for Lab 4 will be posted to our Shared Drive **by class time**.
+4. Thanks to those of you who contributed to the first discussion on "How To Be a Modern Scientist" at Campuswire, which is now closed (in terms of my awarding points for participation.) I will post another discussion question to Campuswire after Quiz 1.
 
 ## What Should I Be Working On?
 
