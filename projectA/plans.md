@@ -57,7 +57,6 @@ VER2 | A-31 | Ben Mittman | Learning Needs in K-12 Children During COVID-19 | Ur
 VER2 | A-34 | Anthony Orsino | Examining the Social Determinants of Poverty and Asthma at a Census Tract Level | Healthy Northeast Ohio: Examining the Social Determinants of Poverty and Asthma at a Census Tract Level
 VER2 | A-35 | Amin Pande | The effect of Patients’ perception of care on Hospital Readmission Rate | Hospital Compare: Hospital Readmissions Reduction Program, and Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS)
 VER2 | A-36 | Sameer Prasada | *Revised title* Predicting Income in India Using Individual and Community Data | ICSPR: India Human Development Survey-II from 2011-12
-VER2 | A-39 | Faruk Senturk | Regression Analyses for Early Prediction of Pancreatic Cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
 VER2 | A-41 | Katherine Slain | Community and Educational Predictors of Teen Pregnancy and Arrest Rates | County Health Rankings 2020 and Social Vulnerability Index 2020 from CDC
 VER2 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 VER2 | A-43 | Xinyu Sun | *Revised title* Factors Affecting Coffee Grading and Altitude Classification of Coffee Beans | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
@@ -98,6 +97,7 @@ VER2 | A-27 | Tracy Kongai | Racial institutional representation using the Urban
 VER2 | A-32 | Anya Nazarenko | Predicting Sentencing Outcomes and Suicidality of Local Jail Inmates | ICSPR: 2002 Survey of Inmates in Local Jails from DOJ and Bureau of Justice Statistics
 VER2 | A-33 | An Nguyen | Predicting Counties’ Population Life Expectancy and Metropolitan Status | Urban Data Catalog: Homeowner Assistance Fund, Estimated Low-Income Jobs Lost to COVID-19 and County Health Rankings 2020
 VER2 | A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
+VER3 | A-39 | Faruk Senturk | *Title revised to*: The early detection of pancreatic cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
 VER2 | A-40 | Shwetank Singh | **Needs new title** (*Risk factors that cause people to be not functional*) | BRFEE 2021 (HTML file is incorrectly knitted)
 VER2 | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
 
