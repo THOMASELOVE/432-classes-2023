@@ -2,7 +2,7 @@
 
 Last Update: 2023-02-21 at 11:07 AM
 
-There are 47 project A plans. As of this update, 16 have been accepted, and 13 recent submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 16 have been accepted, and 15 recent submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -31,6 +31,8 @@ On Canvas | A-33 | An Nguyen | Predicting Counties’ Population Life Expectancy
 On Canvas | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
 On Canvas | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
 On Canvas | A-09 | Miza Salim Hammoud & Blake Waldman | Predictors of A Healthy Life Style in Young and Middle Age Ohio Residents | BRFSS 2021
+LATE | A-25 | Ritesh KC | **Will need another new title** (*Prediction of Paid Work outcome from Living Conditions of Women*) | Zenodo: LivWell Data Sets
+LATE | A-40 | Shwetank Singh | *Revised title* Risk factors impeding daily functionality | BRFEE 2021 (HTML file is incorrectly knitted)
 
 # Plans Where Dr. Love Awaits an Initial Submission
 
@@ -47,10 +49,8 @@ Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 VER2 | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
 VER2 | A-22 | Kimberly Han | **Needs new title** (*How Social Determinants of Health relate to Chlamydia rates and Housing Vacancies*) | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
 VER2 | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
-VER2 | A-25 | Ritesh KC | **Needs new title** (*Prediction of Paid Work outcome from Living Conditions of Women and their Well-being*) | Zenodo: LivWell Data Sets
 VER2 | A-27 | Tracy Kongai | Racial institutional representation using the Urban Catalog Data | Urban Institute: 4 Year College Representativeness, 2009-2017
 VER2 | A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
-VER2 | A-40 | Shwetank Singh | **Needs new title** (*Risk factors that cause people to be not functional*) | BRFEE 2021 (HTML file is incorrectly knitted)
 
 # Dr. Love Awaits Version 3 (due SATURDAY 2023-02-25 at 9 AM)
 
