@@ -18,7 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-43 | Xinyu Sun | *Revised title* Factors Affecting Coffee Grading and Altitude Classification of Coffee Beans | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
 On Canvas | A-01 | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
 On Canvas | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
 On Canvas | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
@@ -74,6 +73,7 @@ VER3 | A-24 | Naveen Kannan | Predictors of Heavy E-Cigarette Use among Adults i
 VER3 | A-36 | Sameer Prasada | *Title revised to:* Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
 VER3 | A-39 | Faruk Senturk | *Title revised to*: The early detection of pancreatic cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
 VER3 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
+VER3 | A-43 | Xinyu Sun | Factors Affecting Coffee Grading and Altitude Classification of Coffee Beans | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
 
 # Accepted Plans
 
