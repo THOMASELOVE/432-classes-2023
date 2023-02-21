@@ -14,7 +14,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Update on Project A Plans - some details [are here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md).
+1. Update on Project A Plans - status updates [are here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md), and reactions to Version 2 are appearing (as Dr. Love finishes them) on Canvas. 
+    - Your score on the Project A plan is out of 20 points. Those whose plan was accepted the first time received 20 points. Those whose plan is accepted the second time (and who got version 2 in on time) will receive 18 points.
 2. There is a Minute Paper after Class 11, due Wednesday 2023-02-22 at Noon. **Link to appear by class time**.
 3. The Answer Sketch for Lab 4 will be posted to our Shared Drive **by class time**.
 4. Thanks to those of you who contributed to the first discussion on "How To Be a Modern Scientist" at Campuswire, which is now closed (in terms of my awarding points for participation.) I will post another discussion question to Campuswire after Quiz 1.
