@@ -1,8 +1,8 @@
 # Project A Plans
 
-Last Update: 2023-02-21 at 10:05 AM
+Last Update: 2023-02-21 at 10:24 AM
 
-There are 47 project A plans. As of this update, 15 have been accepted, and 16 recent submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 15 have been accepted, and 15 recent submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -18,7 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-07 | Fang Wang & Tian Liu | *Revised title* Investigating the contributing factors to the high cholesterol level and physically unhealthy days | BRFSS 2021
 On Canvas | A-45 | Savannah Wu | **Will need another new title** (*Tobacco and alcohol on physical and mental health*) | BRFSS 2021
 On Canvas | A-20 | Pedram Golnari | Factors affecting number of times diabetic patients see health professionals | BRFSS 2021
 On Canvas | A-35 | Amin Pande | The effect of Patients’ perception of care on Hospital Readmission Rate | Hospital Compare: Hospital Readmissions Reduction Program, and Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS)
@@ -62,6 +61,7 @@ Please review Dr. Love's comments on Canvas associated with your resubmission. P
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 VER3 | A-03 | Lin Di & Sriram Satyavolu | *Title revised to*: When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
+VER3 | A-07 | Fang Wang & Tian Liu | *Title revised to*: Factors which contribute to high cholesterol and to feeling physically unhealthy | BRFSS 2021
 VER3 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
 VER3 | A-14 | Lithe Basbous | **Will need a new title** (*Habitual Effects on Mental and Physical Health*) | BRFSS 2021
 VER3 | A-24 | Naveen Kannan | Predictors of Heavy E-Cigarette Use among Adults in the United States | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
