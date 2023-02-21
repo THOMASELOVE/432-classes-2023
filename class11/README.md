@@ -14,10 +14,19 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
 
+1. Update on Project A Plans
+2. Link to Minute Paper
+3. Thanks regarding How To Be a Modern Scientist first discussion on Campuswire, which is now closed.
+
 ## What Should I Be Working On?
+
+1. Minute Paper After Class 11 is due Wednesday 2023-02-22 at Noon.
+2. Quiz 1 is coming to you on Thursday 2023-02-23 by 5 PM. It is due Monday 2023-02-27 at 9 PM.
+3. Project A Plans - version 2 (for many people) was due Tuesday at 9 AM. Once Dr. Love responds (via Canvas) please do as he asks. Most of you who need to do a version 3 will have a deadline for that of 9 AM Saturday 2023-02-25.
 
 ## One Last Thing
 
-From 
+From [On the 12th Day of Christmas, a Statistician Sent to Me...](https://www.bmj.com/content/379/bmj-2022-072883)
 
 ![](christmas1.png)
+
