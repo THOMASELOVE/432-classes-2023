@@ -61,6 +61,7 @@ VER2 | A-44 | Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission T
 Status | Group | Investigators | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 VER2 | A-01 | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
+VER2 | A-03 | Sriram Satyavolu & Lin Di | **Will need another new title** (*Predict Child’s Age of Vaccination and Medicaid Status with Household Features*) | CDC National Immunization Survey, 2014
 VER2 | A-06 | Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
 VER2 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
 
@@ -112,7 +113,6 @@ VER3 | You need to revise your work on your second version of the Project A plan
 Status | Group | Investigators | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 VER2 | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
-VER2 | A-03 | Sriram Satyavolu & Lin Di | **Needs new title** (*Key features of a household that influences a child’s Medicaid status and when they recieved the first vaccination against seasonal flu*) | CDC National Immunization Survey, 2014
 VER2 | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
 VER2 | A-05 | Tom Lavin & Toby Jin | **Needs new title** (*432 Project A Plan*) | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
 VER2 | A-07 | Fang Wang & Tian Liu | **Needs new title** (*432 Project A Plan*) | BRFSS 2021
