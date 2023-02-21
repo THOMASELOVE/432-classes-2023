@@ -1,8 +1,8 @@
 # Project A Plans
 
-Last Update: 2023-02-21 at 9:29 AM
+Last Update: 2023-02-21 at 9:36 AM
 
-There are 47 project A plans. As of this update, 12 have been accepted, and 18 recent submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 14 have been accepted, and 16 recent submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -18,8 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-13 | Jules Joel Bakhos | *Revised title* Predicting School Area Characteristics: Single-Parent Proportions and Poverty | Urban Institute: Household Conditions by Geographic School District, 2019
-On Canvas | A-06 | Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
 On Canvas | A-03 | Sriram Satyavolu & Lin Di | **Will need another new title** (*Predict Child’s Age of Vaccination and Medicaid Status with Household Features*) | CDC National Immunization Survey, 2014
 On Canvas | A-11 | Naji Ayyash | An Analysis of Foreign Born Koreans Living in the U.S. | ICSPR: Health and Life Study of Koreans
 On Canvas | A-07 | Fang Wang & Tian Liu | *Revised title* Investigating the contributing factors to the high cholesterol level and physically unhealthy days | BRFSS 2021
@@ -76,15 +74,17 @@ VER3 | A-43 | Xinyu Sun | Factors Affecting Coffee Grading and Altitude Classifi
 # Accepted Plans
 
 - If your name is listed below with a score of 20, review our comments on the Shared Drive Sheet for Project A plans, and then move on to preparing the rest of Project A. 
-- If your name is listed below with a score below 20, review our comments on Canvas, and then move on to preparing the rest of Project A. 
+- If your name is listed below with a score below 20, review our comments on Canvas (if we had any), and then move on to preparing the rest of Project A. 
 
 In either case, you should not submit any further revisions to your Project A plan. Thanks, and congratulations!
 
 Score | Group | Investigator(s)| Title | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 18 | A-01 | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
+18 | A-06 | Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
 18 | A-10 | Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
 20 | A-12 | Samantha Baker | Exploring Possible Predictors of BMI & Adverse Childhood Experiences | BRFSS 2021
+18 | A-13 | Jules Joel Bakhos | Predicting School Area Characteristics: Single-Parent Proportions and Poverty | Urban Institute: Household Conditions by Geographic School District, 2019
 20 | A-15 | Seth Bauer | Predicting Mean Arterial Blood Pressure and Arterial Catheter Placement | PhysioNet: data from the MIMIC-II critical care database
 18 | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
 20 | A-28 | Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
