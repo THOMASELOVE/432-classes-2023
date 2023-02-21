@@ -25,7 +25,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## What Should I Be Working On?
 
 1. [Minute Paper After Class 11](https://bit.ly/432-2023-minute-11) is due Wednesday 2023-02-22 at Noon. You'll find it at https://bit.ly/432-2023-minute-11.
-2. Quiz 1 is coming to you on Thursday 2023-02-23 by 5 PM. It is due Monday 2023-02-27 at 9 PM.
+2. [Quiz 1](https://thomaselove.github.io/432-2023/quiz1.html) is coming to you on Thursday 2023-02-23 by 5 PM. It is due Monday 2023-02-27 at 9 PM.
 3. [Project A Plans](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md) - version 2 (for many people) was due Tuesday at 9 AM. 
     - Once Dr. Love responds (via Canvas) please do as he asks. Most of you who need to do a version 3 will have a deadline for that of **9 AM** Saturday 2023-02-25.
 
