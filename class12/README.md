@@ -20,3 +20,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 - The [bradley_table1_result.csv](https://github.com/THOMASELOVE/432-slides-2023/blob/main/c12/data/bradley_table1_result.csv) file
 
 [Chapter 18 in the Course Notes](https://thomaselove.github.io/432-notes/) covers the topic of building a Table 1 far more extensively, with two detailed examples. Those notes should be helpful for doing the Table 1 work required in [Lab 5](https://thomaselove.github.io/432-2023/lab5.html).
+
+## One Last Thing
+
+![](https://imgs.xkcd.com/comics/data_quality.png) [Link to XKCD](https://xkcd.com/2739)
