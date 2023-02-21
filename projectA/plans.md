@@ -1,6 +1,6 @@
 # Project A Plans
 
-Last Update: 2023-02-21 at 7:38 AM
+Last Update: 2023-02-21 at 8:20 AM
 
 There are 47 project A plans. As of this update, 10 have been accepted, and many are awaiting review by Dr. Love.
 
@@ -18,7 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-36 | Sameer Prasada | *Revised title* Predicting Income in India Using Individual and Community Data | ICSPR: India Human Development Survey-II from 2011-12
 On Canvas | A-43 | Xinyu Sun | *Revised title* Factors Affecting Coffee Grading and Altitude Classification of Coffee Beans | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
 On Canvas | A-01 | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
 On Canvas | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
@@ -36,6 +35,8 @@ On Canvas | A-16 | Christopher Benson | *Revised title* Social Determinants That
 On Canvas | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
 On Canvas | A-47 | Robby Zhang | **Will need another new title** (*To find out whether some household factors can contribute to asthma and bronchitis*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 On Canvas | A-19 | Izzy Genuario | *Revised title* Substance Use and Negative Life Experiences using BRFSS (2021) | BRFSS 2021
+On Canvas | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
+On Canvas | A-32 | Anya Nazarenko | Predicting Sentencing Outcomes and Suicidality of Local Jail Inmates | ICSPR: 2002 Survey of Inmates in Local Jails from DOJ and Bureau of Justice Statistics
 
 # Plans Where Dr. Love Awaits an Initial Submission
 
@@ -59,11 +60,9 @@ VER2 | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal M
 VER2 | A-25 | Ritesh KC | **Needs new title** (*Prediction of Paid Work outcome from Living Conditions of Women and their Well-being*) | Zenodo: LivWell Data Sets
 VER2 | A-26 | Aqsa Kahn | Understanding the Effect of Socio-Economic Burden on Caregivers Health | BRFSS 2021
 VER2 | A-27 | Tracy Kongai | Racial institutional representation using the Urban Catalog Data | Urban Institute: 4 Year College Representativeness, 2009-2017
-VER2 | A-32 | Anya Nazarenko | Predicting Sentencing Outcomes and Suicidality of Local Jail Inmates | ICSPR: 2002 Survey of Inmates in Local Jails from DOJ and Bureau of Justice Statistics
 VER2 | A-33 | An Nguyen | Predicting Counties’ Population Life Expectancy and Metropolitan Status | Urban Data Catalog: Homeowner Assistance Fund, Estimated Low-Income Jobs Lost to COVID-19 and County Health Rankings 2020
 VER2 | A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
 VER2 | A-40 | Shwetank Singh | **Needs new title** (*Risk factors that cause people to be not functional*) | BRFEE 2021 (HTML file is incorrectly knitted)
-VER2 | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
 
 # Dr. Love Awaits Version 3 (due SATURDAY 2023-02-25 at 9 AM)
 
@@ -72,6 +71,7 @@ Please review Dr. Love's comments on Canvas associated with your resubmission. P
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 VER3 | A-24 | Naveen Kannan | Predictors of Heavy E-Cigarette Use among Adults in the United States | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
+VER3 | A-36 | Sameer Prasada | *Title revised to:* Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
 VER3 | A-39 | Faruk Senturk | *Title revised to*: The early detection of pancreatic cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
 VER3 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
