@@ -2,7 +2,7 @@
 
 Last Update: 2023-02-21 at 9:48 AM
 
-There are 47 project A plans. As of this update, 14 have been accepted, and 15 recent submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 14 have been accepted, and 17 recent submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -31,6 +31,8 @@ On Canvas | A-46 | Meredith Zhang | Is there anything we can do to prevent menta
 On Canvas | A-32 | Anya Nazarenko | Predicting Sentencing Outcomes and Suicidality of Local Jail Inmates | ICSPR: 2002 Survey of Inmates in Local Jails from DOJ and Bureau of Justice Statistics
 On Canvas | A-05 | Tom Lavin & Toby Jin | *Revised title* Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
 On Canvas | A-26 | Aqsa Khan | Understanding the Effect of Socio-Economic Burden on Caregivers Health | BRFSS 2021
+On Canvas | A-33 | An Nguyen | Predicting Counties’ Population Life Expectancy and Metropolitan Status | Urban Data Catalog: Homeowner Assistance Fund, Estimated Low-Income Jobs Lost to COVID-19 and County Health Rankings 2020
+On Canvas | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
 On Canvas | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
 On Canvas | A-09 | Miza Salim Hammoud & Blake Waldman | Predictors of A Healthy Life Style in Young and Middle Age Ohio Residents | BRFSS 2021
 
@@ -47,12 +49,10 @@ Please review the comments posted to the Shared Drive associated with your initi
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 VER2 | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
-VER2 | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
 VER2 | A=22 | Kimberly Han | **Needs new title** (*How Social Determinants of Health relate to Chlamydia rates and Housing Vacancies*) | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
 VER2 | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
 VER2 | A-25 | Ritesh KC | **Needs new title** (*Prediction of Paid Work outcome from Living Conditions of Women and their Well-being*) | Zenodo: LivWell Data Sets
 VER2 | A-27 | Tracy Kongai | Racial institutional representation using the Urban Catalog Data | Urban Institute: 4 Year College Representativeness, 2009-2017
-VER2 | A-33 | An Nguyen | Predicting Counties’ Population Life Expectancy and Metropolitan Status | Urban Data Catalog: Homeowner Assistance Fund, Estimated Low-Income Jobs Lost to COVID-19 and County Health Rankings 2020
 VER2 | A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
 VER2 | A-40 | Shwetank Singh | **Needs new title** (*Risk factors that cause people to be not functional*) | BRFEE 2021 (HTML file is incorrectly knitted)
 
