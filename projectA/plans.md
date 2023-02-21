@@ -18,7 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-10 | Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
 On Canvas | A-36 | Sameer Prasada | *Revised title* Predicting Income in India Using Individual and Community Data | ICSPR: India Human Development Survey-II from 2011-12
 On Canvas | A-43 | Xinyu Sun | *Revised title* Factors Affecting Coffee Grading and Altitude Classification of Coffee Beans | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
 On Canvas | A-01 | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
@@ -85,6 +84,7 @@ In either case, you should not submit any further revisions to your Project A pl
 
 Score | Group | Investigator(s)| Title | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
+18 | A-10 | Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
 20 | A-12 | Samantha Baker | Exploring Possible Predictors of BMI & Adverse Childhood Experiences | BRFSS 2021
 20 | A-15 | Seth Bauer | Predicting Mean Arterial Blood Pressure and Arterial Catheter Placement | PhysioNet: data from the MIMIC-II critical care database
 20 | A-28 | Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
