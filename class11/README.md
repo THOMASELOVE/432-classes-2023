@@ -12,4 +12,12 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ![](carr_2023_02.png) [Link to Tweet](https://twitter.com/kareem_carr/status/1627470659793068032)
 
-## More to come.
+## Announcements
+
+## What Should I Be Working On?
+
+## One Last Thing
+
+From 
+
+![](christmas1.png)
