@@ -19,6 +19,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 2. There is a [Minute Paper after Class 11](https://bit.ly/432-2023-minute-11), due Wednesday 2023-02-22 at Noon. 
 3. The Answer Sketch for Lab 4 is now available on our Shared Drive.
 4. Thanks to those of you who contributed to the first discussion on "How To Be a Modern Scientist" at Campuswire, which is now closed (in terms of my awarding points for participation.) I will post another discussion question to Campuswire after Quiz 1.
+5. A useful next step for those of you interested in the glmnet package is [An Introduction to `glmnet`](https://glmnet.stanford.edu/articles/glmnet.html)
+
 
 ## What Should I Be Working On?
 
