@@ -18,27 +18,27 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-VER2 | A-41 | Katherine Slain | Community and Educational Predictors of Teen Pregnancy and Arrest Rates | County Health Rankings 2020 and Social Vulnerability Index 2020 from CDC
-VER2 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
-VER2 | A-10 | Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
-VER2 | A-36 | Sameer Prasada | *Revised title* Predicting Income in India Using Individual and Community Data | ICSPR: India Human Development Survey-II from 2011-12
-VER2 | A-43 | Xinyu Sun | *Revised title* Factors Affecting Coffee Grading and Altitude Classification of Coffee Beans | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
-VER2 | A-01 | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
-VER2 | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
-VER2 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
-VER2 | A-14 | Lithe Basbous | Habitual Effects on Mental and Physical Health | BRFSS 2021
-VER2 | A-13 | Jules Joel Bakhos | *Revised title* Predicting School Area Characteristics: Single-Parent Proportions and Poverty | Urban Institute: Household Conditions by Geographic School District, 2019
-VER2 | A-06 | Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
-VER2 | A-03 | Sriram Satyavolu & Lin Di | **Will need another new title** (*Predict Child’s Age of Vaccination and Medicaid Status with Household Features*) | CDC National Immunization Survey, 2014
-VER2 | A-11 | Naji Ayyash | An Analysis of Foreign Born Koreans Living in the U.S. | ICSPR: Health and Life Study of Koreans
-VER2 | A-07 | Fang Wang & Tian Liu | *Revised title* Investigating the contributing factors to the high cholesterol level and physically unhealthy days | BRFSS 2021
-VER2 | A-45 | Savannah Wu | **Will need another new title** (*Tobacco and alcohol on physical and mental health*) | BRFSS 2021
-VER2 | A-20 | Pedram Golnari | Factors affecting number of times diabetic patients see health professionals | BRFSS 2021
-VER2 | A-35 | Amin Pande | The effect of Patients’ perception of care on Hospital Readmission Rate | Hospital Compare: Hospital Readmissions Reduction Program, and Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS)
-VER2 | A-16 | Christopher Benson | *Revised title* Social Determinants That Predict a County’s Overall Health | PLACES 2022 (or maybe 2020 data) plus CHR 2022
-VER2 | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
-VER2 | A-47 | Robby Zhang | **Will need another new title** (*To find out whether some household factors can contribute to asthma and bronchitis*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
-VER2 | A-19 | Izzy Genuario | *Revised title* Substance Use and Negative Life Experiences using BRFSS (2021) | BRFSS 2021
+On Canvas | A-41 | Katherine Slain | Community and Educational Predictors of Teen Pregnancy and Arrest Rates | County Health Rankings 2020 and Social Vulnerability Index 2020 from CDC
+On Canvas | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
+On Canvas | A-10 | Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
+On Canvas | A-36 | Sameer Prasada | *Revised title* Predicting Income in India Using Individual and Community Data | ICSPR: India Human Development Survey-II from 2011-12
+On Canvas | A-43 | Xinyu Sun | *Revised title* Factors Affecting Coffee Grading and Altitude Classification of Coffee Beans | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
+On Canvas | A-01 | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
+On Canvas | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
+On Canvas | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
+On Canvas | A-14 | Lithe Basbous | Habitual Effects on Mental and Physical Health | BRFSS 2021
+On Canvas | A-13 | Jules Joel Bakhos | *Revised title* Predicting School Area Characteristics: Single-Parent Proportions and Poverty | Urban Institute: Household Conditions by Geographic School District, 2019
+On Canvas | A-06 | Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
+On Canvas | A-03 | Sriram Satyavolu & Lin Di | **Will need another new title** (*Predict Child’s Age of Vaccination and Medicaid Status with Household Features*) | CDC National Immunization Survey, 2014
+On Canvas | A-11 | Naji Ayyash | An Analysis of Foreign Born Koreans Living in the U.S. | ICSPR: Health and Life Study of Koreans
+On Canvas | A-07 | Fang Wang & Tian Liu | *Revised title* Investigating the contributing factors to the high cholesterol level and physically unhealthy days | BRFSS 2021
+On Canvas | A-45 | Savannah Wu | **Will need another new title** (*Tobacco and alcohol on physical and mental health*) | BRFSS 2021
+On Canvas | A-20 | Pedram Golnari | Factors affecting number of times diabetic patients see health professionals | BRFSS 2021
+On Canvas | A-35 | Amin Pande | The effect of Patients’ perception of care on Hospital Readmission Rate | Hospital Compare: Hospital Readmissions Reduction Program, and Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS)
+On Canvas | A-16 | Christopher Benson | *Revised title* Social Determinants That Predict a County’s Overall Health | PLACES 2022 (or maybe 2020 data) plus CHR 2022
+On Canvas | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
+On Canvas | A-47 | Robby Zhang | **Will need another new title** (*To find out whether some household factors can contribute to asthma and bronchitis*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
+On Canvas | A-19 | Izzy Genuario | *Revised title* Substance Use and Negative Life Experiences using BRFSS (2021) | BRFSS 2021
 
 # Plans Where Dr. Love Awaits an Initial Submission
 
