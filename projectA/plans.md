@@ -2,7 +2,7 @@
 
 Last Update: 2023-02-21 at 8:30 AM
 
-There are 47 project A plans. As of this update, 11 have been accepted, and 17 recent submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 12 have been accepted, and 16 recent submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -18,7 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
 On Canvas | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
 On Canvas | A-14 | Lithe Basbous | Habitual Effects on Mental and Physical Health | BRFSS 2021
 On Canvas | A-13 | Jules Joel Bakhos | *Revised title* Predicting School Area Characteristics: Single-Parent Proportions and Poverty | Urban Institute: Household Conditions by Geographic School District, 2019
@@ -87,6 +86,7 @@ Score | Group | Investigator(s)| Title | Data Source
 18 | A-10 | Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
 20 | A-12 | Samantha Baker | Exploring Possible Predictors of BMI & Adverse Childhood Experiences | BRFSS 2021
 20 | A-15 | Seth Bauer | Predicting Mean Arterial Blood Pressure and Arterial Catheter Placement | PhysioNet: data from the MIMIC-II critical care database
+18 | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
 20 | A-28 | Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
 20 | A-30 | Marie Masotya | Birth Control use and decision making in 227 regions worldwide | Zenodo: LivWell Data Sets
 18 | A-31 | Ben Mittman | Learning Needs in K-12 Children During COVID-19 | Urban Data Catalog: Household Conditions by Geographic School District
