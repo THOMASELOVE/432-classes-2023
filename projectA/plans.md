@@ -1,8 +1,8 @@
 # Project A Plans
 
-Last Update: 2023-02-21 at 6:15 AM
+Last Update: 2023-02-21 at 6:53 AM
 
-There are 47 project A plans. As of this update, 6 have been accepted, so 41 are in need of revision.
+There are 47 project A plans. As of this update, 7 have been accepted, so 40 are in need of revision.
 
 ## Table of Contents
 
@@ -26,6 +26,7 @@ Score | Group | Investigator | Title (80 characters or fewer) | Data Source
 20 | A-15 | Seth Bauer | Predicting Mean Arterial Blood Pressure and Arterial Catheter Placement | PhysioNet: data from the MIMIC-II critical care database
 20 | A-28 | Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
 20 | A-30 | Marie Masotya | Birth Control use and decision making in 227 regions worldwide | Zenodo: LivWell Data Sets
+18 | A-34 | Anthony Orsino | Examining the Social Determinants of Poverty and Asthma at a Census Tract Level | Healthy Northeast Ohio: Examining the Social Determinants of Poverty and Asthma at a Census Tract Level
 20 | A-37 | Samuel Rodgers-Melnick | Anxiety and Engagement in Integrative Modalities Among Adults with Chronic Pain | National Health Interview Survey, 2019
 18 | A-44 | Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission Type Using EPA Data | Tidy Tuesday 2019-10-15: Big EPA Cars data on fuel economy of automobiles
 
@@ -53,7 +54,6 @@ VER2 | A-20 | Pedram Golnari | Factors affecting number of times diabetic patien
 VER2 | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
 VER2 | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
 VER2 | A-31 | Ben Mittman | Learning Needs in K-12 Children During COVID-19 | Urban Data Catalog: Household Conditions by Geographic School District
-VER2 | A-34 | Anthony Orsino | Examining the Social Determinants of Poverty and Asthma at a Census Tract Level | Healthy Northeast Ohio: Examining the Social Determinants of Poverty and Asthma at a Census Tract Level
 VER2 | A-35 | Amin Pande | The effect of Patients’ perception of care on Hospital Readmission Rate | Hospital Compare: Hospital Readmissions Reduction Program, and Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS)
 VER2 | A-36 | Sameer Prasada | *Revised title* Predicting Income in India Using Individual and Community Data | ICSPR: India Human Development Survey-II from 2011-12
 VER2 | A-41 | Katherine Slain | Community and Educational Predictors of Teen Pregnancy and Arrest Rates | County Health Rankings 2020 and Social Vulnerability Index 2020 from CDC
