@@ -33,7 +33,7 @@ On Canvas | A-19 | Izzy Genuario | *Revised title* Substance Use and Negative Li
 On Canvas | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
 On Canvas | A-32 | Anya Nazarenko | Predicting Sentencing Outcomes and Suicidality of Local Jail Inmates | ICSPR: 2002 Survey of Inmates in Local Jails from DOJ and Bureau of Justice Statistics
 On Canvas | A-05 | Tom Lavin & Toby Jin | *Revised title* Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
-On Canvas | A-26 | Aqsa Kahn | Understanding the Effect of Socio-Economic Burden on Caregivers Health | BRFSS 2021
+On Canvas | A-26 | Aqsa Khan | Understanding the Effect of Socio-Economic Burden on Caregivers Health | BRFSS 2021
 
 # Plans Where Dr. Love Awaits an Initial Submission
 
