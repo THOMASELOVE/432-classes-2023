@@ -49,7 +49,7 @@ Please review the comments posted to the Shared Drive associated with your initi
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 VER2 | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
-VER2 | A=22 | Kimberly Han | **Needs new title** (*How Social Determinants of Health relate to Chlamydia rates and Housing Vacancies*) | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
+VER2 | A-22 | Kimberly Han | **Needs new title** (*How Social Determinants of Health relate to Chlamydia rates and Housing Vacancies*) | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
 VER2 | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
 VER2 | A-25 | Ritesh KC | **Needs new title** (*Prediction of Paid Work outcome from Living Conditions of Women and their Well-being*) | Zenodo: LivWell Data Sets
 VER2 | A-27 | Tracy Kongai | Racial institutional representation using the Urban Catalog Data | Urban Institute: 4 Year College Representativeness, 2009-2017
