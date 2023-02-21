@@ -2,7 +2,7 @@
 
 Last Update: 2023-02-20 at 8:00 PM
 
-There are 47 project A plans. As of this update, 5 have been accepted, so 42 are in need of revision.
+There are 47 project A plans. As of this update, 6 have been accepted, so 41 are in need of revision.
 
 ## Table of Contents
 
@@ -27,6 +27,7 @@ Score | Group | Investigator | Title (80 characters or fewer) | Data Source
 20 | A-28 | Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
 20 | A-30 | Marie Masotya | Birth Control use and decision making in 227 regions worldwide | Zenodo: LivWell Data Sets
 20 | A-37 | Samuel Rodgers-Melnick | Anxiety and Engagement in Integrative Modalities Among Adults with Chronic Pain | National Health Interview Survey, 2019
+18 | A-44 | Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission Type Using EPA Data | Tidy Tuesday 2019-10-15: Big EPA Cars data on fuel economy of automobiles
 
 ## Accepted Plans from Teams of Two
 
@@ -54,7 +55,6 @@ VER2 | A-39 | Faruk Senturk | Regression Analyses for Early Prediction of Pancre
 VER2 | A-41 | Katherine Slain | Community and Educational Predictors of Teen Pregnancy and Arrest Rates | County Health Rankings 2020 and Social Vulnerability Index 2020 from CDC
 VER2 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 VER2 | A-43 | Xinyu Sun | *Revised title* Factors Affecting Coffee Grading and Altitude Classification of Coffee Beans | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
-VER2 | A-44 | Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission Type Using EPA Data | Tidy Tuesday 2019-10-15: Big EPA Cars data on fuel economy of automobiles
 
 ## Submitted Plans Awaiting Dr. Love's Review from Teams of Two
 
