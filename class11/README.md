@@ -10,4 +10,6 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 11 | 2023-02-21 | **[Slides 11](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides11.pdf)** | **[Code 11](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides11.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+[Link to Tweet](https://twitter.com/kareem_carr/status/1627470659793068032)
+
 ## More to come.
