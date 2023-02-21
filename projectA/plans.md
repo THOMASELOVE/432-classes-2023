@@ -14,7 +14,7 @@ There are 47 project A plans. As of this update, 8 have been accepted, so 39 are
 
 # Submitted Plans Awaiting Dr. Love's Review
 
-The following projects have been resubmitted to Canvas, and will be graded by Dr. Love in this order.
+The following projects have been resubmitted to Canvas, and will be graded by Dr. Love in the order in which they were submitted, as shown below.
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
