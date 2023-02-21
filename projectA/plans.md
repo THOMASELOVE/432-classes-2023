@@ -1,8 +1,8 @@
 # Project A Plans
 
-Last Update: 2023-02-21 at 8:20 AM
+Last Update: 2023-02-21 at 8:30 AM
 
-There are 47 project A plans. As of this update, 10 have been accepted, and 19 recent submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 11 have been accepted, and 17 recent submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -18,7 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-01 | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
 On Canvas | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
 On Canvas | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
 On Canvas | A-14 | Lithe Basbous | Habitual Effects on Mental and Physical Health | BRFSS 2021
@@ -84,6 +83,7 @@ In either case, you should not submit any further revisions to your Project A pl
 
 Score | Group | Investigator(s)| Title | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
+18 | A-01 | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
 18 | A-10 | Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
 20 | A-12 | Samantha Baker | Exploring Possible Predictors of BMI & Adverse Childhood Experiences | BRFSS 2021
 20 | A-15 | Seth Bauer | Predicting Mean Arterial Blood Pressure and Arterial Catheter Placement | PhysioNet: data from the MIMIC-II critical care database
