@@ -1,8 +1,8 @@
 # Project A Plans
 
-Last Update: 2023-02-21 at 8:30 AM
+Last Update: 2023-02-21 at 8:55 AM
 
-There are 47 project A plans. As of this update, 12 have been accepted, and 17 recent submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 12 have been accepted, and 16 recent submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -18,7 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-14 | Lithe Basbous | Habitual Effects on Mental and Physical Health | BRFSS 2021
 On Canvas | A-13 | Jules Joel Bakhos | *Revised title* Predicting School Area Characteristics: Single-Parent Proportions and Poverty | Urban Institute: Household Conditions by Geographic School District, 2019
 On Canvas | A-06 | Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
 On Canvas | A-03 | Sriram Satyavolu & Lin Di | **Will need another new title** (*Predict Child’s Age of Vaccination and Medicaid Status with Household Features*) | CDC National Immunization Survey, 2014
@@ -67,6 +66,7 @@ Please review Dr. Love's comments on Canvas associated with your resubmission. P
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 VER3 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
+VER3 | A-14 | Lithe Basbous | Habitual Effects on Mental and Physical Health | BRFSS 2021
 VER3 | A-24 | Naveen Kannan | Predictors of Heavy E-Cigarette Use among Adults in the United States | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
 VER3 | A-36 | Sameer Prasada | *Title revised to:* Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
 VER3 | A-39 | Faruk Senturk | *Title revised to*: The early detection of pancreatic cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
