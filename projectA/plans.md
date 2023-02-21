@@ -1,8 +1,8 @@
 # Project A Plans
 
-Last Update: 2023-02-21 at 11:01 AM
+Last Update: 2023-02-21 at 11:07 AM
 
-There are 47 project A plans. As of this update, 15 have been accepted, and 14 recent submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 16 have been accepted, and 13 recent submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -18,7 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-20 | Pedram Golnari | Factors affecting number of times diabetic patients see health professionals | BRFSS 2021
 On Canvas | A-35 | Amin Pande | The effect of Patients’ perception of care on Hospital Readmission Rate | Hospital Compare: Hospital Readmissions Reduction Program, and Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS)
 On Canvas | A-16 | Christopher Benson | *Revised title* Social Determinants That Predict a County’s Overall Health | PLACES 2022 (or maybe 2020 data) plus CHR 2022
 On Canvas | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
@@ -86,6 +85,7 @@ Score | Group | Investigator(s)| Title | Data Source
 20 | A-12 | Samantha Baker | Exploring Possible Predictors of BMI & Adverse Childhood Experiences | BRFSS 2021
 18 | A-13 | Jules Joel Bakhos | Predicting School Area Characteristics: Single-Parent Proportions and Poverty | Urban Institute: Household Conditions by Geographic School District, 2019
 20 | A-15 | Seth Bauer | Predicting Mean Arterial Blood Pressure and Arterial Catheter Placement | PhysioNet: data from the MIMIC-II critical care database
+18 | A-20 | Pedram Golnari | Factors affecting number of times diabetic patients see health professionals | BRFSS 2021
 18 | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
 20 | A-28 | Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
 20 | A-30 | Marie Masotya | Birth Control use and decision making in 227 regions worldwide | Zenodo: LivWell Data Sets
