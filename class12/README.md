@@ -10,6 +10,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 12 | 2023-02-23 | **[Slides 12](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides12.pdf)** | **[Code 12](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides12.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/data_quality.png) [Link to XKCD](https://xkcd.com/2739)
+
 ## Materials for the `bradley` example
 
 - The original source is Steven M. Bradley, Joleen A. Borgerding, G. Blake Wood, et al. [Incidence, Risk Factors, and Outcomes Associated With In-Hospital Acute Myocardial Infarction](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2720923) *JAMA Netw Open* 2019; 2(1): e187348. doi:10.1001/jamanetworkopen.2018.7348.
@@ -23,4 +25,4 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## One Last Thing
 
-![](https://imgs.xkcd.com/comics/data_quality.png) [Link to XKCD](https://xkcd.com/2739)
+
