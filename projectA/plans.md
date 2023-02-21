@@ -2,7 +2,7 @@
 
 Last Update: 2023-02-21 at 7:14 AM
 
-There are 47 project A plans. As of this update, 8 have been accepted, so 39 are in need of revision.
+There are 47 project A plans. As of this update, 9 have been accepted, so 38 are in need of revision.
 
 ## Table of Contents
 
@@ -18,7 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-41 | Katherine Slain | Community and Educational Predictors of Teen Pregnancy and Arrest Rates | County Health Rankings 2020 and Social Vulnerability Index 2020 from CDC
 On Canvas | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 On Canvas | A-10 | Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
 On Canvas | A-36 | Sameer Prasada | *Revised title* Predicting Income in India Using Individual and Community Data | ICSPR: India Human Development Survey-II from 2011-12
@@ -93,4 +92,5 @@ Score | Group | Investigator(s)| Title | Data Source
 18 | A-31 | Ben Mittman | Learning Needs in K-12 Children During COVID-19 | Urban Data Catalog: Household Conditions by Geographic School District
 18 | A-34 | Anthony Orsino | Examining the Social Determinants of Poverty and Asthma at a Census Tract Level | Healthy Northeast Ohio: Examining the Social Determinants of Poverty and Asthma at a Census Tract Level
 20 | A-37 | Samuel Rodgers-Melnick | Anxiety and Engagement in Integrative Modalities Among Adults with Chronic Pain | National Health Interview Survey, 2019
+18 | A-41 | Katherine Slain | Community and Educational Predictors of Teen Pregnancy and Arrest Rates | County Health Rankings 2020 and Social Vulnerability Index 2020 from CDC
 18 | A-44 | Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission Type Using EPA Data | Tidy Tuesday 2019-10-15: Big EPA Cars data on fuel economy of automobiles
