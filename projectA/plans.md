@@ -2,7 +2,7 @@
 
 Last Update: 2023-02-21 at 8:30 AM
 
-There are 47 project A plans. As of this update, 12 have been accepted, and 16 recent submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 12 have been accepted, and 17 recent submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -18,7 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
 On Canvas | A-14 | Lithe Basbous | Habitual Effects on Mental and Physical Health | BRFSS 2021
 On Canvas | A-13 | Jules Joel Bakhos | *Revised title* Predicting School Area Characteristics: Single-Parent Proportions and Poverty | Urban Institute: Household Conditions by Geographic School District, 2019
 On Canvas | A-06 | Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
@@ -34,6 +33,8 @@ On Canvas | A-47 | Robby Zhang | **Will need another new title** (*To find out w
 On Canvas | A-19 | Izzy Genuario | *Revised title* Substance Use and Negative Life Experiences using BRFSS (2021) | BRFSS 2021
 On Canvas | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
 On Canvas | A-32 | Anya Nazarenko | Predicting Sentencing Outcomes and Suicidality of Local Jail Inmates | ICSPR: 2002 Survey of Inmates in Local Jails from DOJ and Bureau of Justice Statistics
+On Canvas | A-05 | Tom Lavin & Toby Jin | *Revised title* Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
+On Canvas | A-26 | Aqsa Kahn | Understanding the Effect of Socio-Economic Burden on Caregivers Health | BRFSS 2021
 
 # Plans Where Dr. Love Awaits an Initial Submission
 
@@ -49,13 +50,11 @@ Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 VER2 | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
 VER2 | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
-VER2 | A-05 | Tom Lavin & Toby Jin | **Needs new title** (*432 Project A Plan*) | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
 VER2 | A-09 | Miza Salim Hammoud & Blake Waldman | Predictors of A Healthy Life Style in Young and Middle Age Ohio Residents | BRFSS 2021
 VER2 | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
 VER2 | A=22 | Kimberly Han | **Needs new title** (*How Social Determinants of Health relate to Chlamydia rates and Housing Vacancies*) | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
 VER2 | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
 VER2 | A-25 | Ritesh KC | **Needs new title** (*Prediction of Paid Work outcome from Living Conditions of Women and their Well-being*) | Zenodo: LivWell Data Sets
-VER2 | A-26 | Aqsa Kahn | Understanding the Effect of Socio-Economic Burden on Caregivers Health | BRFSS 2021
 VER2 | A-27 | Tracy Kongai | Racial institutional representation using the Urban Catalog Data | Urban Institute: 4 Year College Representativeness, 2009-2017
 VER2 | A-33 | An Nguyen | Predicting Counties’ Population Life Expectancy and Metropolitan Status | Urban Data Catalog: Homeowner Assistance Fund, Estimated Low-Income Jobs Lost to COVID-19 and County Health Rankings 2020
 VER2 | A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
@@ -67,6 +66,7 @@ Please review Dr. Love's comments on Canvas associated with your resubmission. P
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
+VER3 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
 VER3 | A-24 | Naveen Kannan | Predictors of Heavy E-Cigarette Use among Adults in the United States | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
 VER3 | A-36 | Sameer Prasada | *Title revised to:* Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
 VER3 | A-39 | Faruk Senturk | *Title revised to*: The early detection of pancreatic cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
