@@ -1,6 +1,6 @@
 # Project A Plans
 
-Last Update: 2023-02-20 at 1:56 PM
+Last Update: 2023-02-20 at 7:18 PM
 
 There are 47 project A plans. As of this update, 5 have been accepted, so 42 are in need of revision.
 
@@ -43,6 +43,7 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 Status | Group | Investigator | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 VER2 | A-10 | Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
+VER2 | A-13 | Jules Joel Bakhos | *Revised title* Predicting School Area Characteristics: Single-Parent Proportions and Poverty | Urban Institute: Household Conditions by Geographic School District, 2019
 VER2 | A-14 | Lithe Basbous | Habitual Effects on Mental and Physical Health | BRFSS 2021
 VER2 | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
 VER2 | A-24 | Naveen Kannan | *Revised title*: Predictors of Heavy E-Cigarette Use among Adults in the United States | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
@@ -60,6 +61,7 @@ VER2 | A-44 | Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission T
 Status | Group | Investigators | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 VER2 | A-01 | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
+VER2 | A-06 | Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
 VER2 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
 
 # Plans Awaiting Resubmission after Revisions
@@ -77,7 +79,6 @@ VER3 | You need to revise your work on your second version of the Project A plan
 Status | Group | Investigator | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 VER2 | A-11 | Naji Ayyash | An Analysis of Foreign Born Koreans Living in the U.S. | ICSPR: Health and Life Study of Koreans
-VER2 | A-13 | Jules Joel Bakhos | **Needs new title** (*Predicting School Area Characteristics: Single-Parent Proportions and Poverty Levels*)| Urban Institute: Household Conditions by Geographic School District, 2019
 VER2 | A-16 | Christopher Benson | **Needs new title** (*Social Determinnants of Health That Predict a County’s Overall Health*) | PLACES 2022 (or maybe 2020 data) plus CHR 2022
 NS | A-17 | Licia Clowtis | No submission yet
 VER2 | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
@@ -115,7 +116,6 @@ VER2 | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug
 VER2 | A-03 | Sriram Satyavolu & Lin Di | **Needs new title** (*Key features of a household that influences a child’s Medicaid status and when they recieved the first vaccination against seasonal flu*) | CDC National Immunization Survey, 2014
 VER2 | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
 VER2 | A-05 | Tom Lavin & Toby Jin | **Needs new title** (*432 Project A Plan*) | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
-VER2 | A-06 | Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
 VER2 | A-07 | Fang Wang & Tian Liu | **Needs new title** (*432 Project A Plan*) | BRFSS 2021
 VER2 | A-09 | Miza Salim Hammoud & Blake Waldman | Predictors of A Healthy Life Style in Young and Middle Age Ohio Residents | BRFSS 2021
 
