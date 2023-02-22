@@ -2,6 +2,8 @@
 
 Last Update: 2023-02-21 at 12:12 PM
 
+**The next update will be early in the day on 2023-02-22. Thank you for your patience.**
+
 There are 47 project A plans. As of this update, 16 have been accepted, and 14 recent submissions await review by Dr. Love.
 
 ## Table of Contents
