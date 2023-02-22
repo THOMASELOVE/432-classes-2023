@@ -46,6 +46,12 @@ Here are a few Project A Plan comments I listed repeatedly in my comments on Can
 
 [Chapter 18 in the Course Notes](https://thomaselove.github.io/432-notes/) covers the topic of building a Table 1 far more extensively, with two detailed examples. Those notes should be helpful for doing the Table 1 work required in [Lab 5](https://thomaselove.github.io/432-2023/lab5.html).
 
+## What Should I Be Working On?
+
+1. Quiz 1 due Monday at 9 PM.
+2. [Project A Plan](https://thomaselove.github.io/432-2023/projA.html#the-project-a-plan) (if yours hasn't been accepted yet) - no later than 9 AM Saturday 2023-02-25. Otherwise, why not work on [your Project A Portfolio](https://thomaselove.github.io/432-2023/projA.html)?
+3. [Lab 5](https://thomaselove.github.io/432-2023/lab5.html), if you want to get ahead of things.
+
 ## One Last Thing
 
 ![](cv_image.png) from timoelliott.com
