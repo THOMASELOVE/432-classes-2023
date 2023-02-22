@@ -18,9 +18,7 @@ Class | Date | PDF | Quarto .qmd | Recording
     - The status report remains [at this link](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md). I have some more comments below.
 2. Feedback on the Minute Paper after Class 11 [is now available](min-11-feedback.pdf). It was nice to hear from everyone. 
 3. [Quiz 1 materials](https://thomaselove.github.io/432-2023/quiz1.html) will be available **by 5 PM today**. 
-    - [Quiz 1](https://thomaselove.github.io/432-2023/quiz1.html) is due on Monday 2023-02-27 at 9 PM. All of your responses must be on the Google Form by that time.
-    - Read the instructions carefully before starting the Quiz.
-    - To ask questions about the Quiz, either post them as questions (to the instructors and TAs only) on Campuswire, or email `431-help at case dot edu`. TAs will not answer questions about the Quiz during their office hours this weekend.
+    - [Quiz 1](https://thomaselove.github.io/432-2023/quiz1.html) is due on Monday 2023-02-27 at 9 PM. 
 
 ## Some Project A Plan Comments I want to make sure everyone sees
 
@@ -49,8 +47,11 @@ Here are a few Project A Plan comments I listed repeatedly in my comments on Can
 ## What Should I Be Working On?
 
 1. [Quiz 1](https://thomaselove.github.io/432-2023/quiz1.html) is due Monday 2023-02-27 at 9 PM.
-2. [Project A Plan](https://thomaselove.github.io/432-2023/projA.html#the-project-a-plan) (if yours hasn't been accepted yet) - no later than 9 AM Saturday 2023-02-25. Otherwise, why not work on [your Project A Portfolio](https://thomaselove.github.io/432-2023/projA.html)?
-3. [Lab 5](https://thomaselove.github.io/432-2023/lab5.html), if you want to get ahead of things.
+    - All of your responses must be on the Google Form by that time.
+    - Read the instructions carefully before starting the Quiz.
+    - To ask questions about the Quiz, either post them as questions (to the instructors and TAs only) on Campuswire, or email `431-help at case dot edu`. TAs will not answer questions about the Quiz during their office hours this weekend.
+2. [Project A Plan](https://thomaselove.github.io/432-2023/projA.html#the-project-a-plan) (if yours hasn't been accepted yet) - no later than 9 AM Saturday 2023-02-25. Otherwise, work on [your Project A Portfolio](https://thomaselove.github.io/432-2023/projA.html), althouhg that's not due until Monday 2023-03-20 at 9 PM.
+3. [Lab 5](https://thomaselove.github.io/432-2023/lab5.html), if you want to get ahead of things. It's due Monday 2023-03-06 at 9 PM.
 
 ## One Last Thing
 
