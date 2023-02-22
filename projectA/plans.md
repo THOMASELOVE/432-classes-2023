@@ -18,8 +18,8 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-Late V2 on Canvas | A-25 | Ritesh KC | **Will need another new title** (*Prediction of Paid Work outcome from Living Conditions of Women*) | Zenodo: LivWell Data Sets
 Late V2 on Canvas | A-40 | Shwetank Singh | *Revised title* Risk factors impeding daily functionality | BRFSS 2021
+Late V2 on Canvas | A-25 | Ritesh KC | **Will need another new title** (*Prediction of Paid Work outcome from Living Conditions of Women*) | Zenodo: LivWell Data Sets
 Late V2 on Canvas | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
 Late V2 on Canvas | A-27 | Tracy Kongai | Racial institutional representation using the Urban Catalog Data | Urban Institute: 4 Year College Representativeness, 2009-2017
 Late V2 on Canvas | A-22 | Kimberly Han | *Revised title* How Social Health relates to Chlamydia Rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
