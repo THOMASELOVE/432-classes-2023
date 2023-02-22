@@ -1,8 +1,8 @@
 # Project A Plans
 
-Last Update: 2023-02-22 at 7:44 AM
+Last Update: 2023-02-22 at 8:28 AM
 
-There are 47 project A plans. As of this update, 20 plans have been accepted, and 8 recent Version 2 submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 20 plans have been accepted, and 6 recent Version 2 submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -18,8 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
-On Canvas | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
 On Canvas | A-09 | Miza Salim Hammoud & Blake Waldman | Predictors of A Healthy Life Style in Young and Middle Age Ohio Residents | BRFSS 2021
 LATE | A-25 | Ritesh KC | **Will need another new title** (*Prediction of Paid Work outcome from Living Conditions of Women*) | Zenodo: LivWell Data Sets
 LATE | A-40 | Shwetank Singh | *Revised title* Risk factors impeding daily functionality | BRFEE 2021 (HTML file is incorrectly knitted)
@@ -48,12 +46,14 @@ Please review Dr. Love's comments on Canvas associated with your resubmission. P
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
+VER3 | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
 VER3 | A-03 | Lin Di & Sriram Satyavolu | *Title revised to*: When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
 VER3 | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
 VER3 | A-07 | Fang Wang & Tian Liu | *Title revised to*: Factors which contribute to high cholesterol and to feeling physically unhealthy | BRFSS 2021
 VER3 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
 VER3 | A-14 | Lithe Basbous | **Will need a new title** (*Habitual Effects on Mental and Physical Health*) | BRFSS 2021
 VER3 | A-16 | Christopher Benson | Social Determinants That Predict a County’s Overall Health | PLACES 2022 (or maybe 2020 data) plus CHR 2022
+VER3 | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
 VER3 | A-24 | Naveen Kannan | Predictors of Heavy E-Cigarette Use among Adults in the United States | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
 VER3 | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
 VER3 | A-35 | Amin Pande | The effect of Patients’ perception of care on Hospital Readmission Rate | Hospital Compare: Hospital Readmissions Reduction Program, and Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS)
