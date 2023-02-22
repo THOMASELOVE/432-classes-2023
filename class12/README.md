@@ -24,7 +24,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Some Project A Plan Comments I want to ensure everyone sees
 
-Here are a few Project A Plan comments I listed repeatedly, but may have missed in your case. Please read and heed these, if they apply to your situation, regardless of whether I caught the issue in your most recent revision.
+Here are a few Project A Plan comments I listed repeatedly, but may have missed in your case. Please read and heed these, if they apply to your situation, regardless of whether I caught the issue in my comments to you personally.
 
 1. Avoid using `::` when you don't have to. For example, you don't need readr::read_csv(), just read_csv(). Same goes for virtually every other place in this plan where you use `::` - the notable exceptions are `knitr::opts_chunk$set` at the start of your R Packages and Setup section, and `xfun::session_info()` in your Session Information.
 2. Within section 3, you need to filter to complete cases on your linear regression outcome and your logistic regression outcome (but not on anything else) so that your resulting tibble has complete data on those two variables. Making these changes will, of course, alter your sections 4-7 as well. If you have a large data set from which you're sampling, I encourage you to do this filtering before selecting your random sample. 
