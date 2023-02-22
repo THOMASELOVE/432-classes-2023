@@ -1,10 +1,8 @@
 # Project A Plans
 
-Last Update: 2023-02-21 at 12:12 PM
+Last Update: 2023-02-22 at 5:18 AM
 
-**The next update will be early in the day on 2023-02-22. Thank you for your patience.**
-
-There are 47 project A plans. As of this update, 16 have been accepted, and 14 recent submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 16 plans have been accepted, and 17 recent submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -34,6 +32,9 @@ On Canvas | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational
 On Canvas | A-09 | Miza Salim Hammoud & Blake Waldman | Predictors of A Healthy Life Style in Young and Middle Age Ohio Residents | BRFSS 2021
 LATE | A-25 | Ritesh KC | **Will need another new title** (*Prediction of Paid Work outcome from Living Conditions of Women*) | Zenodo: LivWell Data Sets
 LATE | A-40 | Shwetank Singh | *Revised title* Risk factors impeding daily functionality | BRFEE 2021 (HTML file is incorrectly knitted)
+LATE | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
+LATE | A-27 | Tracy Kongai | Racial institutional representation using the Urban Catalog Data | Urban Institute: 4 Year College Representativeness, 2009-2017
+LATE | A-22 | Kimberly Han | *Revised title* How Social Health relates to Chlamydia Rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
 
 # Plans Where Dr. Love Awaits an Initial Submission
 
@@ -48,9 +49,6 @@ Please review the comments posted to the Shared Drive associated with your initi
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 VER2 | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
-VER2 | A-22 | Kimberly Han | **Needs new title** (*How Social Determinants of Health relate to Chlamydia rates and Housing Vacancies*) | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
-VER2 | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
-VER2 | A-27 | Tracy Kongai | Racial institutional representation using the Urban Catalog Data | Urban Institute: 4 Year College Representativeness, 2009-2017
 VER2 | A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
 
 # Dr. Love Awaits Version 3 (due SATURDAY 2023-02-25 at 9 AM)
