@@ -1,8 +1,8 @@
 # Project A Plans
 
-Last Update: 2023-02-22 at 5:46 AM
+Last Update: 2023-02-22 at 6:25 AM
 
-There are 47 project A plans. As of this update, 16 plans have been accepted, and 16 recent submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 17 plans have been accepted, and 12 recent submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -18,10 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
-On Canvas | A-47 | Robby Zhang | **Will need another new title** (*To find out whether some household factors can contribute to asthma and bronchitis*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
-On Canvas | A-19 | Izzy Genuario | *Revised title* Substance Use and Negative Life Experiences using BRFSS (2021) | BRFSS 2021
-On Canvas | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
 On Canvas | A-32 | Anya Nazarenko | Predicting Sentencing Outcomes and Suicidality of Local Jail Inmates | ICSPR: 2002 Survey of Inmates in Local Jails from DOJ and Bureau of Justice Statistics
 On Canvas | A-05 | Tom Lavin & Toby Jin | *Revised title* Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
 On Canvas | A-26 | Aqsa Khan | Understanding the Effect of Socio-Economic Burden on Caregivers Health | BRFSS 2021
@@ -62,12 +58,15 @@ VER3 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regre
 VER3 | A-14 | Lithe Basbous | **Will need a new title** (*Habitual Effects on Mental and Physical Health*) | BRFSS 2021
 VER3 | A-16 | Christopher Benson | Social Determinants That Predict a County’s Overall Health | PLACES 2022 (or maybe 2020 data) plus CHR 2022
 VER3 | A-24 | Naveen Kannan | Predictors of Heavy E-Cigarette Use among Adults in the United States | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
+VER3 | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
 VER3 | A-35 | Amin Pande | The effect of Patients’ perception of care on Hospital Readmission Rate | Hospital Compare: Hospital Readmissions Reduction Program, and Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS)
 VER3 | A-36 | Sameer Prasada | *Title revised to:* Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
 VER3 | A-39 | Faruk Senturk | *Title revised to*: The early detection of pancreatic cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
 VER3 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
-VER3 | A-45 | Savannah Wu | *Title revised to*: Depression, body mass index and BRFSS 2021 | BRFSS 2021
 VER3 | A-43 | Xinyu Sun | Factors Affecting Coffee Grading and Altitude Classification of Coffee Beans | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
+VER3 | A-45 | Savannah Wu | *Title revised to*: Depression, body mass index and BRFSS 2021 | BRFSS 2021
+VER3 | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
+VER3 | A-47 | Robby Zhang | **Will need another new title** (*To find out whether some household factors can contribute to asthma and bronchitis*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
 # Accepted Plans
 
@@ -85,6 +84,7 @@ Score | Group | Investigator(s)| Title | Data Source
 20 | A-12 | Samantha Baker | Exploring Possible Predictors of BMI & Adverse Childhood Experiences | BRFSS 2021
 18 | A-13 | Jules Joel Bakhos | Predicting School Area Characteristics: Single-Parent Proportions and Poverty | Urban Institute: Household Conditions by Geographic School District, 2019
 20 | A-15 | Seth Bauer | Predicting Mean Arterial Blood Pressure and Arterial Catheter Placement | PhysioNet: data from the MIMIC-II critical care database
+18 | A-19 | Izzy Genuario | Substance Use and Negative Life Experiences using BRFSS (2021) | BRFSS 2021
 18 | A-20 | Pedram Golnari | Factors affecting number of times diabetic patients see health professionals | BRFSS 2021
 18 | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
 20 | A-28 | Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
