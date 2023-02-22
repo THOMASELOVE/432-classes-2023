@@ -1,8 +1,8 @@
 # Project A Plans
 
-Last Update: 2023-02-22 at 5:18 AM
+Last Update: 2023-02-22 at 5:46 AM
 
-There are 47 project A plans. As of this update, 16 plans have been accepted, and 17 recent submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 16 plans have been accepted, and 16 recent submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -18,7 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-16 | Christopher Benson | *Revised title* Social Determinants That Predict a County’s Overall Health | PLACES 2022 (or maybe 2020 data) plus CHR 2022
 On Canvas | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
 On Canvas | A-47 | Robby Zhang | **Will need another new title** (*To find out whether some household factors can contribute to asthma and bronchitis*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 On Canvas | A-19 | Izzy Genuario | *Revised title* Substance Use and Negative Life Experiences using BRFSS (2021) | BRFSS 2021
@@ -61,6 +60,7 @@ VER3 | A-03 | Lin Di & Sriram Satyavolu | *Title revised to*: When Do Children G
 VER3 | A-07 | Fang Wang & Tian Liu | *Title revised to*: Factors which contribute to high cholesterol and to feeling physically unhealthy | BRFSS 2021
 VER3 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
 VER3 | A-14 | Lithe Basbous | **Will need a new title** (*Habitual Effects on Mental and Physical Health*) | BRFSS 2021
+VER3 | A-16 | Christopher Benson | Social Determinants That Predict a County’s Overall Health | PLACES 2022 (or maybe 2020 data) plus CHR 2022
 VER3 | A-24 | Naveen Kannan | Predictors of Heavy E-Cigarette Use among Adults in the United States | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
 VER3 | A-35 | Amin Pande | The effect of Patients’ perception of care on Hospital Readmission Rate | Hospital Compare: Hospital Readmissions Reduction Program, and Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS)
 VER3 | A-36 | Sameer Prasada | *Title revised to:* Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
