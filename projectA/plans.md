@@ -48,7 +48,7 @@ VER2 | A-38 | Halle Rose | Examining the Relationship Between Asthma and Depress
 
 # Dr. Love Awaits Version 3 (due SATURDAY 2023-02-25 at 9 AM)
 
-Please review Dr. Love's comments on Canvas associated with your resubmission. Please resubmit your version 3 to Canvas in the same place where you submitted version 2.
+Please review Dr. Love's comments on Canvas associated with your resubmission. Please resubmit your version 3 to Canvas in the same place (**Project A Plan Revisions**) where you submitted version 2.
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
