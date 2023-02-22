@@ -16,7 +16,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. Feedback from Dr. Love on all Project A Plans should be posted to Canvas **by class time**. Those of you who need to do a third version need to get that in by Saturday at 9 AM (that's 9 in the morning, not evening.)
     - The status report remains [at this link](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md). I have some more comments below.
-2. Feedback on the Minute Paper after Class 11 should be posted **by class time**.
+2. Feedback on the Minute Paper after Class 11 [is now available](min-11-feedback.pdf)
 3. Quiz 1 materials will be available **by 5 PM today**. 
     - Quiz 1 is due on Monday 2023-02-27 at 9 PM. All of your responses must be on the Google Form by that time.
     - Read the instructions carefully before starting the Quiz.
