@@ -1,8 +1,8 @@
 # Project A Plans
 
-Last Update: 2023-02-22 at 7:08 AM
+Last Update: 2023-02-22 at 7:25 AM
 
-There are 47 project A plans. As of this update, 18 plans have been accepted, and 11 recent Version 2 submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 18 plans have been accepted, and 10 recent Version 2 submissions await review by Dr. Love.
 
 ## Table of Contents
 
