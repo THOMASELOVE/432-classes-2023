@@ -24,12 +24,15 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Some Project A Plan Comments I want to ensure everyone sees
 
-Here are a few Project A Plan comments I listed repeatedly, but may have missed in your case. Please read and heed these, if they apply to your situation, regardless of whether I caught the issue in my comments to you personally.
+Here are a few Project A Plan comments I listed repeatedly in my comments on Canvas, but might have missed in your case. Please read and heed these, if they apply to your situation, regardless of whether I caught the issue in your case.
 
-1. Avoid using `::` when you don't have to. For example, you don't need readr::read_csv(), just read_csv(). Same goes for virtually every other place in this plan where you use `::` - the notable exceptions are `knitr::opts_chunk$set` at the start of your R Packages and Setup section, and `xfun::session_info()` in your Session Information.
+1. Avoid using `::` when you don't have to. For example, you don't need Hmisc::describe(), just describe() if you've properly loaded Hmisc (or rms, which automatically loads Hmisc.) Same goes for virtually every other place where you might find `::` - the notable exceptions are `knitr::opts_chunk$set` at the start of your R Packages and Setup section, and `xfun::session_info()` in your Session Information.
 2. Within section 3, you need to filter to complete cases on your linear regression outcome and your logistic regression outcome (but not on anything else) so that your resulting tibble has complete data on those two variables. Making these changes will, of course, alter your sections 4-7 as well. If you have a large data set from which you're sampling, I encourage you to do this filtering before selecting your random sample. 
 3. If you have a binary variable in your work that is coded 1 = Yes and 2 = No, you need to change that to 1 = Yes and 0 = No (or to a factor with values Yes and No) in section 3 of the project.
 4. Also, if you're working alone, it's OK to use either "I" or "we" to refer to yourself (i.e. we cleaned the data...) in your project work, but if you're working with a partner, it must be "We".
+5. Specify in Section 2 (The Subjects) the number of subjects you will eventually have in your tidied tibble (and thus in your linear and logistic analyses.)
+6. If your research question is not in the form "How effectively can we predict [your outcome] using [your predictors]?" you should consider whether changing to that would be a more accurate reflection of what your analyses will actually be doing. In almost every case, it would.
+7. Don't include subsections that you're not using. Be sure you have a good reason for not using any of our suggested subsections.
 
 ## Materials for the `bradley` example
 
