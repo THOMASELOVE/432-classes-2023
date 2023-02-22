@@ -48,7 +48,7 @@ Here are a few Project A Plan comments I listed repeatedly in my comments on Can
 
 ## What Should I Be Working On?
 
-1. Quiz 1 due Monday at 9 PM.
+1. [Quiz 1](https://thomaselove.github.io/432-2023/quiz1.html) is due Monday 2023-02-27 at 9 PM.
 2. [Project A Plan](https://thomaselove.github.io/432-2023/projA.html#the-project-a-plan) (if yours hasn't been accepted yet) - no later than 9 AM Saturday 2023-02-25. Otherwise, why not work on [your Project A Portfolio](https://thomaselove.github.io/432-2023/projA.html)?
 3. [Lab 5](https://thomaselove.github.io/432-2023/lab5.html), if you want to get ahead of things.
 
