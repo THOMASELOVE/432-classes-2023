@@ -1,8 +1,8 @@
 # Project A Plans
 
-Last Update: 2023-02-22 at 6:25 AM
+Last Update: 2023-02-22 at 7:08 AM
 
-There are 47 project A plans. As of this update, 17 plans have been accepted, and 12 recent Version 2 submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 18 plans have been accepted, and 11 recent Version 2 submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -18,8 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-32 | Anya Nazarenko | Predicting Sentencing Outcomes and Suicidality of Local Jail Inmates | ICSPR: 2002 Survey of Inmates in Local Jails from DOJ and Bureau of Justice Statistics
-On Canvas | A-05 | Tom Lavin & Toby Jin | *Revised title* Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
 On Canvas | A-26 | Aqsa Khan | Understanding the Effect of Socio-Economic Burden on Caregivers Health | BRFSS 2021
 On Canvas | A-33 | An Nguyen | Predicting Counties’ Population Life Expectancy and Metropolitan Status | Urban Data Catalog: Homeowner Assistance Fund, Estimated Low-Income Jobs Lost to COVID-19 and County Health Rankings 2020
 On Canvas | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
@@ -53,6 +51,7 @@ Please review Dr. Love's comments on Canvas associated with your resubmission. P
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 VER3 | A-03 | Lin Di & Sriram Satyavolu | *Title revised to*: When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
+VER3 | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
 VER3 | A-07 | Fang Wang & Tian Liu | *Title revised to*: Factors which contribute to high cholesterol and to feeling physically unhealthy | BRFSS 2021
 VER3 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
 VER3 | A-14 | Lithe Basbous | **Will need a new title** (*Habitual Effects on Mental and Physical Health*) | BRFSS 2021
@@ -90,6 +89,7 @@ Score | Group | Investigator(s)| Title | Data Source
 20 | A-28 | Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
 20 | A-30 | Marie Masotya | Birth Control use and decision making in 227 regions worldwide | Zenodo: LivWell Data Sets
 18 | A-31 | Ben Mittman | Learning Needs in K-12 Children During COVID-19 | Urban Data Catalog: Household Conditions by Geographic School District
+18 | A-32 | Anya Nazarenko | Predicting Sentencing Outcomes and Suicidality of Local Jail Inmates | ICSPR: 2002 Survey of Inmates in Local Jails from DOJ and Bureau of Justice Statistics
 18 | A-34 | Anthony Orsino | Examining the Social Determinants of Poverty and Asthma at a Census Tract Level | Healthy Northeast Ohio: Examining the Social Determinants of Poverty and Asthma at a Census Tract Level
 20 | A-37 | Samuel Rodgers-Melnick | Anxiety and Engagement in Integrative Modalities Among Adults with Chronic Pain | National Health Interview Survey, 2019
 18 | A-41 | Katherine Slain | Community and Educational Predictors of Teen Pregnancy and Arrest Rates | County Health Rankings 2020 and Social Vulnerability Index 2020 from CDC
