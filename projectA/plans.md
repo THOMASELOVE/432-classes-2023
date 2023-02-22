@@ -1,11 +1,11 @@
 # Project A Plans
 
-Last Update: 2023-02-22 at 10:09 AM
+Last Update: 2023-02-22 at 3:15 PM
 
 There are 47 project A plans. As of this update, 
 - 22 plans have been accepted, leaving 
 - 25 more to be revised and resubmitted. 
-- There are 0 projects resubmitted to Canvas in Dr. Love's "to be reviewed" queue.
+- There are 0 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
 
 ## Table of Contents
 
