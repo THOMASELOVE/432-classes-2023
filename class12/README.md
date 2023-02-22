@@ -16,13 +16,20 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. Feedback from Dr. Love on all Project A Plans should be posted to Canvas **by class time**. Those of you who need to do a third version need to get that in by Saturday at 9 AM (that's 9 in the morning, not evening.)
     - The status report remains [at this link](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md).
-    - In case I missed it anywhere, if you have a binary variable in your work that is coded 1 = Yes and 2 = No, you need to change that to 1 = Yes and 0 = No (or to a factor with values Yes and No) in section 3 of the project.
-    - Also, if you're working alone, it's OK to use either "I" or "we" to refer to yourself in your project work, but if you're working with a partner, it must be "We".
 2. Feedback on the Minute Paper after Class 11 should be posted **by class time**.
 3. Quiz 1 materials will be available **by 5 PM today**. 
     - Quiz 1 is due on Monday 2023-02-27 at 9 PM. All of your responses must be on the Google Form by that time.
     - Read the instructions carefully before starting the Quiz.
     - To ask questions about the Quiz, either post them as questions (to the instructors and TAs only) on Campuswire, or email `431-help at case dot edu`. TAs will not answer questions about the Quiz during their office hours this weekend.
+
+## Some Project A Plan Comments I want to ensure everyone sees
+
+Here are a few Project A Plan comments I listed repeatedly, but may have missed in your case. Please read and heed these, if they apply to your situation, regardless of whether I caught the issue in your most recent revision.
+
+1. Avoid using `::` when you don't have to. For example, you don't need readr::read_csv(), just read_csv(). Same goes for virtually every other place in this plan where you use `::` - the notable exceptions are `knitr::opts_chunk$set` at the start of your R Packages and Setup section, and `xfun::session_info()` in your Session Information.
+2. Within section 3, you need to filter to complete cases on your linear regression outcome and your logistic regression outcome (but not on anything else) so that your resulting tibble has complete data on those two variables. Making these changes will, of course, alter your sections 4-7 as well. If you have a large data set from which you're sampling, I encourage you to do this filtering before selecting your random sample. 
+3. If you have a binary variable in your work that is coded 1 = Yes and 2 = No, you need to change that to 1 = Yes and 0 = No (or to a factor with values Yes and No) in section 3 of the project.
+4. Also, if you're working alone, it's OK to use either "I" or "we" to refer to yourself (i.e. we cleaned the data...) in your project work, but if you're working with a partner, it must be "We".
 
 ## Materials for the `bradley` example
 
