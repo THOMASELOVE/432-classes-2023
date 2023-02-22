@@ -1,8 +1,8 @@
 # Project A Plans
 
-Last Update: 2023-02-22 at 8:28 AM
+Last Update: 2023-02-22 at 8:56 AM
 
-There are 47 project A plans. As of this update, 20 plans have been accepted, and 6 recent Version 2 submissions await review by Dr. Love.
+There are 47 project A plans. As of this update, 20 plans have been accepted, and 5 recent Version 2 submissions await review by Dr. Love.
 
 ## Table of Contents
 
@@ -18,7 +18,6 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-09 | Miza Salim Hammoud & Blake Waldman | Predictors of A Healthy Life Style in Young and Middle Age Ohio Residents | BRFSS 2021
 LATE | A-25 | Ritesh KC | **Will need another new title** (*Prediction of Paid Work outcome from Living Conditions of Women*) | Zenodo: LivWell Data Sets
 LATE | A-40 | Shwetank Singh | *Revised title* Risk factors impeding daily functionality | BRFEE 2021 (HTML file is incorrectly knitted)
 LATE | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
@@ -51,6 +50,7 @@ VER3 | A-03 | Lin Di & Sriram Satyavolu | *Title revised to*: When Do Children G
 VER3 | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
 VER3 | A-07 | Fang Wang & Tian Liu | *Title revised to*: Factors which contribute to high cholesterol and to feeling physically unhealthy | BRFSS 2021
 VER3 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
+VER3 | A-09 | Miza Salim Hammoud & Blake Waldman | *Title revised to*: Food consumption and BMI in Ohio residents | BRFSS 2021
 VER3 | A-14 | Lithe Basbous | **Will need a new title** (*Habitual Effects on Mental and Physical Health*) | BRFSS 2021
 VER3 | A-16 | Christopher Benson | Social Determinants That Predict a County’s Overall Health | PLACES 2022 (or maybe 2020 data) plus CHR 2022
 VER3 | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
