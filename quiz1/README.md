@@ -1,7 +1,5 @@
 # Quiz 1 Materials for 432 in Spring 2023
 
-This page is linked at https://thomaselove.github.io/432-2023/quiz1.html.
-
 Quiz 1 is due **Monday 2023-02-27 at 9 PM**. Here are the materials you need:
 
 1. (**Available Now**) The [main document (pdf) for Quiz 1](https://github.com/THOMASELOVE/432-classes-2023/blob/main/quiz1/432_quiz1_2023.pdf), which includes both instructions and all of the questions.
@@ -15,3 +13,4 @@ Quiz 1 is due **Monday 2023-02-27 at 9 PM**. Here are the materials you need:
     - [dat16.csv](https://raw.githubusercontent.com/THOMASELOVE/432-classes-2023/main/quiz1/data/dat16.csv) which contains 4560 observations on 2 variables
     - [datC.csv](https://raw.githubusercontent.com/THOMASELOVE/432-classes-2023/main/quiz1/data/datC.csv) which contains 232 observations on 5 variables
 
+This page is linked at https://thomaselove.github.io/432-2023/quiz1.html.
