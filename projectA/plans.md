@@ -1,9 +1,9 @@
 # Project A Plans
 
-Last Update: 2023-02-22 at 3:25 PM
+Last Update: 2023-02-22 at 11:20 PM
 
 There are 47 project A plans. As of this update, 
-- **23** plans have been accepted, leaving 24 more to be submitted (in most cases this means revised and resubmitted.) 
+- **25** plans have been accepted, leaving 22 more to be submitted (in most cases this means revised and resubmitted.) 
 - There are 0 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
 
 ## Table of Contents
@@ -23,6 +23,7 @@ In either case, you should not submit any further revisions to your Project A pl
 Score | Group | Investigator(s)| Title | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 18 | A-01 | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
+16 | A-07 | Fang Wang & Tian Liu | Factors which contribute to high cholesterol and to feeling physically unhealthy | BRFSS 2021
 18 | A-06 | Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
 18 | A-10 | Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
 18 | A-11 | Naji Ayyash | An Analysis of Foreign Born Koreans Living in the U.S. | ICSPR: Health and Life Study of Koreans
@@ -33,6 +34,7 @@ Score | Group | Investigator(s)| Title | Data Source
 18 | A-19 | Izzy Genuario | Substance Use and Negative Life Experiences using BRFSS (2021) | BRFSS 2021
 18 | A-20 | Pedram Golnari | Factors affecting number of times diabetic patients see health professionals | BRFSS 2021
 18 | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
+16 | A-24 | Naveen Kannan | Predictors of Heavy E-Cigarette Use among Adults in the United States | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
 18 | A-26 | Aqsa Khan | The Interplay of Socio-Economic Predictors and Health Outcomes Among Caregivers | BRFSS 2021
 20 | A-28 | Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
 20 | A-30 | Marie Masotya | Birth Control use and decision making in 227 regions worldwide | Zenodo: LivWell Data Sets
@@ -63,14 +65,12 @@ Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 VER3 | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
 VER3 | A-03 | Lin Di & Sriram Satyavolu | *Title revised to*: When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
 VER3 | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
-VER3 | A-07 | Fang Wang & Tian Liu | *Title revised to*: Factors which contribute to high cholesterol and to feeling physically unhealthy | BRFSS 2021
 VER3 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
 VER3 | A-09 | Miza Salim Hammoud & Blake Waldman | *Title revised to*: Food consumption and BMI in Ohio residents | BRFSS 2021
 VER3 | A-16 | Christopher Benson | Social Determinants That Predict a County’s Overall Health | PLACES 2022 (or maybe 2020 data) plus CHR 2022
 VER3 | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
 VER3 | A-22 | Kimberly Han | How Social Health relates to Chlamydia Rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
 VER3 | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
-VER3 | A-24 | Naveen Kannan | Predictors of Heavy E-Cigarette Use among Adults in the United States | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
 VER3 | A-25 | Ritesh KC | **Will need a new title** (*Prediction of Paid Work outcome from Living Conditions of Women*) | Zenodo: LivWell Data Sets
 VER3 | A-27 | Tracy Kongai | Racial institutional representation using the Urban Catalog Data | Urban Institute: 4 Year College Representativeness, 2009-2017
 VER3 | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
