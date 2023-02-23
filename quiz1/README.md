@@ -1,14 +1,10 @@
 # Quiz 1 Materials for 432 in Spring 2023
 
-All Quiz 1 materials are linked at https://thomaselove.github.io/432-2023/quiz1.html.
+This page is linked at https://thomaselove.github.io/432-2023/quiz1.html.
 
-Quiz 1 is due **Monday 2023-02-27 at 9 PM**. 
+Quiz 1 is due **Monday 2023-02-27 at 9 PM**. Here are the materials you need.
 
-- A draft of the instructions for the Quiz is [now available here](instructions_only_draft.pdf). This will disappear to be replaced by the main document (below) when that is available.
-
-## By 5 PM on 2023-02-23, these three new elements will appear, specifically:
-
-1. The main document (pdf) for Quiz 1, which will include both instructions and all of the questions.
+1. (**Available Now**) The [main document (pdf) for Quiz 1](https://github.com/THOMASELOVE/432-classes-2023/blob/main/quiz1/432_quiz1_2023.pdf), which includes both instructions and all of the questions.
 
 2. (**Available Now**) Here is the [link to the Google Form Answer Sheet for Quiz 1](https://forms.gle/e4VKeWGYA3Ga9m2X7), where you will submit your responses. The URL is <https://forms.gle/e4VKeWGYA3Ga9m2X7>. You must log into Google using your CWRU ID to access the form.
 
