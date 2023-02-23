@@ -13,4 +13,6 @@ Quiz 1 is due **Monday 2023-02-27 at 9 PM**. Here are the materials you need:
     - [dat16.csv](https://raw.githubusercontent.com/THOMASELOVE/432-classes-2023/main/quiz1/data/dat16.csv) which contains 4560 observations on 2 variables
     - [datC.csv](https://raw.githubusercontent.com/THOMASELOVE/432-classes-2023/main/quiz1/data/datC.csv) which contains 232 observations on 5 variables
 
+To ask questions about the Quiz, either post them as questions (to the instructors and TAs only) on Campuswire, or email `431-help at case dot edu`. TAs will not answer questions about the Quiz during their office hours this weekend.
+
 This page is linked at https://thomaselove.github.io/432-2023/quiz1.html.
