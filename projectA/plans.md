@@ -1,6 +1,6 @@
 # Project A Plans
 
-Last Update: 2023-02-23 at 11:20 AM
+Last Update: 2023-02-23 at 12:45 PM
 
 There are 47 project A plans. As of this update, 
 - **27** plans have been accepted, leaving 20 more to be submitted (in most cases this means revised and resubmitted.) 
@@ -77,7 +77,7 @@ VER3 | A-27 | Tracy Kongai | Racial institutional representation using the Urban
 VER3 | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
 VER3 | A-36 | Sameer Prasada | *Title revised to:* Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
 VER3 | A-40 | Shwetank Singh | Risk factors impeding daily functionality | BRFSS 2021
-VER3 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
+VER4 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 VER3 | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
 VER3 | A-47 | Robby Zhang | **Will need a new title** (*To find out whether some household factors can contribute to asthma and bronchitis*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
@@ -86,7 +86,7 @@ VER3 | A-47 | Robby Zhang | **Will need a new title** (*To find out whether some
 Waiting for | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 Version 2 | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
-Version 1 | A-17 | Licia Clowtis 
+Version 1 | A-17 | Licia Clowtis | Sent via email but **must be posted to Canvas instead**
 Version 2 | A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
 
 
