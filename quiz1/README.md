@@ -2,7 +2,7 @@
 
 This page is linked at https://thomaselove.github.io/432-2023/quiz1.html.
 
-Quiz 1 is due **Monday 2023-02-27 at 9 PM**. Here are the materials you need.
+Quiz 1 is due **Monday 2023-02-27 at 9 PM**. Here are the materials you need:
 
 1. (**Available Now**) The [main document (pdf) for Quiz 1](https://github.com/THOMASELOVE/432-classes-2023/blob/main/quiz1/432_quiz1_2023.pdf), which includes both instructions and all of the questions.
 
