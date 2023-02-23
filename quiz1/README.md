@@ -2,12 +2,20 @@
 
 All Quiz 1 materials are linked at https://thomaselove.github.io/432-2023/quiz1.html.
 
-- A draft of the instructions for the Quiz is [now available here](instructions_only_draft.pdf).
+Quiz 1 is due **Monday 2023-02-27 at 9 PM**. 
 
-On 2023-02-23, the draft above will be removed, and three new elements will appear, specifically:
+- A draft of the instructions for the Quiz is [now available here](instructions_only_draft.pdf). This will disappear to be replaced by the main document (below) when that is available.
+
+## By 5 PM on 2023-02-23, these three new elements will appear, specifically:
 
 1. The main document (pdf) for Quiz 1, which will include both instructions and all of the questions.
-2. A link to the Google Form Answer Sheet for Quiz 1, where you will submit your responses.
-3. Download information for the five Data Sets we are providing you for Quiz 1.
 
-Quiz 1 will be due [when the Calendar says it is](https://thomaselove.github.io/432-2023/calendar.html).
+2. (**Available Now**) Here is the [link to the Google Form Answer Sheet for Quiz 1](https://forms.gle/e4VKeWGYA3Ga9m2X7), where you will submit your responses. The URL is <https://forms.gle/e4VKeWGYA3Ga9m2X7>.
+
+3. (**Available Now**) The Five Data Sets we are providing you for Quiz 1. The data sets for this Quiz are available now, in the `data` folder on this page, and also in the data subfolder in the 432 Quiz 1 Materials folder of our Shared Google Drive. They are:
+    - [dat1.Rds](https://github.com/THOMASELOVE/432-classes-2023/blob/main/quiz1/data/dat1.Rds)
+    - [dat10.Rds](https://github.com/THOMASELOVE/432-classes-2023/blob/main/quiz1/data/dat10.Rds)
+    - [dat13.csv](https://raw.githubusercontent.com/THOMASELOVE/432-classes-2023/main/quiz1/data/dat13.csv)
+    - [dat16.csv](https://raw.githubusercontent.com/THOMASELOVE/432-classes-2023/main/quiz1/data/dat16.csv)
+    - [datC.csv](https://raw.githubusercontent.com/THOMASELOVE/432-classes-2023/main/quiz1/data/datC.csv)
+
