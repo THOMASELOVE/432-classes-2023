@@ -1,15 +1,14 @@
 # Project A Plans
 
-Last Update: 2023-02-22 at 11:20 PM
+Last Update: 2023-02-23 at 11:20 AM
 
 There are 47 project A plans. As of this update, 
-- **25** plans have been accepted, leaving 22 more to be submitted (in most cases this means revised and resubmitted.) 
+- **27** plans have been accepted, leaving 20 more to be submitted (in most cases this means revised and resubmitted.) 
 - There are 0 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
 
 ## Table of Contents
 
 - [Accepted Plans](#accepted-plans)
-- [Submitted Plans Awaiting Dr. Love's Review](#submitted-plans-awaiting-dr-loves-review)
 - [Dr. Love Awaits Version 3 (due SATURDAY 2023-02-25 at 9 AM)](#dr-love-awaits-version-3-due-saturday-2023-02-25-at-9-am)
 - [Dr. Love Awaits an Overdue Submission](#dr-love-awaits-an-overdue-submission)
 
@@ -44,9 +43,11 @@ Score | Group | Investigator(s)| Title | Data Source
 18 | A-34 | Anthony Orsino | Examining the Social Determinants of Poverty and Asthma at a Census Tract Level | Healthy Northeast Ohio: Examining the Social Determinants of Poverty and Asthma at a Census Tract Level
 16 | A-35 | Amin Pande | The effect of Patients’ perception of care on Hospital Readmission Rate | Hospital Compare: Hospital Readmissions Reduction Program, and Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS)
 20 | A-37 | Samuel Rodgers-Melnick | Anxiety and Engagement in Integrative Modalities Among Adults with Chronic Pain | National Health Interview Survey, 2019
+16 | A-39 | Faruk Senturk | The early detection of pancreatic cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
 18 | A-41 | Katherine Slain | Community and Educational Predictors of Teen Pregnancy and Arrest Rates | County Health Rankings 2020 and Social Vulnerability Index 2020 from CDC
 16 | A-43 | Xinyu Sun | Factors Affecting Coffee Grading and Altitude Classification of Coffee Beans | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
 18 | A-44 | Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission Type Using EPA Data | Tidy Tuesday 2019-10-15: Big EPA Cars data on fuel economy of automobiles
+16 | A-45 | Savannah Wu | Depression, body mass index and BRFSS 2021 | BRFSS 2021
 
 # Submitted Plans Awaiting Dr. Love's Review
 
@@ -54,7 +55,7 @@ The following projects have been resubmitted to Canvas, and will be graded by Dr
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-
+None
 
 # Dr. Love Awaits Version 3 (due SATURDAY 2023-02-25 at 9 AM)
 
@@ -75,14 +76,12 @@ VER3 | A-25 | Ritesh KC | **Will need a new title** (*Prediction of Paid Work ou
 VER3 | A-27 | Tracy Kongai | Racial institutional representation using the Urban Catalog Data | Urban Institute: 4 Year College Representativeness, 2009-2017
 VER3 | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
 VER3 | A-36 | Sameer Prasada | *Title revised to:* Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
-VER3 | A-39 | Faruk Senturk | *Title revised to*: The early detection of pancreatic cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
 VER3 | A-40 | Shwetank Singh | Risk factors impeding daily functionality | BRFSS 2021
 VER3 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
-VER3 | A-45 | Savannah Wu | *Title revised to*: Depression, body mass index and BRFSS 2021 | BRFSS 2021
 VER3 | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
 VER3 | A-47 | Robby Zhang | **Will need a new title** (*To find out whether some household factors can contribute to asthma and bronchitis*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
-# Plans Where Dr. Love Awaits an Overdue Submission
+# Dr. Love Awaits an Overdue Submission
 
 Waiting for | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
