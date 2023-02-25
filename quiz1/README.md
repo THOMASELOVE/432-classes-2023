@@ -2,7 +2,8 @@
 
 Quiz 1 is due **Monday 2023-02-27 at 9 PM**. Here are the materials you need:
 
-1. (**Available Now**) The [main document (pdf) for Quiz 1](https://github.com/THOMASELOVE/432-classes-2023/blob/main/quiz1/432_quiz1_2023.pdf), which includes both instructions and all of the questions.
+1. (**Available Now**) The [main document (pdf) for Quiz 1](https://github.com/THOMASELOVE/432-classes-2023/blob/main/quiz1/432_quiz1_2023.pdf), which includes both instructions and all of the questions. 
+    - I corrected a typographical error in Question 14 (page 17) at 9:30 AM on Saturday 2023-02-25. The problem was with the specification of Model A in the demonstration just before the question is asked. It's fixed in the version available now, dated 2023-02-25.
 
 2. (**Available Now**) Here is the [link to the Google Form Answer Sheet for Quiz 1](https://forms.gle/e4VKeWGYA3Ga9m2X7), where you will submit your responses. The URL is <https://forms.gle/e4VKeWGYA3Ga9m2X7>. You must log into Google using your CWRU ID to access the form.
 
