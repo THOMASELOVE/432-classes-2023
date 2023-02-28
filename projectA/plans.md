@@ -1,11 +1,11 @@
 # Project A Plans
 
-Last Update: 2023-02-28 at 11:06 AM
+Last Update: 2023-02-28 at 11:19 AM
 
 There are 47 project A plans. As of this update, 
-- **36** plans have been accepted, leaving 11 more to be approved. 
-- There are 4 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
-- There are 7 projects which require additional revision, no later than noon on Thursday 2023-03-02.
+- **37** plans have been accepted, leaving 10 more to be approved. 
+- No projects remain in Dr. Love's queue on Canvas.
+- There are 10 projects which require additional revision, and these should be submitted ASAP, and no later than noon on Thursday 2023-03-02.
 
 ## Table of Contents
 
@@ -21,7 +21,10 @@ Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 A-03 | Lin Di & Sriram Satyavolu | When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
 A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
+A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
 A-17 | Licia Clowtis | **Title needs revision** (*Predictors of Breast Feeding Duration in children between 0 and 5 years of Age from the 2021 National Survey of Children’s Health Data*) | National Survey of Children's Health 2021
+A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
+A-27 | Tracy Kongai | **Title needs spelling fix** (*Strengthen Institutional Accountabiltity using the Urban Catalog Data*) | Urban Institute: 4 Year College Representativeness, 2009-2017
 A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
 A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
 A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
@@ -31,10 +34,7 @@ A-47 | Robby Zhang | Studying Asthma and Bronchitis in response to household fac
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
-On Canvas | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
-On Canvas | A-22 | Kimberly Han | How Social Health relates to Chlamydia Rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
-On Canvas | A-27 | Tracy Kongai | *Revised title* (*Strengthen Institutional Accountabiltity using the Urban Catalog Data*) | Urban Institute: 4 Year College Representativeness, 2009-2017
+None
 
 # Accepted Plans
 
@@ -61,6 +61,7 @@ Score | Group | Investigator(s)| Title | Data Source
 18 | A-19 | Izzy Genuario | Substance Use and Negative Life Experiences using BRFSS (2021) | BRFSS 2021
 18 | A-20 | Pedram Golnari | Factors affecting number of times diabetic patients see health professionals | BRFSS 2021
 18 | A-21 | Sarah Grabinski | Predicting the 2020 Presidential Election Results | MIT Election Data and Science Lab data, with American Community Survey 2019 data
+16 | A-22 | Kimberly Han | How Social Health relates to Chlamydia Rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
 16 | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
 16 | A-24 | Naveen Kannan | Predictors of Heavy E-Cigarette Use among Adults in the United States | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
 16 | A-25 | Ritesh KC | Predicting job outcome and Income Inequality From Women’s Socio-economic Status | Zenodo: LivWell Data Sets
