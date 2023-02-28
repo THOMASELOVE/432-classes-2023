@@ -39,7 +39,6 @@ All of these items will be linked through [Class READMEs](https://github.com/THO
 8. Simon J. Sheather [A Modern Approach to Regression with R](https://github.com/THOMASELOVE/432-2022/blob/main/references/pdf/Sheather_Modern_Approach_to_Regression_with_R_2009_protected.pdf), 2009.
 9. Eric Vittinghoff, David V. Glidden, Stephen C. Shiboski and Charles E. McCulloch [Regression Methods in Biostatistics](https://github.com/THOMASELOVE/432-2022/blob/main/references/pdf/Vittinghoff_et_al_Regression_Methods_in_Biostatistics_2e_protected.pdf), 2nd Edition, 2012.
 10. Rob J Hyndman and George Athanasopoulos [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
-11. Richard D Riley, Joie Ensor, Kym I E Snell et al. [Calculating the sample size required for developing a clinical prediction model](pdf/Riley_etal_2020_Sample_Size_Required.pdf) (pdf) *BMJ* 2020; 368:m441. [Link at BMJ](https://www.bmj.com/content/368/bmj.m441).
 
 
 ### On Visualization and R
@@ -76,7 +75,8 @@ All of these items will be linked through [Class READMEs](https://github.com/THO
 7. Min Q. Wang, Alice F. Yan and Ralph V. Katz (2018) [Researcher Requests for Inappropriate Analysis and Reporting: A U.S. Survey of Consulting Biostatisticians](pdf/Wang_Researcher_Requests_2018.pdf) *Annals of Internal Medicine* https://doi.org/10.7326/M18-1230.
     - Accompanying editorial by A. Russell Localio, Catherine B. Stack, Anne R. Meibohm et al. (2018) [Inappropriate Statistical Analysis and Reporting in Medical Research: Perverse Incentives and Institutional Solutions](pdf/Localio_Inappropriate_2018.pdf) *Annals of Internal Medicine* https://doi.org/10.7326/M18-2516.
 8. Peter C. Austin and Ewout W. Steyerberg (2015) [The number of subjects per variable required in linear regression analyses](pdf/Austin_and_Steyerberg_2015_subjects_per_variable_in_linear_regression_jce.pdf) *J Clinical Epidemiology* 68: 627-636.
-9. Andrew Gelman and John Carlin [Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors](pdf/Gelman_Carlin_2014_Beyond_Power_Calculations.pdf)
+9. Richard D Riley, Joie Ensor, Kym I E Snell et al. [Calculating the sample size required for developing a clinical prediction model](pdf/Riley_etal_2020_Sample_Size_Required.pdf) (pdf) *BMJ* 2020; 368:m441. [Link at BMJ](https://www.bmj.com/content/368/bmj.m441).
+10. Andrew Gelman and John Carlin [Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors](pdf/Gelman_Carlin_2014_Beyond_Power_Calculations.pdf)
 
 
 ## Miscellany
