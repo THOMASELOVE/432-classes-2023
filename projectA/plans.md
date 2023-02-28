@@ -3,8 +3,8 @@
 Last Update: 2023-02-28 at 10:58 AM
 
 There are 47 project A plans. As of this update, 
-- **34** plans have been accepted, leaving 13 more to be approved. 
-- There are 6 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
+- **35** plans have been accepted, leaving 12 more to be approved. 
+- There are 5 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
 - There are 7 projects which require additional revision.
 
 ## Table of Contents
@@ -32,7 +32,6 @@ A-47 | Robby Zhang | Studying Asthma and Bronchitis in response to household fac
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 On Canvas | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
-On Canvas | A-09 | Miza Salim Hammoud & Blake Waldman | *Title revised to*: Food consumption and BMI in Ohio residents | BRFSS 2021
 On Canvas | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
 On Canvas | A-22 | Kimberly Han | How Social Health relates to Chlamydia Rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
 On Canvas | A-27 | Tracy Kongai | *Revised title* (*Strengthen Institutional Accountabiltity using the Urban Catalog Data*) | Urban Institute: 4 Year College Representativeness, 2009-2017
@@ -52,6 +51,7 @@ Score | Group | Investigator(s)| Title | Data Source
 18 | A-06 | Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
 16 | A-07 | Fang Wang & Tian Liu | Factors which contribute to high cholesterol and to feeling physically unhealthy | BRFSS 2021
 16 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
+16 | A-09 | Miza Salim Hammoud & Blake Waldman | Fruit consumption and BMI in Ohio residents | BRFSS 2021
 18 | A-10 | Bryan Abadie | Does Quality of Sleep Worsen Glucose Control? | ICPSR: Midlife in the United States (MIDUS 2): Biomarker Project, 2004-2009
 18 | A-11 | Naji Ayyash | An Analysis of Foreign Born Koreans Living in the U.S. | ICSPR: Health and Life Study of Koreans
 20 | A-12 | Samantha Baker | Exploring Possible Predictors of BMI & Adverse Childhood Experiences | BRFSS 2021
