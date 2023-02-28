@@ -14,9 +14,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Feedback on Lab 4 will be posted by class time.
-2. Feedback and grades and an answer sketch for Quiz 1 will be posted in time for Thursday's class.
-3. The Minute Paper after Class 13 is cancelled. Our next Minute Paper will be after Class 15.
+1. Today's class is offered via Zoom only. See Canvas or your email for the link.
+2. Feedback on Lab 4 will be posted by class time.
+3. Feedback and grades and an answer sketch for Quiz 1 will be posted in time for Thursday's class.
+4. The Minute Paper after Class 13 is cancelled. Our next Minute Paper will be after Class 15.
 
 ## Supplemental Materials / Sources for Today
 
