@@ -1,26 +1,27 @@
 # Project A Plans
 
-Last Update: 2023-02-28 at 10:07 AM
+Last Update: 2023-02-28 at 10:23 AM
 
 There are 47 project A plans. As of this update, 
 - **27** plans have been accepted, leaving 20 more to be approved. 
-- There are 16 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
-- There are 4 projects which require additional revision.
+- There are 15 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
+- There are 5 projects which require additional revision.
 
 ## Table of Contents
 
 - [Dr. Love Awaits Another Submission](#dr-love-awaits-another-submission)
-- [Accepted Plans](#accepted-plans)
 - [Submitted Plans Dr. Love is reviewing](#submitted-plans-dr-love-is-reviewing)
+- [Accepted Plans](#accepted-plans)
 
 # Dr. Love Awaits Another Submission
 
-Submit your revision to the **Project A Plan Revisions** assignment in Canvas as soon as possible, and no later than noon on Thursday 2023-03-02.
+Submit your revision to the **Project A Plan Revisions** assignment in Canvas **as soon as possible**, and no later than noon on Thursday 2023-03-02.
 
 Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
 A-17 | Licia Clowtis | **Title needs revision** (*Predictors of Breast Feeding Duration in children between 0 and 5 years of Age from the 2021 National Survey of Children’s Health Data*) | National Survey of Children's Health 2021
+A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
 A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
 A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
@@ -39,7 +40,6 @@ On Canvas | A-22 | Kimberly Han | How Social Health relates to Chlamydia Rates a
 On Canvas | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
 On Canvas | A-25 | Ritesh KC | *Revised title* (*Predicting job outcome and Income Inequality From Women’s Socio-economic Status*) | Zenodo: LivWell Data Sets
 On Canvas | A-27 | Tracy Kongai | *Revised title* (*Strengthen Institutional Accountabiltity using the Urban Catalog Data*) | Urban Institute: 4 Year College Representativeness, 2009-2017
-On Canvas | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
 On Canvas | A-36 | Sameer Prasada | Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
 On Canvas | A-40 | Shwetank Singh | Risk factors impeding daily functionality | BRFSS 2021
 On Canvas | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
