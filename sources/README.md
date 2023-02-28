@@ -115,7 +115,7 @@ Here are some suggestions:
 
 ## Need to have a tough talk with someone about statistical significance, and/or p values?
 
-- The ASA Section on Teaching of Statistics in the Health Sciences has [some interesting material](https://tshsblog.wixsite.com/main/single-post/2018/05/08/ReadyResources-Publications-for-teaching-p-values)
+- The ASA Section on Teaching of Statistics in the Health Sciences has [some interesting material](https://tshsblog.wixsite.com/main/single-post/2018/05/08/ReadyResources-Publications-for-teaching-p-values).
 - Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913), *The American Statistician*, 73: sup1, 1-19, DOI: [10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913). [PDF available here, too](pdf/ASA_2019_A_World_Beyond.pdf).
 - Ronald L. Wasserstein & Nicole A. Lazar (2016) [The ASA's Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108), *The American Statistician*, 70:2, 129-133, DOI:
 [10.1080/00031305.2016.1154108](https://doi.org/10.1080/00031305.2016.1154108). [PDF available here, too](pdf/ASA_2016_Pvalues_Context_Process_Purpose.pdf).
