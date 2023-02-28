@@ -18,6 +18,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 2. Feedback on Lab 4 is now available in the Grading Roster on our Shared Google Drive.
 3. Feedback and grades and an answer sketch for Quiz 1 will be posted in time for Thursday's class. I will discuss the Quiz then.
 4. The Minute Paper after Class 13 is cancelled. I've given you all credit for submitting it on the Grading Roster. Our next Minute Paper will be after Class 15.
+5. I am attempting to catch up on Project A Plan revisions. Details are [available here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md). If I've not yet approved your plan, you need to resubmit it to Canvas in the Project A Plan Revisions assignment by noon Thursday 2023-03-02.
 
 ## Supplemental Materials / Sources for Today
 
@@ -43,7 +44,7 @@ These materials are now posted to [the bottom of our Sources page](https://githu
 1. Again, there's no Minute Paper this week.
 2. [Lab 5](https://thomaselove.github.io/432-2023/lab5.html) is due Monday 2023-03-06 at 9 PM.
 3. Your Project A portfolio is due Monday 2023-03-20 at 9 PM.
-    - [Status of Project A Plan Review is posted here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md).
+    - Some of you still don't have your Plan accepted. [Project A Plan Review Status is here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md). Submit your revised Plan (if needed) by noon Thursday 2023-03-02 to the **Project A Plan Revisions** assignment on Canvas.
 
 ## One Last Thing
 
