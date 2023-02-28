@@ -1,17 +1,49 @@
 # Project A Plans
 
-Last Update: 2023-02-28 at 12:20 AM
+Last Update: 2023-02-28 at 10:07 AM
 
 There are 47 project A plans. As of this update, 
 - **27** plans have been accepted, leaving 20 more to be approved. 
-- There are 19 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
-- There is 1 required revision not yet submitted.
+- There are 16 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
+- There are 4 projects which require additional revision.
 
 ## Table of Contents
 
+- [Dr. Love Awaits Another Submission](#dr-love-awaits-another-submission)
 - [Accepted Plans](#accepted-plans)
 - [Submitted Plans Dr. Love is reviewing](#submitted-plans-dr-love-is-reviewing)
-- [Dr. Love Awaits an Overdue Submission](#dr-love-awaits-an-overdue-submission)
+
+# Dr. Love Awaits Another Submission
+
+Submit your revision to the **Project A Plan Revisions** assignment in Canvas as soon as possible, and no later than noon on Thursday 2023-03-02.
+
+Group | Investigator(s) | Title (80 characters or fewer) | Data Source
+:----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
+A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
+A-17 | Licia Clowtis | **Title needs revision** (*Predictors of Breast Feeding Duration in children between 0 and 5 years of Age from the 2021 National Survey of Children’s Health Data*) | National Survey of Children's Health 2021
+A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
+A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
+
+# Submitted Plans Dr. Love is reviewing
+
+Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
+:-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
+On Canvas | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
+On Canvas | A-03 | Lin Di & Sriram Satyavolu | When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
+On Canvas | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
+On Canvas | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
+On Canvas | A-09 | Miza Salim Hammoud & Blake Waldman | *Title revised to*: Food consumption and BMI in Ohio residents | BRFSS 2021
+On Canvas | A-16 | Christopher Benson | Social Determinants That Predict a County’s Overall Health | PLACES 2022 (or maybe 2020 data) plus CHR 2022
+On Canvas | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
+On Canvas | A-22 | Kimberly Han | How Social Health relates to Chlamydia Rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
+On Canvas | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
+On Canvas | A-25 | Ritesh KC | *Revised title* (*Predicting job outcome and Income Inequality From Women’s Socio-economic Status*) | Zenodo: LivWell Data Sets
+On Canvas | A-27 | Tracy Kongai | *Revised title* (*Strengthen Institutional Accountabiltity using the Urban Catalog Data*) | Urban Institute: 4 Year College Representativeness, 2009-2017
+On Canvas | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
+On Canvas | A-36 | Sameer Prasada | Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
+On Canvas | A-40 | Shwetank Singh | Risk factors impeding daily functionality | BRFSS 2021
+On Canvas | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
+On Canvas | A-47 | Robby Zhang | *Revised title* (*Studying Asthma and Bronchitis in response to household factors*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
 # Accepted Plans
 
@@ -50,35 +82,6 @@ Score | Group | Investigator(s)| Title | Data Source
 18 | A-44 | Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission Type Using EPA Data | Tidy Tuesday 2019-10-15: Big EPA Cars data on fuel economy of automobiles
 16 | A-45 | Savannah Wu | Depression, body mass index and BRFSS 2021 | BRFSS 2021
 
-# Submitted Plans Dr. Love is reviewing
 
-Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
-:-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-VER3 on Canvas | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
-VER3 on Canvas | A-03 | Lin Di & Sriram Satyavolu | When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
-VER2 on Canvas | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
-VER3 on Canvas | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
-VER3 on Canvas | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
-VER3 on Canvas | A-09 | Miza Salim Hammoud & Blake Waldman | *Title revised to*: Food consumption and BMI in Ohio residents | BRFSS 2021
-VER3 on Canvas | A-16 | Christopher Benson | Social Determinants That Predict a County’s Overall Health | PLACES 2022 (or maybe 2020 data) plus CHR 2022
-VER1 on Canvas | A-17 | Licia Clowtis | **Title will need revision** (*Predictors of Breast Feeding Duration in children between 0 and 5 years of Age from the 2021 National Survey of Children’s Health Data*) | National Survey of Children's Health 2021
-VER3 on Canvas | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
-VER3 on Canvas | A-22 | Kimberly Han | How Social Health relates to Chlamydia Rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
-VER3 on Canvas | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
-VER3 on Canvas | A-25 | Ritesh KC | *Revised title* (*Predicting job outcome and Income Inequality From Women’s Socio-economic Status*) | Zenodo: LivWell Data Sets
-VER3 on Canvas | A-27 | Tracy Kongai | *Revised title* (*Strengthen Institutional Accountabiltity using the Urban Catalog Data*) | Urban Institute: 4 Year College Representativeness, 2009-2017
-VER3 on Canvas | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
-VER3 on Canvas | A-36 | Sameer Prasada | Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
-VER2 on Canvas | A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
-VER3 on Canvas | A-40 | Shwetank Singh | Risk factors impeding daily functionality | BRFSS 2021
-VER3 on Canvas | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
-VER3 on Canvas | A-47 | Robby Zhang | *Revised title* (*Studying Asthma and Bronchitis in response to household factors*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
-# Dr. Love Awaits an Overdue Submission
-
-Submit this revision to the **Project A Plan Revisions** assignment in Canvas.
-
-Awaiting | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
-:-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-VER4 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
