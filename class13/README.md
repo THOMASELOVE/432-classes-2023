@@ -17,7 +17,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. Today's class is offered via Zoom only. See Canvas or your email for the link.
 2. Feedback on Lab 4 is now available in the Grading Roster on our Shared Google Drive.
 3. The Minute Paper after Class 13 is cancelled. I've given you all credit for submitting it on the Grading Roster. Our next Minute Paper will be after Class 15.
-4. Feedback and grades and an answer sketch for Quiz 1 will be posted in time for Thursday's class. I will discuss the Quiz then. I have not yet graded it at all.
+4. Feedback and grades and an answer sketch for Quiz 1 will be availble in time for Thursday's class. I will discuss the Quiz in detail in class Thursday.
 5. I have caught up on Project A Plan revisions. Details are [available here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md). 
     - There are 10 projects I've not yet approved. The 13 students who need to submit another revision are: Lin Di and Sriram Satyavolu, Tarek El Shebiny and Alex Gurgis, Tom Lavin and Toby Jin, Licia Clowtis, Josh Freeze, Tracy Kongai, Lent Mantshonyane, Halle Rose, Neha Solanki, and Qihao (Robby) Zhang.
     - If I've not yet approved your plan, you need to resubmit it to Canvas in the Project A Plan Revisions assignment by noon Thursday 2023-03-02.
