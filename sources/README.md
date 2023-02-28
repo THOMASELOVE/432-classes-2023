@@ -114,10 +114,10 @@ Here are some suggestions:
 ## Need to have a tough talk with someone about statistical significance, and/or p values?
 
 - The ASA Section on Teaching of Statistics in the Health Sciences has [some interesting material](https://tshsblog.wixsite.com/main/single-post/2018/05/08/ReadyResources-Publications-for-teaching-p-values)
-- Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913), *The American Statistician*, 73: sup1, 1-19, DOI: [10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913). 
+- Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913), *The American Statistician*, 73: sup1, 1-19, DOI: [10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913). [PDF available here, too](pdf/ASA_2019_A_World_Beyond.pdf).
 - Ronald L. Wasserstein & Nicole A. Lazar (2016) [The ASA's Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108), *The American Statistician*, 70:2, 129-133, DOI:
-[10.1080/00031305.2016.1154108](https://doi.org/10.1080/00031305.2016.1154108). 
-- Jeff Leek and Roger Peng's article in Nature (2015) [P values are just the tip of the iceberg](references/Leek_and_Peng_2015_Pvalues_Nature.pdf)
+[10.1080/00031305.2016.1154108](https://doi.org/10.1080/00031305.2016.1154108). [PDF available here, too](pdf/ASA_2016_Pvalues_Context_Process_Purpose.pdf).
+- Jeff Leek and Roger Peng's article in Nature (2015) [P values are just the tip of the iceberg](pdf/Leek_and_Peng_2015_Pvalues_Nature.pdf)
 - I've given these posts: [Why I've lost faith in p values, part 1](https://lucklab.ucdavis.edu/blog/2018/4/19/why-i-lost-faith-in-p-values) and [Why I've lost faith in p values, part 2](https://lucklab.ucdavis.edu/blog/2018/4/28/why-ive-lost-faith-in-p-values-part-2) to a few people. Maybe they'll help you.
 - "[Abandoning statistical significance is both sensible and practical](https://peerj.com/preprints/27657/)" by Amrhein, Gelman, Greenland and McShane at PeerJ Preprints.
 - Frank Harrell's post about "[Language for communicating frequentist results about treatment effects](https://discourse.datamethods.org/t/language-for-communicating-frequentist-results-about-treatment-effects/934)"
