@@ -46,7 +46,7 @@ These materials are now posted to [the bottom of our Sources page](https://githu
 1. Again, there's no Minute Paper this week.
 2. [Lab 5](https://thomaselove.github.io/432-2023/lab5.html) is due Monday 2023-03-06 at 9 PM.
 3. Your Project A portfolio is due Monday 2023-03-20 at 9 PM.
-    - Some of you still don't have your Plan accepted. [Project A Plan Review Status is here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md). Submit your revised Plan (if needed) by noon Thursday 2023-03-02 to the **Project A Plan Revisions** assignment on Canvas.
+    - The 10 projects (13 students) whose Project A Plan is [not yet accepted](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md) must submit  their revised Plan by **noon Thursday 2023-03-02** to the **Project A Plan Revisions** assignment on Canvas.
 
 ## One Last Thing
 
