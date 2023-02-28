@@ -9,7 +9,7 @@ There are 47 project A plans. As of this update,
 ## Table of Contents
 
 - [Accepted Plans](#accepted-plans)
-- [Dr. Love Awaits Version 3 (due SATURDAY 2023-02-25 at 9 AM)](#dr-love-awaits-version-3-due-saturday-2023-02-25-at-9-am)
+- [Submitted Plans Dr. Love is reviewing](#submitted-plans-dr-love-is-reviewing)
 - [Dr. Love Awaits an Overdue Submission](#dr-love-awaits-an-overdue-submission)
 
 # Accepted Plans
@@ -49,44 +49,33 @@ Score | Group | Investigator(s)| Title | Data Source
 18 | A-44 | Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission Type Using EPA Data | Tidy Tuesday 2019-10-15: Big EPA Cars data on fuel economy of automobiles
 16 | A-45 | Savannah Wu | Depression, body mass index and BRFSS 2021 | BRFSS 2021
 
-# Submitted Plans Awaiting Dr. Love's Review
-
-The following projects have been resubmitted to Canvas, and will be graded by Dr. Love as soon as possible. 
+# Submitted Plans Dr. Love is reviewing
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-None
-
-# Dr. Love Awaits Version 3 (due SATURDAY 2023-02-25 at 9 AM)
-
-Please review Dr. Love's comments on Canvas associated with your resubmission. Please resubmit your version 3 to Canvas in the same place (**Project A Plan Revisions**) where you submitted version 2. DO NOT just include your submission as a comment on your last version. Instead, create a new submission (attempt 2) for the revisions assignment.
-
-Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
-:-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-VER3 | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
-VER3 | A-03 | Lin Di & Sriram Satyavolu | *Title revised to*: When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
-VER3 | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
-VER3 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
-VER3 | A-09 | Miza Salim Hammoud & Blake Waldman | *Title revised to*: Food consumption and BMI in Ohio residents | BRFSS 2021
-VER3 | A-16 | Christopher Benson | Social Determinants That Predict a County’s Overall Health | PLACES 2022 (or maybe 2020 data) plus CHR 2022
-VER3 | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
-VER3 | A-22 | Kimberly Han | How Social Health relates to Chlamydia Rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
-VER3 | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
-VER3 | A-25 | Ritesh KC | **Will need a new title** (*Prediction of Paid Work outcome from Living Conditions of Women*) | Zenodo: LivWell Data Sets
-VER3 | A-27 | Tracy Kongai | Racial institutional representation using the Urban Catalog Data | Urban Institute: 4 Year College Representativeness, 2009-2017
-VER3 | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
-VER3 | A-36 | Sameer Prasada | *Title revised to:* Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
-VER3 | A-40 | Shwetank Singh | Risk factors impeding daily functionality | BRFSS 2021
-VER4 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
-VER3 | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
-VER3 | A-47 | Robby Zhang | **Will need a new title** (*To find out whether some household factors can contribute to asthma and bronchitis*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
+VER3 on Canvas | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
+VER3 on Canvas | A-03 | Lin Di & Sriram Satyavolu | When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
+VER2 on Canvas | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
+VER3 on Canvas | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
+VER3 on Canvas | A-09 | Miza Salim Hammoud & Blake Waldman | *Title revised to*: Food consumption and BMI in Ohio residents | BRFSS 2021
+VER3 on Canvas | A-16 | Christopher Benson | Social Determinants That Predict a County’s Overall Health | PLACES 2022 (or maybe 2020 data) plus CHR 2022
+VER1 on Canvas | A-17 | Licia Clowtis | **Title will need revision** (*Predictors of Breast Feeding Duration in children between 0 and 5 years of Age from the 2021 National Survey of Children’s Health Data*) | National Survey of Children's Health 2021
+VER3 on Canvas | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
+VER3 on Canvas | A-22 | Kimberly Han | How Social Health relates to Chlamydia Rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
+VER3 on Canvas | A-23 | Catherine Hassett | Global Socioeconomic Predictors for Neonatal Mortality Rates | Zenodo: LivWell Data Sets
+VER3 on Canvas | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
+VER3 on Canvas | A-25 | Ritesh KC | *Revised title* (*Predicting job outcome and Income Inequality From Women’s Socio-economic Status*) | Zenodo: LivWell Data Sets
+VER3 on Canvas | A-27 | Tracy Kongai | *Revised title* (*Strengthen Institutional Accountabiltity using the Urban Catalog Data*) | Urban Institute: 4 Year College Representativeness, 2009-2017
+VER3 on Canvas | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
+VER3 on Canvas | A-36 | Sameer Prasada | Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
+VER2 on Canvas | A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
+VER3 on Canvas | A-40 | Shwetank Singh | Risk factors impeding daily functionality | BRFSS 2021
+VER3 on Canvas | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
+VER3 on Canvas | A-47 | Robby Zhang | *Revised title* (*Studying Asthma and Bronchitis in response to household factors*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
 # Dr. Love Awaits an Overdue Submission
 
-Waiting for | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
+Awaiting | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-Version 2 | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
-Version 1 | A-17 | Licia Clowtis | Sent via email but **must be posted to Canvas instead**
-Version 2 | A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
-
+VER4 | A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
