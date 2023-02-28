@@ -1,11 +1,11 @@
 # Project A Plans
 
-Last Update: 2023-02-28 at 10:51 AM
+Last Update: 2023-02-28 at 10:58 AM
 
 There are 47 project A plans. As of this update, 
-- **33** plans have been accepted, leaving 14 more to be approved. 
-- There are 8 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
-- There are 6 projects which require additional revision.
+- **34** plans have been accepted, leaving 13 more to be approved. 
+- There are 6 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
+- There are 7 projects which require additional revision.
 
 ## Table of Contents
 
@@ -19,6 +19,7 @@ Submit your revision to the **Project A Plan Revisions** assignment in Canvas **
 
 Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
+A-03 | Lin Di & Sriram Satyavolu | When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
 A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
 A-17 | Licia Clowtis | **Title needs revision** (*Predictors of Breast Feeding Duration in children between 0 and 5 years of Age from the 2021 National Survey of Children’s Health Data*) | National Survey of Children's Health 2021
 A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
@@ -30,8 +31,6 @@ A-47 | Robby Zhang | Studying Asthma and Bronchitis in response to household fac
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-On Canvas | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
-On Canvas | A-03 | Lin Di & Sriram Satyavolu | When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
 On Canvas | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
 On Canvas | A-09 | Miza Salim Hammoud & Blake Waldman | *Title revised to*: Food consumption and BMI in Ohio residents | BRFSS 2021
 On Canvas | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
@@ -49,6 +48,7 @@ In either case, you should not submit any further revisions to your Project A pl
 Score | Group | Investigator(s)| Title | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 18 | A-01 | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
+16 | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
 18 | A-06 | Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
 16 | A-07 | Fang Wang & Tian Liu | Factors which contribute to high cholesterol and to feeling physically unhealthy | BRFSS 2021
 16 | A-08 | Millenia Zhou & Cyrus Nosrati | Building Linear and Logistic Regression Models, for Olympic Athlete Stats | Tidy Tuesday 2021-07-27: Olympics
