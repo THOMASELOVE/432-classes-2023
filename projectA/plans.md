@@ -1,10 +1,11 @@
 # Project A Plans
 
-Last Update: 2023-02-23 at 12:45 PM
+Last Update: 2023-02-28 at 12:20 AM
 
 There are 47 project A plans. As of this update, 
-- **27** plans have been accepted, leaving 20 more to be submitted (in most cases this means revised and resubmitted.) 
-- There are 0 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
+- **27** plans have been accepted, leaving 20 more to be approved. 
+- There are 19 projects submitted to Canvas in Dr. Love's "to be reviewed" queue.
+- There is 1 required revision not yet submitted.
 
 ## Table of Contents
 
@@ -74,6 +75,8 @@ VER3 on Canvas | A-46 | Meredith Zhang | Is there anything we can do to prevent 
 VER3 on Canvas | A-47 | Robby Zhang | *Revised title* (*Studying Asthma and Bronchitis in response to household factors*) | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
 # Dr. Love Awaits an Overdue Submission
+
+Submit this revision to the **Project A Plan Revisions** assignment in Canvas.
 
 Awaiting | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
