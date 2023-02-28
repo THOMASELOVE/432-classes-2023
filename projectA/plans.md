@@ -35,7 +35,6 @@ On Canvas | A-05 | Tom Lavin & Toby Jin | Predicting age differences between rom
 On Canvas | A-18 | Joshua Freeze | Contributing factors to poor mental health in the Midwest | PLACES 2022
 On Canvas | A-22 | Kimberly Han | How Social Health relates to Chlamydia Rates and Housing Vacancies | National Center for HIV, Viral Hepatitis, Sexually Transmitted Disease, and Tuberculosis Prevention data via Atlas
 On Canvas | A-27 | Tracy Kongai | *Revised title* (*Strengthen Institutional Accountabiltity using the Urban Catalog Data*) | Urban Institute: 4 Year College Representativeness, 2009-2017
-On Canvas | A-40 | Shwetank Singh | Risk factors impeding daily functionality | BRFSS 2021
 
 # Accepted Plans
 
@@ -76,6 +75,7 @@ Score | Group | Investigator(s)| Title | Data Source
 16 | A-36 | Sameer Prasada | Predicting Income in India | ICSPR: India Human Development Survey-II from 2011-12
 20 | A-37 | Samuel Rodgers-Melnick | Anxiety and Engagement in Integrative Modalities Among Adults with Chronic Pain | National Health Interview Survey, 2019
 16 | A-39 | Faruk Senturk | The early detection of pancreatic cancer | Kaggle: Urinary Biomarkers for Pancreatic Cancer, with link to paper by Debernardi S et al. (2020) in PLOS Medicine
+16 | A-40 | Shwetank Singh | Risk factors impeding daily functionality | BRFSS 2021
 18 | A-41 | Katherine Slain | Community and Educational Predictors of Teen Pregnancy and Arrest Rates | County Health Rankings 2020 and Social Vulnerability Index 2020 from CDC
 16 | A-43 | Xinyu Sun | Factors Affecting Coffee Grading and Altitude Classification of Coffee Beans | Tidy Tuesday 2020-07-07: Coffee Ratings from the Coffee Quality Institute
 18 | A-44 | Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission Type Using EPA Data | Tidy Tuesday 2019-10-15: Big EPA Cars data on fuel economy of automobiles
