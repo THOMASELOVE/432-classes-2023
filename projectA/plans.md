@@ -3,9 +3,8 @@
 Last Update: 2023-02-28 at 7:00 PM
 
 There are 47 project A plans. As of this update, 
-- **37** plans have been accepted, leaving 10 more to be approved. 
-- No projects remain in Dr. Love's queue on Canvas.
-- There are 10 projects which require additional revision, and these should be submitted ASAP, and no later than noon on Thursday 2023-03-02.
+- **38** plans have been accepted, leaving 9 more to be approved. 
+- There are 9 projects which require additional revision, and these should be submitted ASAP, and no later than noon on Thursday 2023-03-02.
 
 ## Table of Contents
 
@@ -28,7 +27,6 @@ A-27 | Tracy Kongai | **Title needs spelling fix** (*Strengthen Institutional Ac
 A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
 A-38 | Halle Rose | Examining the Relationship Between Asthma and Depression | PLACES 2022 and County Health Rankings
 A-42 | Neha Solanki | Asthma Outcomes in Asthma Callback Survey | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
-A-47 | Robby Zhang | Studying Asthma and Bronchitis in response to household factors | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
 # Submitted Plans Dr. Love is reviewing
 
@@ -82,6 +80,7 @@ Score | Group | Investigator(s)| Title | Data Source
 18 | A-44 | Max Tjen | Estimating Cars’ Yearly Fuel Costs and Transmission Type Using EPA Data | Tidy Tuesday 2019-10-15: Big EPA Cars data on fuel economy of automobiles
 16 | A-45 | Savannah Wu | Depression, body mass index and BRFSS 2021 | BRFSS 2021
 16 | A-46 | Meredith Zhang | Is there anything we can do to prevent mental breakdown? | BRFSS 2021
+16 | A-47 | Robby Zhang | Studying Asthma and Bronchitis in response to household factors | Asthma Call-Back Survey from NACP and NCEH (part of BRFSS), 2019
 
 
 
