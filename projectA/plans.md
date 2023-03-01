@@ -4,7 +4,7 @@ Last Update: 2023-02-28 at 7:00 PM
 
 There are 47 project A plans. As of this update, 
 - **38** plans have been accepted, leaving 9 more to be approved. 
-- There are 9 projects which require additional revision, and these should be submitted ASAP, and no later than noon on Thursday 2023-03-02.
+- The 9 projects which require additional revision should be submitted to Canvas ASAP, and no later than noon on Thursday 2023-03-02.
 
 ## Table of Contents
 
