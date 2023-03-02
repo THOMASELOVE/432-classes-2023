@@ -1,10 +1,10 @@
 # Project A Plans
 
-Last Update: 2023-03-02 at 12:16 PM
+Last Update: 2023-03-02 at 12:20 PM
 
 There are 47 project A plans. As of this update, 
-- **44** plans have been accepted. 
-- 1 project revision is on Canvas, and awaits Dr. Love's review.
+- **45** plans have been accepted. 
+- Dr. Love's review queue on Canvas is clear.
 - The 2 other projects which require additional revision should be submitted to Canvas as soon as possible.
 
 ## Table of Contents
@@ -26,7 +26,7 @@ A-27 | Tracy Kongai | **Title needs spelling fix** (*Strengthen Institutional Ac
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-Canvas | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
+None
 
 # Accepted Plans
 
@@ -40,6 +40,7 @@ Score | Group | Investigator(s)| Title | Data Source
 18 | A-01 | Moein Amin & Karlo Toljan | San Francisco Rental Affordibility Prediction | Tidy Tuesday 2022-07-05: Bay Area Craigslist Rental Housing Posts, 2010-2018
 16 | A-02 | Yaw Asante & Shubho Das | Modeling Links Between Recreational Drug Use and Poor Health Outcomes | BRFSS 2021
 16 | A-03 | Lin Di & Sriram Satyavolu | When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
+16 | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
 16 | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
 18 | A-06 | Sajan Patel & Sahana Kannan | Factors Influencing the Well-Being of Older Americans Using HRS Survey Data | Health and Retirement Study 2018 HRS Core
 16 | A-07 | Fang Wang & Tian Liu | Factors which contribute to high cholesterol and to feeling physically unhealthy | BRFSS 2021
