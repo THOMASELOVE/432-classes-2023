@@ -14,7 +14,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. Today's class is offered via Zoom only. See Canvas or your email for the link.
 2. Feedback and grades and an answer sketch for Quiz 1 **should (I hope) be available in time for today's class.**
-3. Project A Plan revisions: details on my progress are [available here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md). 
+3. Project A Plan revisions: details on my progress are [available here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md), and I was up to date as of 4 AM. 
     - If I've not yet approved your plan, and you haven't resubmitted to Canvas in the Project A Plan Revisions assignment, do so now. Thank you.
 
 ## Time to Event Data
