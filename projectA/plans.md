@@ -1,11 +1,11 @@
 # Project A Plans
 
-Last Update: 2023-03-02 at 11:12 AM
+Last Update: 2023-03-02 at 12:06 PM
 
 There are 47 project A plans. As of this update, 
 - **42** plans have been accepted. 
-- 2 project revisions are submitted to Canvas, and await Dr. Love's review.
-- The 3 other projects which require additional revision should be submitted to Canvas as soon as possible.
+- 3 project revisions are submitted to Canvas, and await Dr. Love's review.
+- The 2 other projects which require additional revision should be submitted to Canvas as soon as possible.
 
 ## Table of Contents
 
@@ -19,7 +19,6 @@ Submit your revision to the **Project A Plan Revisions** assignment in Canvas **
 
 Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
 A-17 | Licia Clowtis | **Title needs revision** (*Predictors of Breast Feeding Duration in children between 0 and 5 years of Age from the 2021 National Survey of Children’s Health Data*) | National Survey of Children's Health 2021
 A-27 | Tracy Kongai | **Title needs spelling fix** (*Strengthen Institutional Accountabiltity using the Urban Catalog Data*) | Urban Institute: 4 Year College Representativeness, 2009-2017
 
@@ -29,6 +28,7 @@ Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
 Canvas | A-03 | Lin Di & Sriram Satyavolu | When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
 Canvas | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
+Canvas | A-04 | Alex Gurgis & Tarek El Shebiny | Predictors of Infant Mortality and Female Employment Rates | Zenodo: LivWell Data Sets
 
 # Accepted Plans
 
