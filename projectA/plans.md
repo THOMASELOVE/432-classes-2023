@@ -27,8 +27,8 @@ A-27 | Tracy Kongai | **Title needs spelling fix** (*Strengthen Institutional Ac
 
 Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-A-03 | Lin Di & Sriram Satyavolu | When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
-A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
+Canvas | A-03 | Lin Di & Sriram Satyavolu | When Do Children Get Flu Shots? | CDC National Immunization Survey, 2014
+Canvas | A-05 | Tom Lavin & Toby Jin | Predicting age differences between romantic leads in movies | Tidy Tuesday 2023-02-14 Hollywood Age Gaps and IMDB Data Files
 
 # Accepted Plans
 
