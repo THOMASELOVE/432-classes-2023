@@ -30,4 +30,4 @@ Materials on time-to-event outcomes are found in Chapters 29-31 of our [Course N
 
 ## Thanks for your patience with me.
 
-I hope to be back to normal next week.
+I hope to be back to "normal" next week.
