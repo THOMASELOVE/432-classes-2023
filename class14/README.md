@@ -10,7 +10,12 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 14 | 2023-03-02 | **[Slides 14](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides14.pdf)** | **[Code 14](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides14.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-## More to come.
+## Announcements
+
+1. Today's class is offered via Zoom only. See Canvas or your email for the link.
+2. Feedback and grades and an answer sketch for Quiz 1 **should be available in time for today's class.**
+3. Project A Plan revisions: details on my progress are [available here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md). 
+    - If I've not yet approved your plan, and you haven't resubmitted to Canvas in the Project A Plan Revisions assignment, do so now. Thank you.
 
 ## Time to Event Data
 
@@ -22,3 +27,7 @@ Materials on time-to-event outcomes are found in Chapters 29-31 of our [Course N
 - For more customization of plots like the Kaplan-Meier curves we'll build today, visit https://rpkgs.datanovia.com/survminer/ or https://github.com/kassambara/survminer/. 
     - For instance, they provide a [PDF cheat sheet](https://rpkgs.datanovia.com/survminer/survminer_cheatsheet.pdf) which was pretty helpful to me.
 - You may also be interested in learning more about concordance in survival analysis (and in general) [from this vignette](https://cran.r-project.org/web/packages/survival/vignettes/concordance.pdf) (pdf).
+
+## Thanks for your patience with me.
+
+I hope to be back to normal next week.
