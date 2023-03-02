@@ -14,9 +14,9 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. Today's class is offered via Zoom only. See Canvas or your email for the link.
 2. A detailed Quiz 1 answer sketch, including class-wide performance and instructions related to regrades for Quiz 1 are now posted (Quarto and PDF) in the **432 Quiz 1 Materials** folder within our **Shared Google Drive**.
-    - We will (briefly) discuss Questions 10, 14, 19, 20, 21, 25 and 27 in class today.
     - Each of you should have two emails from me this morning, one explaining that I'd be sending you your grade via email, and another (with subject line **432 Quiz 1 Results**) which actually contains your responses and points awarded for each of the 28 Questions and the Quiz as a whole.
     - **Please** read and heed the "How to Calculate Your Overall Score" and "How to Complain About Points Awarded" items on page 6 of the Answer Sketch. Thank you.
+    - We will (briefly) discuss Questions 10, 14, 19, 20, 21, 25 and 27 in class today.
 3. Project A Plan revisions: details on my progress are [available here](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md). 
     - If I've not yet approved your plan, and you haven't resubmitted to Canvas in the Project A Plan Revisions assignment, do so now. Thank you.
 
