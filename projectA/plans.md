@@ -15,7 +15,7 @@ There are 47 project A plans. As of this update,
 
 # Dr. Love Awaits Another Submission
 
-Submit your revision to the **Project A Plan Revisions** assignment in Canvas **as soon as possible**, and no later than noon on Thursday 2023-03-02.
+Submit your revision to the **Project A Plan Revisions** assignment in Canvas **as soon as possible**.
 
 Group | Investigator(s) | Title (80 characters or fewer) | Data Source
 :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
