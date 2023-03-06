@@ -12,11 +12,6 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ![](carr_2021-03-26.png)
 
-## What You Should Be Working On
-
-1. Minute Paper after Class 15, due Wednesday 2023-03-08 at noon.
-2. [Project A Portfolio](https://thomaselove.github.io/432-2023/projA.html), due Monday 2023-03-20 at 9 PM.
-
 ## Announcements
 
 1. There is a Minute Paper after Class 15 which will be available **by class time**. Please complete it by noon Wednesday (2023-03-08).
@@ -91,3 +86,7 @@ Take a look at [this toy example with explosive coefficients](https://rpubs.com/
 10. Make sure your headings are in an appropriate order, and that you have 13 main sections in your Project, as laid out in the sample project. Check your HTML to make sure the headings make sense, for instance, `10`, then `10.1`, then `10.1.1.` is OK, but `10`, then `10.0.1` isn't OK.
 11. If you're loading a package not on our [R packages list](https://thomaselove.github.io/432/r_packages.html), then you should definitely indicate why you're doing this at the top of your work as you load it in a short comment. Also, don't load elements of [the core `tidyverse`](https://www.tidyverse.org/packages/) separately: load them with `tidyverse` only.
 
+## What You Should Be Working On
+
+1. Minute Paper after Class 15, due Wednesday 2023-03-08 at noon.
+2. [Project A Portfolio](https://thomaselove.github.io/432-2023/projA.html), due Monday 2023-03-20 at 9 PM.
