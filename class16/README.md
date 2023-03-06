@@ -15,7 +15,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. Feedback on the Minute Paper after Class 15 should be available **by class time**.
 2. Enjoy Spring Break. Our next class will be held on 2023-03-21.
     - Use the time to complete all four elements of your Project A portfolio, which are due to Canvas at 9 PM on Monday 2023-03-20.
-    - No TA office hours will be held beginning Friday 2023-03-10 through Friday 2023-03-17. TA office hours will resume on Saturday 2023-03-18 after this break.
+    - TA office hours will **not** be held beginning Friday 2023-03-10 through Friday 2023-03-17. TA office hours will resume on Saturday 2023-03-18 after this break.
     - Dr. Love will answer his email approximately once per day for 432 matters, and will also address questions posted to Campuswire approximately once per day between 2023-03-10 and 2023-03-19.
 
 ## More to come.
