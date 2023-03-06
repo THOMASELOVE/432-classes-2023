@@ -12,11 +12,22 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ![](carr_2021-03-26.png)
 
+## What You Should Be Working On
+
+1. Minute Paper after Class 15, due Wednesday 2023-03-08 at noon.
+2. [Project A Portfolio](https://thomaselove.github.io/432-2023/projA.html), due Monday 2023-03-20 at 9 PM.
+
 ## Announcements
 
-1. There is a [Minute Paper after Class 15] which will be available **by class time**. Please complete it by noon Wednesday (2023-03-08).
-2. I have posted [several Project A tips below](#a-few-project-a-tips). Remember that Project A is due the Monday after Spring Break, 2023-03-20, at 9 PM.
-3. Remember that we do not have class next week, thanks to Spring Break.
+1. There is a Minute Paper after Class 15 which will be available **by class time**. Please complete it by noon Wednesday (2023-03-08).
+2. Remember that your Project A portfolio is due the Monday after Spring Break, 2023-03-20, at 9 PM.
+    - The [Project A portfolio](https://thomaselove.github.io/432-2023/projA.html#the-project-a-portfolio) consists of these four elements:
+        1. a Quarto (.qmd) file containing containing one unnumbered, and 13 numbered sections (10 of which come from the Plan.)
+        2. an HTML result of applying the Quarto “portfolio” file to your data
+        3. a copy of your tidy data and link to where Professor Love can obtain the raw data freely
+        4. a video (not to exceed 5 minutes) presenting one of your key project results (see the [Presentation materials in the instructions](https://thomaselove.github.io/432-2023/projA.html#the-presentation))
+    - I have posted [several Project A tips below](#a-few-project-a-tips). 
+4. Remember that we do not have class next week, thanks to Spring Break.
   - No TA office hours will be held starting Friday 2023-03-10 through Friday 2023-03-17. TA office hours will reopen on Saturday 2023-03-18.
   - Dr. Love will answer his email no more than once per day for 432 matters, and will also address questions posted to Campuswire no more than once per day, during Spring Break.
 
