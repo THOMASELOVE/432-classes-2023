@@ -15,8 +15,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a [Minute Paper after Class 15] which will be available **by class time**. Please complete it by noon Wednesday (2023-03-08).
-2. I have posted [several Project A tips below](#a-few-project-a-tips).
+2. I have posted [several Project A tips below](#a-few-project-a-tips). Remember that Project A is due the Monday after Spring Break, 2023-03-20, at 9 PM.
 3. Remember that we do not have class next week, thanks to Spring Break.
+  - No TA office hours will be held starting Friday 2023-03-10 through Friday 2023-03-17. TA office hours will reopen on Saturday 2023-03-18.
+  - Dr. Love will answer his email no more than once per day for 432 matters, and will also address questions posted to Campuswire no more than once per day, during Spring Break.
 
 ## This Week's Agenda: Regression on Count Outcomes
 
