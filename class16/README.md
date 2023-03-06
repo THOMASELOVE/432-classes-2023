@@ -19,3 +19,9 @@ Class | Date | PDF | Quarto .qmd | Recording
     - Dr. Love will answer his email approximately once per day for 432 matters, and will also address questions posted to Campuswire approximately once per day between 2023-03-10 and 2023-03-19.
 
 ## More to come.
+
+
+## One Last Thing
+
+- [The new scientific review on masks and Covid isn’t what you think](https://www.vox.com/future-perfect/2023/2/22/23609499/masks-covid-coronavirus-cochrane-review-pandemic-science-studies-infection) by Kelsey Piper at Vox.
+- [Do physical measures such as hand-washing or wearing masks stop or slow down the spread of respiratory viruses?](https://www.cochrane.org/CD006207/ARI_do-physical-measures-such-hand-washing-or-wearing-masks-stop-or-slow-down-spread-respiratory-viruses) is the Cochrane review referred to here.
