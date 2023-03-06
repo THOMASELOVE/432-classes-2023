@@ -13,7 +13,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a [Minute Paper after Class 15] which will be available **by class time**. Please complete it by noon Wednesday (2023-03-08).
-2. I have posted several Project A tips below.
+2. I have posted [several Project A tips below](#a-few-project-a-tips).
 3. Remember that we do not have class next week, thanks to Spring Break.
 
 ## This Week's Agenda: Regression on Count Outcomes
