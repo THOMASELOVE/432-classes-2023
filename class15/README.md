@@ -11,3 +11,14 @@ Class | Date | PDF | Quarto .qmd | Recording
 15 | 2023-03-07 | **[Slides 15](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides15.pdf)** | **[Code 15](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides15.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ## More to come.
+
+
+## On Rootograms
+
+To install the [countreg package from R-Forge](https://r-forge.r-project.org/R/?group_id=522) in R, you will need to use the following command (note that the package is not available on CRAN):
+
+```
+install.packages("countreg", repos="http://R-Forge.R-project.org")
+```
+
+For more on rootograms, check out Kleiber C Zeileis A [Visualizing Count Data Regressions Using Rootograms](rootograms_2016.pdf) from *The American Statistician* 2016.
