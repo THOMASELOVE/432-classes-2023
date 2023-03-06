@@ -16,12 +16,13 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. There is a [Minute Paper after Class 15](https://bit.ly/432-2023-minute-15). Please complete it by noon Wednesday (2023-03-08).
 2. We will post the Lab 5 Answer Sketch and Grading Rubric **by class time** to our Shared Drive.
-3. I have updated Chapter 26 of the [Course Notes](https://thomaselove.github.io/432-notes/) to fix an error in the list of methods discussed in the chapter.
-4. Remember that we do not have class **next** week, thanks to Spring Break.
+3. Those of you wanting me to review some aspect of the grading of your Quiz 1, please send me an email by 9 AM Wednesday, and I will respond that morning to those who've already written to me.
+4. I have updated Chapter 26 of the [Course Notes](https://thomaselove.github.io/432-notes/) to fix an error in the list of methods discussed in the chapter.
+5. Remember that we do not have class **next** week, thanks to Spring Break.
     - Specifically, after our class 16 this Thursday 2023-03-09, the next class (Class 17) will be Tuesday 2023-03-21.
     - No TA office hours will be held beginning Friday 2023-03-10 through Friday 2023-03-17. TA office hours will resume on Saturday 2023-03-18 after this break.
     - Dr. Love will answer his email approximately once per day for 432 matters, and will also address questions posted to Campuswire approximately once per day between 2023-03-10 and 2023-03-19.
-5. Remember that your Project A portfolio is due the Monday after Spring Break, 2023-03-20, at 9 PM.
+6. Remember that your Project A portfolio is due the Monday after Spring Break, 2023-03-20, at 9 PM.
     - The [Project A portfolio](https://thomaselove.github.io/432-2023/projA.html#the-project-a-portfolio) consists of these four elements:
         1. a Quarto (.qmd) file containing containing one unnumbered, and 13 numbered sections (10 of which come from the Plan.)
         2. an HTML result of applying the Quarto “portfolio” file to your data
