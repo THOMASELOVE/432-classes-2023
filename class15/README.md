@@ -10,6 +10,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 15 | 2023-03-07 | **[Slides 15](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides15.pdf)** | **[Code 15](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides15.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](carr_2021-03-26.png)
+
 ## Announcements
 
 1. There is a [Minute Paper after Class 15] which will be available **by class time**. Please complete it by noon Wednesday (2023-03-08).
