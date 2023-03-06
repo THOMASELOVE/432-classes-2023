@@ -14,7 +14,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
 
-1. There is a Minute Paper after Class 15 which will be available **by class time**. Please complete it by noon Wednesday (2023-03-08).
+1. There is a [Minute Paper after Class 15](https://bit.ly/432-2023-minute-15). Please complete it by noon Wednesday (2023-03-08).
 2. We will post the Lab 5 Answer Sketch and Grading Rubric **by class time** to our Shared Drive.
 3. I have updated Chapter 26 of the [Course Notes](https://thomaselove.github.io/432-notes/) to fix an error in the list of methods discussed in the chapter.
 4. Remember that we do not have class **next** week, thanks to Spring Break.
@@ -91,5 +91,5 @@ Take a look at [this toy example with explosive coefficients](https://rpubs.com/
 
 ## What You Should Be Working On
 
-1. Minute Paper after Class 15, due Wednesday 2023-03-08 at noon.
+1. [Minute Paper after Class 15](https://bit.ly/432-2023-minute-15), due Wednesday 2023-03-08 at noon.
 2. [Project A Portfolio](https://thomaselove.github.io/432-2023/projA.html), due Monday 2023-03-20 at 9 PM.
