@@ -33,27 +33,7 @@ Class | Date | PDF | Quarto .qmd | Recording
     - I have posted [several Project A tips below](#a-few-project-a-tips). 
     - All 46 project A plans [have been accepted](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md).
 
-## This Week's Agenda: Regression on Count Outcomes
-
-- Today's slides will be used both today and Thursday (in Class 16).
-
-This week, we'll be presenting some key ideas on fitting models for count outcomes. Counts are discrete (rather than continuous) and counts are typically integers (0, 1, 2, 3 and so on) and cannot be made more precise. Relevant materials are available in Chapters 24-26 of the [Course Notes](https://thomaselove.github.io/432-notes/). 
-
-Methods we will touch on this week include Poisson regression and negative binomial regression, along with augmentations of these two approaches to inflate the number of zeros predicted, and also "hurdle" versions which specify one process for zero counts and another for positive counts. In Chapters 24-26, we discuss all of these, as well as another approach, called a tobit (or censored) regression model.
-
-![](ghement.png)
-
-Here's [a link to the start of the "tweetorial"](https://twitter.com/IsabellaGhement/status/1363957122787024901) on some key practical aspects of understanding Poisson regression models.
-
-## On Rootograms
-
-To install the [countreg package from R-Forge](https://r-forge.r-project.org/R/?group_id=522) in R, you will need to use the following command (note that the package is not available on CRAN):
-
-```
-install.packages("countreg", repos="http://R-Forge.R-project.org")
-```
-
-For more on rootograms, check out Kleiber C Zeileis A [Visualizing Count Data Regressions Using Rootograms](rootograms_2016.pdf) from *The American Statistician* 2016.
+----
 
 # A Few Project A Tips
 
@@ -99,6 +79,32 @@ Take a look at [this toy example with explosive coefficients](https://rpubs.com/
 9. We hate scrolling windows in HTML output caused by code that runs too long on one line. Use the ENTER key liberally to help avoid this problem, and check your HTML to see if it is happening.
 10. Make sure your headings are in an appropriate order, and that you have 13 main sections in your Project, as laid out in the sample project. Check your HTML to make sure the headings make sense, for instance, `10`, then `10.1`, then `10.1.1.` is OK, but `10`, then `10.0.1` isn't OK.
 11. If you're loading a package not on our [R packages list](https://thomaselove.github.io/432-2023/software.html#r-packages-to-install), then you should definitely indicate why you're doing this at the top of your work as you load it in a short comment. Also, don't load elements of [the core `tidyverse`](https://www.tidyverse.org/packages/) separately: load them with `tidyverse` only.
+
+---
+
+## This Week's Agenda: Regression on Count Outcomes
+
+- Today's slides will be used both today and Thursday (in Class 16).
+
+This week, we'll be presenting some key ideas on fitting models for count outcomes. Counts are discrete (rather than continuous) and counts are typically integers (0, 1, 2, 3 and so on) and cannot be made more precise. Relevant materials are available in Chapters 24-26 of the [Course Notes](https://thomaselove.github.io/432-notes/). 
+
+Methods we will touch on this week include Poisson regression and negative binomial regression, along with augmentations of these two approaches to inflate the number of zeros predicted, and also "hurdle" versions which specify one process for zero counts and another for positive counts. In Chapters 24-26, we discuss all of these, as well as another approach, called a tobit (or censored) regression model.
+
+![](ghement.png)
+
+Here's [a link to the start of the "tweetorial"](https://twitter.com/IsabellaGhement/status/1363957122787024901) on some key practical aspects of understanding Poisson regression models.
+
+## On Rootograms
+
+To install the [countreg package from R-Forge](https://r-forge.r-project.org/R/?group_id=522) in R, you will need to use the following command (note that the package is not available on CRAN):
+
+```
+install.packages("countreg", repos="http://R-Forge.R-project.org")
+```
+
+For more on rootograms, check out Kleiber C Zeileis A [Visualizing Count Data Regressions Using Rootograms](rootograms_2016.pdf) from *The American Statistician* 2016.
+
+----
 
 ## What You Should Be Working On
 
