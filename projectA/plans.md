@@ -1,32 +1,6 @@
 # Project A Plans
 
-Last Update: 2023-03-02 at 12:20 PM
-
-There are 47 project A plans. As of this update, 
-- **45** plans have been accepted. 
-- Dr. Love's review queue on Canvas is clear.
-- The 2 other projects which require additional revision should be submitted to Canvas as soon as possible.
-
-## Table of Contents
-
-- [Dr. Love Awaits Another Submission](#dr-love-awaits-another-submission)
-- [Submitted Plans Dr. Love is reviewing](#submitted-plans-dr-love-is-reviewing)
-- [Accepted Plans](#accepted-plans)
-
-# Dr. Love Awaits Another Submission
-
-Submit your revision to the **Project A Plan Revisions** assignment in Canvas **as soon as possible**.
-
-Group | Investigator(s) | Title (80 characters or fewer) | Data Source
-:----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-A-17 | Licia Clowtis | **Title needs revision** (*Predictors of Breast Feeding Duration in children between 0 and 5 years of Age from the 2021 National Survey of Children’s Health Data*) | National Survey of Children's Health 2021
-A-27 | Tracy Kongai | **Title needs spelling fix** (*Strengthen Institutional Accountabiltity using the Urban Catalog Data*) | Urban Institute: 4 Year College Representativeness, 2009-2017
-
-# Submitted Plans Dr. Love is reviewing
-
-Status | Group | Investigator(s) | Title (80 characters or fewer) | Data Source
-:-----: | :----: | :-----------------: | :--------------------------------------------: | :-------------------------------------:
-None
+Last Update: 2023-03-02 at 6:14 PM. All 46 plans have now been accepted. Thanks and good luck!
 
 # Accepted Plans
 
@@ -62,6 +36,7 @@ Score | Group | Investigator(s)| Title | Data Source
 16 | A-24 | Naveen Kannan | Predictors of Heavy E-Cigarette Use among Adults in the United States | ICSPR: Population Assessment of Tobacco and Health (PATH) Study
 16 | A-25 | Ritesh KC | Predicting job outcome and Income Inequality From Women’s Socio-economic Status | Zenodo: LivWell Data Sets
 18 | A-26 | Aqsa Khan | The Interplay of Socio-Economic Predictors and Health Outcomes Among Caregivers | BRFSS 2021
+16 | A-27 | Tracy Kongai | **Title needs spelling fix** (*Strengthen Institutional Accountabiltity using the Urban Catalog Data*) | Urban Institute: 4 Year College Representativeness, 2009-2017
 20 | A-28 | Keisi Kotobelli | Poor mental health days in caregivers of patients with Alzheimer’s disease | BRFSS 2021
 16 | A-29 | Lentlametse Mantshonyane | County-level Predictors of Chlamydia incidence and High Gun Deaths | CHR 2017 and Social Vulnerability Index
 20 | A-30 | Marie Masotya | Birth Control use and decision making in 227 regions worldwide | Zenodo: LivWell Data Sets
