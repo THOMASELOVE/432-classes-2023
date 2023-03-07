@@ -26,6 +26,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 - Sifakaki M et al. (2023) [Orthorexia Nervosa Practices in Rheumatoid Arthritis: The DORA Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9919523/) Nutrients. 2023 Jan 31; 15(3):713. [DOI](https://doi.org/10.3390%2Fnu15030713)
 - Carcaiso V and Grilli L (2022) [Quantile regression for count data: jittering versus regression coefficients modelling in the analysis of credits earned by university students after remote teaching](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9554398/) Stat Methods Appt. 2022 Oct 12 : 1–22. [DOI](https://doi.org/10.1007%2Fs10260-022-00661-2)
 
+--- and see [this page](https://github.com/THOMASELOVE/432-classes-2023/blob/main/sources/recent.md).
+
 ## One Last Thing
 
 - [The new scientific review on masks and Covid isn’t what you think](https://www.vox.com/future-perfect/2023/2/22/23609499/masks-covid-coronavirus-cochrane-review-pandemic-science-studies-infection) by Kelsey Piper at Vox.
