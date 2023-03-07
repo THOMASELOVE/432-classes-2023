@@ -17,7 +17,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. There is a [Minute Paper after Class 15](https://bit.ly/432-2023-minute-15). Please complete it by noon Wednesday (2023-03-08).
 2. We will post the Lab 5 Answer Sketch and Grading Rubric **by class time** to our Shared Drive.
 3. Those of you wanting me to review some aspect of the grading of your Quiz 1, please send me an email by 9 AM tomorrow (Wednesday), and I will respond that morning to those who've already written to me.
-4. I have updated Chapter 26 of the [Course Notes](https://thomaselove.github.io/432-notes/) to fix an error in the list of methods discussed in the chapter, and Chapter 29 to fix a broken link. I also fixed a typo in the Lab 6 instructions.
+4. I have updated Chapter 26 of the [Course Notes](https://thomaselove.github.io/432-notes/) to fix an error in the list of methods discussed in the chapter, and Chapter 29 to fix a broken link. I also fixed a typo in the [Lab 6 instructions](https://thomaselove.github.io/432-2023/lab6.html).
 5. Remember that we do not have class **next** week, thanks to Spring Break.
     - Specifically, after our class 16 this Thursday 2023-03-09, the next class (Class 17) will be Tuesday 2023-03-21.
     - No TA office hours will be held beginning Friday 2023-03-10 through Friday 2023-03-17. TA office hours will resume on Saturday 2023-03-18 after this break.
