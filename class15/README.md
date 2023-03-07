@@ -37,10 +37,9 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 # A Few Project A Tips
 
-- The TAs (first) and Dr. Love (second) will inspect your Quarto and HTML files, and perhaps your data.
-- Dr. Love (alone) will watch your videos. 
-- Dr. Love will decide your project A grade. 
-- This means the videos will have more to do with your final score than you might think.
+- The TAs will spend most of their time in Sections 8-10 of your Quarto and HTML files, addressing a specific set of questions Dr. Love has prepared that follow the Project A proposal instructions for those sections closely.
+- Dr. Love will first watch your videos before he reviews your Discussion (Section 10 of HTML) and then TA comments on specific elements of (Sections 8-9 of your HTML) before he digs further into your work, among other things to ensure that you've acted on any requests associated with the accepted version of your Project A plan.
+- Dr. Love will decide your project A grade. Thus, I expect that (1) the video and (2) the Discussion section will have more to do with your final score than you might think. So do typographical, syntax and grammatical errors.
 
 ## Why I use `read_csv()` all the time, and never use `read.csv()` anymore
 
