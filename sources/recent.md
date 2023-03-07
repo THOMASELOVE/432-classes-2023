@@ -52,7 +52,11 @@ Most of these come from searches done at the PMC Full-Text Archive at <https://w
 
 ## Methods for Regression on Nominal Multi-Categorical Outcomes (Notes, Chapter 28)
 
-- 
+- Bendera A et al. (2022) [Factors Associated with Low Uptake of Medical Male Circumcision Among Adolescent Boys in Tanzania: A Multinomial Logistic Regression Modeling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9785118/) HIV AIDS (Auckl). 2022; 14: 565–575. [DOI](https://doi.org/10.2147%2FHIV.S387380)
+- Verhoeven J et al. (2022) [Patient characteristics and dispatch responses of urinary tract infections in a prehospital setting in Copenhagen, Denmark: a retrospective cohort study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9736713/) BMC Prim Care. 2022; 23: 319. [DOI](https://doi.org/10.1186%2Fs12875-022-01915-4)
+- Sakala N and Kaombe TM (2022) [Analysing outlier communities to child birth weight outcomes in Malawi: application of multinomial logistic regression model diagnostics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9701370/) BMC Pediatr. 2022; 22: 682. [DOI](https://doi.org/10.1186%2Fs12887-022-03742-z)
+- Klu D et al. (2022) [Determinants of communication on sexual issues between adolescents and their parents in the Adaklu district of the Volta region, Ghana: a multinomial logistic regression analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9044737/) Reprod Health. 2022; 19: 101. [DOI](https://doi.org/10.1186%2Fs12978-022-01402-0)
+- Yokoi Y et al. (2022) [How Sleep Quality Relates to Bodily and Oral Symptoms: An Analysis from Japanese National Statistics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9690173/) Healthcare (Basel). 2022 Nov; 10(11): 2298. [DOI](https://doi.org/10.3390%2Fhealthcare10112298)
 
 ## Methods for Time-to-Event Data, especially Cox regression and Kaplan-Meier estimates (Notes, Chapters 29-31)
 
