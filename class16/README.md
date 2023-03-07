@@ -18,8 +18,12 @@ Class | Date | PDF | Quarto .qmd | Recording
     - TA office hours will **not** be held beginning Friday 2023-03-10 through Friday 2023-03-17. TA office hours will resume on Saturday 2023-03-18 after this break.
     - Between 2023-03-10 and 2023-03-19, Dr. Love will answer his email approximately once per day for 432 matters, and will also address questions posted to Campuswire approximately once per day.
 
-## More to come.
+## A Few Recent Papers That Explain Or Use This Week's Methods
 
+- Green JA (2021) [Too many zeros and/or highly skewed? A tutorial on modelling health behaviour as count data with Poisson and negative binomial regression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8159206) Health Psychol Behav Med. 2021; 9(1): 436–455. [DOI](https://doi.org/10.1080%2F21642850.2021.1920416)
+- Fernandez GA and Vatcheva KP (2022) [A comparison of statistical methods for modeling count data with an application to hospital length of stay](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9351158/) BMC Med Res Methodol. 2022; 22: 211. [DOI](https://doi.org/10.1186%2Fs12874-022-01685-8)
+- Schaumberg K et al. (2018) [Improving Prediction of Eating-Related Behavioral Outcomes with Zero-Sensitive Regression Models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6778476/) Appetite. 2018 Oct 1; 129: 252–261. [DOI](https://doi.org/10.1016%2Fj.appet.2018.06.030)
+- Sifakaki M et al. (2023) [Orthorexia Nervosa Practices in Rheumatoid Arthritis: The DORA Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9919523/) Nutrients. 2023 Jan 31; 15(3):713. [DOI](https://doi.org/10.3390%2Fnu15030713)
 
 ## One Last Thing
 
