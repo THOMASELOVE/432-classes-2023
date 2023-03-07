@@ -18,28 +18,34 @@ Class | Date | PDF | Quarto .qmd | Recording
 2. The Lab 5 Answer Sketch and Grading Rubric is now available in the Answer Sketches subfolder in our Shared Drive.
 3. Bonus [Lab X](https://thomaselove.github.io/432-2023/labX.html) now exists. Please take a look.
 4. We've pinned a prompt about "How To Be A Modern Scientist (Discussion 2)" to Campuswire, and will again award class participation credit to people who respond over the next two weeks.
-5. Those of you wanting me to review some aspect of the grading of your Quiz 1, please send me an email by 9 AM tomorrow (Wednesday). I will review them all tomorrow, including those I have already received from Aman, Seth and Tian.
+5. Those of you wanting me to review some aspect of the grading of your Quiz 1, please send me an email by 9 AM tomorrow (Wednesday). 
+    - I will review them all tomorrow, including those I have already received from Aman, Seth and Tian.
 6. I have updated Chapter 26 of the [Course Notes](https://thomaselove.github.io/432-notes/) to fix an error in the list of methods discussed in the chapter, and Chapters 29 and 30 to fix broken links. I also fixed a typo in the [Lab 6 instructions](https://thomaselove.github.io/432-2023/lab6.html).
 7. Remember that we do not have class **next** week, thanks to Spring Break.
     - Specifically, after our class 16 this Thursday 2023-03-09, the next class (Class 17) will be Tuesday 2023-03-21.
     - No TA office hours will be held beginning Friday 2023-03-10 through Friday 2023-03-17. TA office hours will resume on Saturday 2023-03-18 after this break.
     - Dr. Love will answer his email approximately once per day for 432 matters, and will also address questions posted to Campuswire approximately once per day between 2023-03-10 and 2023-03-19.
-8. Remember that your Project A portfolio is due the Monday after Spring Break, 2023-03-20, at 9 PM.
-    - The [Project A portfolio](https://thomaselove.github.io/432-2023/projA.html#the-project-a-portfolio) consists of these four elements:
-        1. a Quarto (.qmd) file containing containing one unnumbered, and 13 numbered sections (10 of which come from the Plan.)
-        2. an HTML result of applying the Quarto “portfolio” file to your data
-        3. a copy of your tidy data and link to where Professor Love can obtain the raw data freely
-        4. a video (not to exceed 5 minutes) presenting one of your key project results (see the [Presentation materials in the instructions](https://thomaselove.github.io/432-2023/projA.html#the-presentation))
-    - I have posted [several Project A tips below](#a-few-project-a-tips). 
-    - All 46 project A plans [have been accepted](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md).
 
 ----
 
 # A Few Project A Tips
 
+Remember that your Project A portfolio is due the Monday after Spring Break, 2023-03-20, at 9 PM.
+
+- The [Project A portfolio](https://thomaselove.github.io/432-2023/projA.html#the-project-a-portfolio) consists of these four elements:
+    1. a Quarto (.qmd) file containing containing one unnumbered, and 13 numbered sections (10 of which come from the Plan.)
+    2. an HTML result of applying the Quarto “portfolio” file to your data
+    3. a copy of your tidy data and link to where Professor Love can obtain the raw data freely
+    4. a video (not to exceed 5 minutes) presenting one of your key project results (see the [Presentation materials in the instructions](https://thomaselove.github.io/432-2023/projA.html#the-presentation))
+    
+All 46 project A plans [have been accepted](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md).
+
+## How Will Project A Be Graded?
+
+- Your project A grade is out of 100 points. 20 of those points were available as part of the plan, while the remaining 80 will be awarded based on all of the materials in your portfolio. You should have your Project A grade on Thursday March 30.
 - The TAs will spend most of their time in Sections 8-10 of your Quarto and HTML files, addressing specific questions Dr. Love will prepare that follow [the Project A proposal instructions for those sections](https://thomaselove.github.io/432-2023/projA.html#the-project-a-portfolio) closely.
 - Dr. Love will first watch your videos before he reviews your Discussion (Section 10 of HTML) and then TA comments on specific elements of (Sections 8-9 of your HTML) before he digs further into your work, among other things to ensure that you've acted on any requests associated with the accepted version of your Project A plan.
-- Dr. Love will decide your project A grade. Thus, I expect that (1) the video and (2) the Discussion section will have more to do with your final score than you might think. So do typographical, syntax and grammatical errors.
+- Dr. Love will then determine your project A grade. Thus, I expect that (1) the video and (2) the Discussion section will have more to do with your final score than you might think. So do typographical, syntax and grammatical errors.
 
 ## Why I use `read_csv()` all the time, and never use `read.csv()` anymore
 
