@@ -56,6 +56,11 @@ For more on rootograms, check out Kleiber C Zeileis A [Visualizing Count Data Re
 
 # A Few Project A Tips
 
+- The TAs (first) and Dr. Love (second) will inspect your Quarto and HTML files, and perhaps your data.
+- Dr. Love (alone) will watch your videos. 
+- Dr. Love will decide your project A grade. 
+- This means the videos will have more to do with your final score than you might think.
+
 ## Why I use `read_csv()` all the time, and never use `read.csv()` anymore
 
 1. `read_csv()` is much faster than `read.csv()`, 
