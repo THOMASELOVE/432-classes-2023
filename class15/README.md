@@ -92,7 +92,7 @@ Take a look at [this toy example with explosive coefficients](https://rpubs.com/
 8. Be sure to run the spell-check, and ideally, have someone else read through your work.
 9. We hate scrolling windows in HTML output caused by code that runs too long on one line. Use the ENTER key liberally to help avoid this problem, and check your HTML to see if it is happening.
 10. Make sure your headings are in an appropriate order, and that you have 13 main sections in your Project, as laid out in the sample project. Check your HTML to make sure the headings make sense, for instance, `10`, then `10.1`, then `10.1.1.` is OK, but `10`, then `10.0.1` isn't OK.
-11. If you're loading a package not on our [R packages list](https://thomaselove.github.io/432/r_packages.html), then you should definitely indicate why you're doing this at the top of your work as you load it in a short comment. Also, don't load elements of [the core `tidyverse`](https://www.tidyverse.org/packages/) separately: load them with `tidyverse` only.
+11. If you're loading a package not on our [R packages list](https://thomaselove.github.io/432-2023/software.html#r-packages-to-install), then you should definitely indicate why you're doing this at the top of your work as you load it in a short comment. Also, don't load elements of [the core `tidyverse`](https://www.tidyverse.org/packages/) separately: load them with `tidyverse` only.
 
 ## What You Should Be Working On
 
