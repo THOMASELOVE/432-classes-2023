@@ -10,6 +10,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 16 | 2023-03-09 | **[Slides (15 and) 16](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides15.pdf)** | **[Code (15 and) 16](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides15.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](taylor_tw.png)
+
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 15 should be available **by class time**.
