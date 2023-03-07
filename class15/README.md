@@ -115,3 +115,13 @@ For more on rootograms, check out Kleiber C Zeileis A [Visualizing Count Data Re
 
 1. [Minute Paper after Class 15](https://bit.ly/432-2023-minute-15), due Wednesday 2023-03-08 at noon.
 2. [Project A Portfolio](https://thomaselove.github.io/432-2023/projA.html), due Monday 2023-03-20 at 9 PM.
+
+----
+
+## One Last Thing
+
+Despite rumors to the contrary, this is not how I will look when grading your Projects.
+
+![](tptgw_3049.png)
+
+I no longer have the mustache.
