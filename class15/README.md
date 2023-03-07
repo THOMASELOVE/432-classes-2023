@@ -15,7 +15,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a [Minute Paper after Class 15](https://bit.ly/432-2023-minute-15). Please complete it by noon Wednesday (2023-03-08).
-2. We will post the Lab 5 Answer Sketch and Grading Rubric **by class time** to our Shared Drive.
+2. The Lab 5 Answer Sketch and Grading Rubric is now available in the Answer Sketches subfolder in our Shared Drive.
 3. Bonus [Lab X](https://thomaselove.github.io/432-2023/labX.html) now exists. Please take a look.
 4. We've pinned a prompt about "How To Be A Modern Scientist (Discussion 2)" to Campuswire, and will again award class participation credit to people who respond over the next two weeks.
 5. Those of you wanting me to review some aspect of the grading of your Quiz 1, please send me an email by 9 AM tomorrow (Wednesday). I will review them all tomorrow, including those I have already received from Aman, Seth and Tian.
