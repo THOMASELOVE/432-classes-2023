@@ -31,6 +31,7 @@ Class | Date | PDF | Quarto .qmd | Recording
         3. a copy of your tidy data and link to where Professor Love can obtain the raw data freely
         4. a video (not to exceed 5 minutes) presenting one of your key project results (see the [Presentation materials in the instructions](https://thomaselove.github.io/432-2023/projA.html#the-presentation))
     - I have posted [several Project A tips below](#a-few-project-a-tips). 
+    - All 46 project A plans [have been accepted](https://github.com/THOMASELOVE/432-classes-2023/blob/main/projectA/plans.md).
 
 ## This Week's Agenda: Regression on Count Outcomes
 
