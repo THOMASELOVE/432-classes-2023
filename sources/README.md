@@ -17,6 +17,10 @@ All of these items will be linked through [Class READMEs](https://github.com/THO
     - Here's [the book's website](https://dspiegel29.github.io/ArtofStatistics/) which contains R code, corrections and other materials.
 - (432) Jeffrey Leek [How to be a Modern Scientist](https://leanpub.com/modernscientist) available via Leanpub.
 
+## A Few Full-Text Open Source Papers (since 2018) that Explain or Use 432 Methods
+
+I've separated this into [its own page now](recent.md).
+
 ## YouTube Video Series Recommended by Dr. Love
 
 1. Frank Harrell's [Biostatistics for Biomedical Research (BBR) Course](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA/videos) includes a series of lectures on many of the topics we'll be discussing in 432, in addition to several late-breaking items. Details on the course are available [here](https://hbiostat.org/bbr/) and the notes are linked in the Statistics and Modeling books below.
