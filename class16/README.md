@@ -40,6 +40,7 @@ Here's the list from that page for Regression on Count Outcomes...
 ## What Should I Be Working On?
 
 1. [Project A Portfolio](https://thomaselove.github.io/432-2023/projA.html) - be sure to complete all of the necessary tasks and submit everything by Monday 2023-03-20 at 9 PM.
+    - If you're worried that you're not doing something you should be doing, [this template](https://github.com/THOMASELOVE/432-data/blob/master/templates/projectAportfolio_template.qmd) and this set of instructions for [Section 8](https://thomaselove.github.io/432-2023/projA.html#new-section-8.-linear-regression-analyses), [Section 9](https://thomaselove.github.io/432-2023/projA.html#new-section-9.-logistic-regression-analyses) and [Section 10](https://thomaselove.github.io/432-2023/projA.html#new-section-10.-discussion) are meant to take that worry away.
     - Remember the [tips posted to the Class 15 README](https://github.com/THOMASELOVE/432-classes-2023/tree/main/class15#a-few-project-a-tips).
 2. We've pinned a prompt about "How To Be A Modern Scientist (Discussion 2)" to Campuswire, and will again award class participation credit to people who respond by 2023-03-22 at noon.
 3. A reminder that bonus [Lab X](https://thomaselove.github.io/432-2023/labX.html) now exists. Please take a look.
