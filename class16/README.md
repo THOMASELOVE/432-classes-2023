@@ -17,8 +17,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. Feedback on the Minute Paper after Class 15 should be available **by class time**.
 2. I fixed a typo on slide 31 of [Slides Set 9](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides09.pdf).
 3. I changed the grading of questions 21 and 25-27 on Quiz 1. 
-    - No one lost credit, but some people (they have heard from me via email) have higher scores now. 
-    - The updated Answer Sketch and Grading Rubric incorporating these changes will replace the old one on our Shared Drive **by class time**.
+    - No one lost credit, but 12 people (they have heard from me via email) have higher scores now.
+    - The updated Answer Sketch and Grading Rubric incorporating these changes is now posted in place of the old one on our Shared Drive.
 4. Enjoy Spring Break. Our next class will be held on 2023-03-21.
     - Use the time to complete all four elements of your Project A portfolio, which are due to Canvas at 9 PM on Monday 2023-03-20.
     - TA office hours will **not** be held beginning Friday 2023-03-10 through Friday 2023-03-17. TA office hours will resume on Saturday 2023-03-18 after this break.
