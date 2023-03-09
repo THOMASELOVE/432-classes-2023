@@ -15,6 +15,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 15 [is now available](min-15-feedback.pdf).
+    - I'll add one more thought: don't assume that LASSO is the only reasonable way to work on the problem of model selection just because it's the only one I've mentioned so far that I don't hate. There are plenty of other good approaches. Some of them even include stepwise regression as part of what they do. But plain vanilla stepwise approaches don't work well.
 2. I fixed a typo on slide 31 of [Slides Set 9](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides09.pdf).
 3. I changed the grading of questions 21 and 25-27 on Quiz 1. 
     - No one lost credit, but 12 people (they have heard from me via email) have higher scores now.
