@@ -14,7 +14,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Feedback on the Minute Paper after Class 15 should be available **by class time**.
+1. Feedback on the Minute Paper after Class 15 [is now available](min-15-feedback.pdf).
 2. I fixed a typo on slide 31 of [Slides Set 9](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides09.pdf).
 3. I changed the grading of questions 21 and 25-27 on Quiz 1. 
     - No one lost credit, but 12 people (they have heard from me via email) have higher scores now.
