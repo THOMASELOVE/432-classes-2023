@@ -10,3 +10,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 26 | 2023-04-25 | **[Slides 26](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides26.pdf)** | **[Code 26](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides26.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## What Should I Be Working On?
+
+1. There is a Minute Paper after Class 26 due at noon Wednesday 2023-04-26. It will be posted **by class time**.
+2. To receive credit for [Bonus Lab X](https://thomaselove.github.io/432-2023/labX.html), you must complete your submission by noon tomorrow, as well (Wednesday 2023-04-26).
