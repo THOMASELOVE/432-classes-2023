@@ -10,3 +10,6 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 19 | 2023-03-28 | **[Slides 19](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides19.pdf)** | **[Code 19](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides19.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## What Should I Be Working On?
+
+1. There is a Minute Paper after Class 19 due at noon Wednesday 2023-03-29. It will be posted **by class time**.
