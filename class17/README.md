@@ -17,4 +17,6 @@ Class | Date | PDF | Quarto .qmd | Recording
     - Our class originally scheduled for Thursday 2023-04-20 will instead be an (optional) "Ask Dr. Love Anything" session, conducted via Zoom (using the same PQHS/CRSP/MPHP 432 Class Zoom link as usual.) This change is to give you a bit more time (just under a full week) with Quiz 2, and to give you the chance to ask me questions at a time when I expect you'll have some.
 2. Our next class (Class 18 on Thursday 2023-03-23) is also unusual in that it will be held **via Zoom only**, because our regular classroom is unavailable. 
 
-More to come.
+## What Should I Be Working On?
+
+1. There is a Minute Paper after Class 17 due at noon Wednesday 2023-03-22. It will be posted **by class time**.1
