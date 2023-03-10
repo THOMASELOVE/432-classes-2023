@@ -10,3 +10,11 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 17 | 2023-03-21 | **[Slides 17](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides17.pdf)** | **[Code 17](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides17.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## Announcements
+
+1. There are now 27 classes scheduled rather than 28.
+    - This necessitated slight changes to [the Syllabus](https://thomaselove.github.io/432-syllabus-2023/) (some typos, fixing the count of Minute Papers), the [Minute Paper page](https://github.com/THOMASELOVE/432-minute-2023), and [the Calendar](https://thomaselove.github.io/432-2023/calendar.html). 
+    - Our class originally scheduled for Thursday 2023-04-20 will instead be an (optional) "Ask Dr. Love Anything" session, conducted via Zoom. This change is to give you more time (just under a full week) with Quiz 2, and to give you the chance to ask me questions at a time when I expect you'll have some.
+2. Our next class (Class 18 on Thursday 2023-03-23) is also unusual in that it will be held **via Zoom only**, because our regular classroom is unavailable. 
+
+More to come.
