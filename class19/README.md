@@ -13,3 +13,5 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## What Should I Be Working On?
 
 1. There is a Minute Paper after Class 19 due at noon Wednesday 2023-03-29. It will be posted **by class time**.
+2. [Lab 7](https://thomaselove.github.io/432-2023/lab7.html) is due Monday 2023-04-03 at 9 PM. This Lab uses ideas from Classes 7-10, 17 and 19.
+3. Your [Project B Proposal Form](https://thomaselove.github.io/432-2023/projB.html) is due Monday 2023-04-10 at 9 PM.
