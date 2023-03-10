@@ -10,3 +10,6 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 23 | 2023-04-11 | **[Slides 23](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides23.pdf)** | **[Code 23](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides23.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## What Should I Be Working On?
+
+1. There is a Minute Paper after Class 23 due at noon Wednesday 2023-04-12. It will be posted **by class time**.
