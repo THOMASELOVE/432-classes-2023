@@ -10,3 +10,6 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 27 | 2023-04-27 | **[Slides 27](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides27.pdf)** | **[Code 27](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides27.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## What Should I Be Working On?
+
+1. Your Project B Presentation (schedule **to be posted**), and your Project B Portfolio, which is due at NOON on Tuesday 2023-05-09.
