@@ -12,4 +12,6 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## What Should I Be Working On?
 
-1. [Bonus Lab X](https://thomaselove.github.io/432-2023/labX.html): to receive credit, you must complete your submission by noon on Wednesday 2023-04-26.
+1. Your [Project B Proposal Form](https://thomaselove.github.io/432-2023/projB.html) is due Monday 2023-04-10 at 9 PM.
+2. [Lab 8](https://thomaselove.github.io/432-2023/lab8.html) is due Monday 2023-04-17 at 9 PM. The Lab mostly uses ideas presented in Classes 21-23.
+3. [Bonus Lab X](https://thomaselove.github.io/432-2023/labX.html): to receive credit, you must complete your submission by noon on Wednesday 2023-04-26.
