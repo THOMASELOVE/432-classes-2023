@@ -13,3 +13,5 @@ Class | Date | PDF | Quarto .qmd | Recording
 ## What Should I Be Working On?
 
 1. Your Project B Presentation (schedule **to be posted**), and your Project B Portfolio, which is due at NOON on Tuesday 2023-05-09.
+2. The (optional) [Lab Regrade Request Form](https://bit.ly/432-2023-lab-regrades) is also due at NOON on Tuesday 2023-05-09.
+3. When you are prompted (via email) by the University (usually in late April), please visit https://webapps.case.edu/courseevals/ and complete the course evaluations before they close. Thanks.
