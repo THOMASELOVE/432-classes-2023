@@ -10,3 +10,6 @@ Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 20 | 2023-03-30 | **[Slides 20](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides20.pdf)** | **[Code 20](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides20.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## What Should I Be Working On?
+
+1. [Bonus Lab X](https://thomaselove.github.io/432-2023/labX.html): to receive credit, you must complete your submission by noon on Wednesday 2023-04-26.
