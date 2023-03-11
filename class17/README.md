@@ -15,7 +15,8 @@ Class | Date | PDF | Quarto .qmd | Recording
 1. There are now 27 classes scheduled rather than 28.
     - This necessitated slight changes to [the Syllabus](https://thomaselove.github.io/432-syllabus-2023/) (some typos, fixing the count of Minute Papers), the [Minute Paper page](https://github.com/THOMASELOVE/432-minute-2023), and [the Calendar](https://thomaselove.github.io/432-2023/calendar.html). 
     - Our class originally scheduled for Thursday 2023-04-20 will instead be an (optional) "Ask Dr. Love Anything" session, conducted via Zoom (using the same PQHS/CRSP/MPHP 432 Class Zoom link as usual.) This change is to give you a bit more time (just under a full week) with Quiz 2, and to give you the chance to ask me questions at a time when I expect you'll have some.
-2. Our next class (Class 18 on Thursday 2023-03-23) is also unusual in that it will be held **via Zoom only**, because our regular classroom is unavailable. 
+2. I made a small adjustment to [Lab 7](https://thomaselove.github.io/432-2023/lab7.html), in terms of how it will be graded, but this shouldn't affect your response at all.
+3. Our next class (Class 18 on Thursday 2023-03-23) is also unusual in that it will be held **via Zoom only**, because our regular classroom is unavailable. 
 
 ## What Should I Be Working On?
 
