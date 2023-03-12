@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Class | Date | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
-15 | 2023-03-07 | **[Slides 15 (and 16)](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides15.pdf)** | **[Code 15 (and 16)](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides15.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+15 | 2023-03-07 | **[Slides 15 (and 16)](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides15_16.pdf)** | **[Code 15 (and 16)](https://github.com/THOMASELOVE/432-slides-2023/blob/main/slides15_16.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ![](carr_2021-03-26.png)
 
